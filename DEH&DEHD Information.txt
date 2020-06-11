@@ -1,0 +1,81 @@
+Dead End Heaven
+Makes the game Moderately to Extremely difficult.
+
+WARNING! Do not invite random people for the sole purpose of killing their survivors with this mod!
+WARNING! Do not invite random people for the sole purpose of killing their survivors with this mod!
+
+The Difficulty of this mod scales with the size and total standing of your community.
+Having 8 Survivors with Hero Standing will put the mod into Max Difficulty.
+
+==================================================================================
+==================================================================================
+
+What this mod does:
+~ Increased Plague Heart Health
+~ Plague Heart takes increased damage from Melee and fire but takes greatly reduced gun and explosive damage.
+~ Plague Heart can spawn Special Infected when attacked. (Bloater, Feral)
+~ Plague Heart has increased zombie spawn with nearly no cooldown.
+~ Plague Heart can spawn up to 4 Blood Ferals max.
+~ Blood Ferals take less headshots to kill
+~ All Freaks can now spawn in the field. Except for Blood Ferals.
+~ The amount of Ambient Zombies spawned is greatly increased.
+~ Ferals have increased Car Dodge Cooldown
+~ Hordes and Special Infected are more pronounced.
+~ Bloodfestation [Based on Heilos' Inf. Infestation]
+~ Bloater Cloud is 5 times it's regular size while Blood Bloater Cloud is 2x
+~ Plague Damage of Blood Bloater Cloud is cut by half
+~ Increased Plague Heart cloud area
+~ Plague Heart Burst and Cloud events now attract zombies
+~ Altered Plague Heart Drops
+
+==================================================================================
+==================================================================================
+==================================================================================
+
+Dead End Heaven: Deicide
+Makes the game Extremely difficult. It is highly recommended to play with
+legacy characters, Red Talon Soldiers or having an existing community move to a new map for the mod to take full effect.
+
+The Difficulty of this mod scales with the size and total standing of your community.
+Having 8 Survivors with Hero Standing will put the mod into Max Difficulty.
+
+==================================================================================
+==================================================================================
+
+What this mod does:
+~ Increased Plague Heart Health
+~ Plague Heart takes increased damage from Melee and fire but takes greatly reduced gun and explosive damage.
+~ Plague Heart can now spawn a maximum of 8 Blood Ferals
+~ Plague Heart can spawn Special Infected when attacked. (Bloater, Feral)
+~ Plague Heart has increased zombie spawn with nearly no cooldown.
+~ Plague Heart gas ignores obstacles and will slowly expand over time
+~ Plague Heart gas damage increased and deals plague damage
+~ Plague Heart Burst and Cloud events now attract zombies
+~ Altered Plague Heart Drops
+~ Screamer loudness increased greatly
+~ Blood Ferals take more headshots to kill
+~ Ferals have increased Car Dodge Cooldown
+~ Tougher Juggernaut
+~ Zeds scream louder
+~ Regular Bloater Clouds is 5x it's normal size while Blood Bloater Cloud is 2x.
+~ Plague Damage from Blood Bloater Cloud is cut in half.
+~ All versions of Special Infected can spawn in the field
+~ Radio Unlocked - CLEO Drone, Recon Drone, Words of TheZeru, Combat Resupply, Red Talon Care Package, Mortar Barrage
+~ CLEO Drone - Call in a CLEO Drone to provide covering fire for a set duration
+~ Words of TheZeru - Restores Health, removes trauma and fatigue.
+~ Combat Resupply - Provides rifle ammunition, meds, and throwables.
+~ Red Talon Care Package - RT drops a supply case that contains resources for your base.
+~ Mortar Barrage - Call in loud ordinance over a wide area you designated.
+[You are immune to the mortars and mortar blasts ignore obstacles. More shells and increased loudness for distraction]
+~ Increased the amount of ammo you can carry.
+~ Increased the amount of some consumables you can carry.
+~ Roll of Firework Crackers effectiveness has been increased.
+~ Reduced Safe Zone sizes
+~ Bloodfestation [Based on Heilos' Inf. Infestation]
+~ Enhanced Plague Cures can now persist in main game and Heartland.
+~ Most throwables now explode on impact.
+~ Buffed most fire based throwables
+
+==================================================================================
+==================================================================================
+==================================================================================
