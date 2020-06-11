@@ -10,7 +10,7 @@ Having 8 Survivors with Hero Standing will put the mod into Max Difficulty.
 ==================================================================================
 ==================================================================================
 
-What this mod does:
+What Dead End Heaven does:
 ~ Increased Plague Heart Health
 ~ Plague Heart takes increased damage from Melee and fire but takes greatly reduced gun and explosive damage.
 ~ Plague Heart can spawn Special Infected when attacked. (Bloater, Feral)
@@ -42,8 +42,8 @@ Having 8 Survivors with Hero Standing will put the mod into Max Difficulty.
 ==================================================================================
 ==================================================================================
 
-What this mod does:
-~ Increased Plague Heart Health
+What Dead End Heaven: Deicide does:
+~ Increased Plague Heart Health [More than DEH]
 ~ Plague Heart takes increased damage from Melee and fire but takes greatly reduced gun and explosive damage.
 ~ Plague Heart can now spawn a maximum of 8 Blood Ferals
 ~ Plague Heart can spawn Special Infected when attacked. (Bloater, Feral)
