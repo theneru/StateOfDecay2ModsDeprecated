@@ -61,12 +61,6 @@ What Dead End Heaven: Deicide does:
 ~ Plague Damage from Blood Bloater Cloud is cut in half.
 ~ All versions of Special Infected can spawn in the field
 ~ Radio Unlocked - CLEO Drone, Recon Drone, Words of TheZeru, Combat Resupply, Red Talon Care Package, Mortar Barrage
-~ CLEO Drone - Call in a CLEO Drone to provide covering fire for a set duration
-~ Words of TheZeru - Restores Health, removes trauma and fatigue.
-~ Combat Resupply - Provides rifle ammunition, meds, and throwables.
-~ Red Talon Care Package - RT drops a supply case that contains resources for your base.
-~ Mortar Barrage - Call in loud ordinance over a wide area you designated.
-[You are immune to the mortars and mortar blasts ignore obstacles. More shells and increased loudness for distraction]
 ~ Increased the amount of ammo you can carry.
 ~ Increased the amount of some consumables you can carry.
 ~ Roll of Firework Crackers effectiveness has been increased.
@@ -75,6 +69,14 @@ What Dead End Heaven: Deicide does:
 ~ Enhanced Plague Cures can now persist in main game and Heartland.
 ~ Most throwables now explode on impact.
 ~ Buffed most fire based throwables
+
+Radio Unlock Effects
+~ CLEO Drone - Call in a CLEO Drone to provide covering fire for a set duration
+~ Words of TheZeru - Restores Health, removes trauma and fatigue.
+~ Combat Resupply - A Supply Case is dropped nearby which provides rifle ammunition, meds, and throwables.
+~ Red Talon Care Package - RT drops a Supply Case that contains resources for your base.
+~ Mortar Barrage - Call in loud ordinance over a wide area you designated.
+[You are immune to the mortars and mortar blasts ignore obstacles. More shells and increased loudness for distraction]
 
 ==================================================================================
 ==================================================================================
