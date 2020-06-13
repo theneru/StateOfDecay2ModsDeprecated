@@ -47,7 +47,7 @@ Having 10 Survivors with Hero Standing will put the mod into Max Difficulty.
 ==================================================================================
 ==================================================================================
 
-What Dead End Heaven: Deicide does:
+What Dead End Heaven Deicide does:
 ~ Increased Plague Heart Health [More than DEH]
 ~ Plague Heart takes increased damage from Melee and fire but takes greatly reduced gun and explosive damage
 ~ Plague Heart can now spawn a maximum of 8 Blood Ferals
@@ -94,4 +94,6 @@ Radio Unlock Effects
 ~ Plague Busters can now persist in main game and Heartland
 ~ Further Adjusted Scaling
 ~ Plague Hearts can now drop Enhanced Plague Cure
+~ Plague Hearts can now drop Scentblocks
 ~ Both difficulties will be at Max if the Community has 10 Heroes
+~ Added several more guns in the Plague Heart drops
