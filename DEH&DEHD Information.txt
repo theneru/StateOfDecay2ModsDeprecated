@@ -89,7 +89,12 @@ Radio Unlock Effects
 ==================================================================================
 ==================================================================================
 
-2.0+ Changes for Dead End Heaven and Deicide
+2.1+ Changes for Dead End Heaven and Deicide [Soon]
+~ Better Starter Items
+~ Better armed enclaves
+~ Better trades
+
+2.0+ Changes for Dead End Heaven and Deicide [Updated 06-13-20]
 ~ Bloater Glands can now persist in main game and Heartland
 ~ Plague Busters can now persist in main game and Heartland
 ~ Further Adjusted Scaling
