@@ -89,7 +89,7 @@ Radio Unlock Effects
 ==================================================================================
 ==================================================================================
 
-2.1+ Changes for Dead End Heaven and Deicide [Soon]
+2.1+ Changes for Dead End Heaven and Deicide [Soon] [06-14-20]
 ~ Better Starter Items
 ~ Better armed enclaves
 ~ Better trades
