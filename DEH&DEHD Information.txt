@@ -32,7 +32,7 @@ What Dead End Heaven does:
 ~ Enhanced Plague Cures can now persist in main game and Heartland
 ~ Bloater Glands can now persist in main game and Heartland
 ~ Plague Busters can now persist in main game and Heartland
-~ Better Starter Items
+~ Better Starter Items [Guns, ammo, sacks, consumables, throwable]
 ~ Better Armed Enclaves
 ~ Better Enclave Trades [V0.1]
 
@@ -79,7 +79,7 @@ What Dead End Heaven Deicide does:
 ~ Plague Busters can now persist in main game and Heartland
 ~ Most throwables now explode on impact
 ~ Buffed most fire based throwables
-~ Better Starter Items
+~ Better Starter Items [Guns, ammo, sacks, consumables, throwable]
 ~ Better Armed Enclaves
 ~ Better Enclave Trades [V0.1]
 
@@ -99,7 +99,7 @@ Radio Unlock Effects
 ~ Last of Us difficulty level
 
 2.1+ Changes for Dead End Heaven and Deicide [Updated 06-14-20]
-~ Better Starter Items
+~ Better Starter Items [Guns, ammo, sacks, consumables, throwable]
 ~ Better Armed Enclaves
 ~ Better Enclave Trades [V0.1]
 
