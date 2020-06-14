@@ -89,16 +89,16 @@ Radio Unlock Effects
 ==================================================================================
 ==================================================================================
 
-2.1+ Changes for Dead End Heaven and Deicide [Soon] [06-14-20]
+2.++ Changes for Dead End Heaven Deicide [Soon] [06-14-20]
+~ Last of Us difficulty level
+
+2.1+ Changes for Dead End Heaven and Deicide [Updated 06-14-20]
 ~ Better Starter Items
 ~ Better Armed Enclaves
 ~ Better Enclave Trades [V0.1]
 
-2.1+ Changes for Dead End Heaven [Soon] [06-14-20]
+2.1+ Changes for Dead End Heaven [Updated 06-14-20]
 ~ Removed files that belonged to DEHD
-
-2.++ Changes for Dead End Heaven Deicide [Soon] [06-14-20]
-~ Last of Us difficulty level
 
 2.0+ Changes for Dead End Heaven and Deicide [Updated 06-13-20]
 ~ Bloater Glands can now persist in main game and Heartland
