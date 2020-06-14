@@ -32,6 +32,9 @@ What Dead End Heaven does:
 ~ Enhanced Plague Cures can now persist in main game and Heartland
 ~ Bloater Glands can now persist in main game and Heartland
 ~ Plague Busters can now persist in main game and Heartland
+~ Better Starter Items
+~ Better Armed Enclaves
+~ Better Enclave Trades [V0.1]
 
 ==================================================================================
 ==================================================================================
@@ -76,6 +79,9 @@ What Dead End Heaven Deicide does:
 ~ Plague Busters can now persist in main game and Heartland
 ~ Most throwables now explode on impact
 ~ Buffed most fire based throwables
+~ Better Starter Items
+~ Better Armed Enclaves
+~ Better Enclave Trades [V0.1]
 
 Radio Unlock Effects
 ~ CLEO Drone - Call in a CLEO Drone to provide covering fire for a set duration
