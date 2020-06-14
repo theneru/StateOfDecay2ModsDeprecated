@@ -94,6 +94,9 @@ Radio Unlock Effects
 ~ Better Armed Enclaves
 ~ Better Enclave Trades [V0.1]
 
+2.1+ Changes for Dead End Heaven [Soon] [06-14-20]
+~ Removed files that belonged to DEHD
+
 2.++ Changes for Dead End Heaven Deicide [Soon] [06-14-20]
 ~ Last of Us difficulty level
 
