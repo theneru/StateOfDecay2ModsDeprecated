@@ -103,6 +103,7 @@ CHANGELOGS AND PLANS
 2.2+ Changes for Dead End Heaven and Deicide [Soon] [06-17-20]
 ~ Scaling Overhaul
 ~ Removed mixed files [again]
+~ Fixed mixed files
 
 2.1+ Changes for Dead End Heaven and Deicide [Updated 06-14-20]
 ~ Better Starter Items [Guns, ammo, sacks, consumables, throwable]
