@@ -100,7 +100,7 @@ CHANGELOGS AND PLANS
 2.++ Changes for Dead End Heaven Deicide [Soon] [06-14-20]
 ~ Last of Us difficulty level
 
-2.2+ Changes for Dead End Heaven and Deicide [Soon] [06-17-20]
+2.2+ Changes for Dead End Heaven and Deicide [06-17-20]
 ~ Scaling Overhaul
 ~ Removed mixed files [again]
 ~ Fixed mixed files
