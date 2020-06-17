@@ -82,7 +82,7 @@ What Dead End Heaven Deicide does:
 ~ Better Starter Items [Guns, ammo, sacks, consumables, throwable]
 ~ Better Armed Enclaves
 ~ Better Enclave Trades [V0.1]
-~ Last of Us difficulty level [Active when community has 14 Heroes]
+~ Last of Us difficulty level [Active when community has 14 Heroes in Nightmare Zone]
 
 Radio Unlock Effects
 ~ CLEO Drone - Call in a CLEO Drone to provide covering fire for a set duration
@@ -102,7 +102,7 @@ CHANGELOGS AND PLANS
 ~ Scaling Overhaul
 ~ Removed mixed files [again]
 ~ Fixed mixed files
-~ Last of Us difficulty level
+~ Last of Us difficulty level [Deicide Only at Nightmare]
 
 2.1+ Changes for Dead End Heaven and Deicide [Updated 06-14-20]
 ~ Better Starter Items [Guns, ammo, sacks, consumables, throwable]
