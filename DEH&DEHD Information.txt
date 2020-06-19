@@ -108,11 +108,14 @@ CHANGELOGS AND PLANS
 
 2.3+ Changes for Dead End Heaven and Deicide [Soon] [06-19-20]
 ~ Adjusted Loot Tables
+~ Adjusted Random Ammo Table
 ~ Certain actions have their noises cut by half
 ~ Chance of Lockdoor increased [DEHD has slightly higher chance]
 ~ Added 1 more gun to possible guns to start with
 ~ Non-player controlled Community members now take 60% less damage
 ~ Increased damage immunity duration during FFL State
+~ Survivors will now always start with 4 pockets
+~ Time to recover from fatigue and trauma reduced
 
 2.2+ Changes for Dead End Heaven and Deicide [06-17-20]
 ~ Scaling Overhaul
