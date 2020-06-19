@@ -107,6 +107,7 @@ CHANGELOGS AND PLANS
 ~ Better Enclave Trades [V0.2]
 
 2.3+ Changes for Dead End Heaven and Deicide [Soon] [06-19-20]
+~ Adjusted Plague Heart Stats
 ~ Adjusted Loot Tables
 ~ Adjusted Random Ammo Table
 ~ Certain actions have their noises cut by half
