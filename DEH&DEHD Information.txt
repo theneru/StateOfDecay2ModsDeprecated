@@ -101,6 +101,19 @@ Radio Unlock Effects
 
 CHANGELOGS AND PLANS
 
+2.++ Changes for Dead End Heaven and Deicide [Soon] [06-19-20]
+~ Decreased resources
+~ Altered Rucksacks to be embedded into DEH and DEHD
+~ Better Enclave Trades [V0.2]
+
+2.3+ Changes for Dead End Heaven and Deicide [Soon] [06-19-20]
+~ Adjusted Loot Tables
+~ Certain actions have their noises cut by half
+~ Chance of Lockdoor increased [DEHD has slightly higher chance]
+~ Added 1 more gun to possible guns to start with
+~ Non-player controlled Community members now take 60% less damage
+~ Increased damage immunity duration during FFL State
+
 2.2+ Changes for Dead End Heaven and Deicide [06-17-20]
 ~ Scaling Overhaul
 ~ Removed mixed files [again]
