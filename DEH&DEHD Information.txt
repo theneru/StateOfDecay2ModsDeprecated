@@ -110,6 +110,7 @@ CHANGELOGS AND PLANS
 ~ Adjusted Plague Heart Stats
 ~ Adjusted Loot Tables
 ~ Adjusted Random Ammo Table
+~ Adjusted Vehicle Durability
 ~ Certain actions have their noises cut by half
 ~ Chance of Lockdoor increased [DEHD has slightly higher chance]
 ~ Added 1 more gun to possible guns to start with
