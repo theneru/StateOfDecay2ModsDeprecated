@@ -102,12 +102,15 @@ Radio Unlock Effects
 
 CHANGELOGS AND PLANS
 
-2.++ Changes for Dead End Heaven and Deicide [Soon] [06-19-20]
+2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20]
 ~ Decreased resources
+~ More gun variety to enclaves [Non Legacy Arcs]
+~ Enclaves take less damage
+~ Enclaves take more plague damage
 ~ Better Enclave Trades [V0.2]
 
-2.3+ Changes for Dead End Heaven and Deicide [Soon] [06-19-20] - [06-21-20]
-~ Adjusted Plague Heart Stats [Weaker]
+2.3+ Changes for Dead End Heaven and Deicide [Implemented] [06-22-20]
+~ Adjusted Plague Heart Stats [Made Hearts Weaker]
 ~ Adjusted Loot Tables
 ~ Adjusted Random Ammo Table
 ~ Adjusted Vehicle Durability
@@ -127,21 +130,21 @@ CHANGELOGS AND PLANS
 ~ Further increased the amount of ammo you can carry
 ~ Embedded Altered Rucksacks [DEH Ver]
 
-2.2+ Changes for Dead End Heaven and Deicide [06-17-20]
+2.2+ Changes for Dead End Heaven and Deicide [Implemented] [06-17-20]
 ~ Scaling Overhaul
 ~ Removed mixed files [again]
 ~ Fixed mixed files
 ~ Last of Us difficulty level [Deicide Only at Nightmare]
 
-2.1+ Changes for Dead End Heaven and Deicide [Updated 06-14-20]
+2.1+ Changes for Dead End Heaven and Deicide [Implemented] [06-14-20]
 ~ Better Starter Items [Guns, ammo, sacks, consumables, throwable]
 ~ Better Armed Enclaves
 ~ Better Enclave Trades [V0.1]
 
-2.1+ Changes for Dead End Heaven [Updated 06-14-20]
+2.1+ Changes for Dead End Heaven [Implemented] [06-14-20]
 ~ Removed files that belonged to DEHD
 
-2.0+ Changes for Dead End Heaven and Deicide [Updated 06-13-20]
+2.0+ Changes for Dead End Heaven and Deicide [Implemented] [06-13-20]
 ~ Bloater Glands can now persist in main game and Heartland
 ~ Plague Busters can now persist in main game and Heartland
 ~ Further Adjusted Scaling
