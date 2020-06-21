@@ -120,7 +120,8 @@ CHANGELOGS AND PLANS
 ~ Survivors will now always start with 4 pockets
 ~ Time to recover from fatigue and trauma reduced
 ~ Removed Fuel Sack from Starter to make intro cutscene consistant
-~ Added Fuel Bomb and Molotov as possible starting items
+~ Added Fuel Bomb, Molotov, First Aid Kit, and Plague Cure as possible starting items
+~ Scentblock and Vial of Enchanced Plague Cure are no longer guaranteed starter items
 
 2.2+ Changes for Dead End Heaven and Deicide [06-17-20]
 ~ Scaling Overhaul
