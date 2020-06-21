@@ -112,7 +112,7 @@ CHANGELOGS AND PLANS
 ~ Adjusted Random Ammo Table
 ~ Adjusted Vehicle Durability
 ~ Removed additional Food Consumption in Nightmare
-~ Certain actions have their noises cut by half
+~ Certain actions have their noises cut by half [Walk, jog, sprint, lock door bust]
 ~ Chance of Lockdoor increased [DEHD has slightly higher chance]
 ~ All previous starting guns have been removed and changed to a new set
 ~ Non-player controlled Community members now take 60% less damage
@@ -122,6 +122,7 @@ CHANGELOGS AND PLANS
 ~ Removed Fuel Sack from Starter to make intro cutscene consistant
 ~ Added Fuel Bomb, Molotov, First Aid Kit, and Plague Cure as possible starting items
 ~ Scentblock and Vial of Enchanced Plague Cure are no longer guaranteed starter items
+~ Better Starter Melee Weapons
 
 2.2+ Changes for Dead End Heaven and Deicide [06-17-20]
 ~ Scaling Overhaul
