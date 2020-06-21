@@ -123,6 +123,7 @@ CHANGELOGS AND PLANS
 ~ Added Fuel Bomb, Molotov, First Aid Kit, and Plague Cure as possible starting items
 ~ Scentblock and Vial of Enchanced Plague Cure are no longer guaranteed starter items
 ~ Better Starter Melee Weapons
+~ Removed mixed files [again again]
 
 2.2+ Changes for Dead End Heaven and Deicide [06-17-20]
 ~ Scaling Overhaul
