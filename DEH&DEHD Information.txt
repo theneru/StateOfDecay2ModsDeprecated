@@ -106,18 +106,21 @@ CHANGELOGS AND PLANS
 ~ Altered Rucksacks to be embedded into DEH and DEHD
 ~ Better Enclave Trades [V0.2]
 
-2.3+ Changes for Dead End Heaven and Deicide [Soon] [06-19-20]
-~ Adjusted Plague Heart Stats
+2.3+ Changes for Dead End Heaven and Deicide [Soon] [06-19-20] - [06-21-20]
+~ Adjusted Plague Heart Stats [Weaker]
 ~ Adjusted Loot Tables
 ~ Adjusted Random Ammo Table
 ~ Adjusted Vehicle Durability
+~ Removed additional Food Consumption in Nightmare
 ~ Certain actions have their noises cut by half
 ~ Chance of Lockdoor increased [DEHD has slightly higher chance]
-~ Added 1 more gun to possible guns to start with
+~ All previous starting guns have been removed and changed to a new set
 ~ Non-player controlled Community members now take 60% less damage
 ~ Increased damage immunity duration during FFL State
 ~ Survivors will now always start with 4 pockets
 ~ Time to recover from fatigue and trauma reduced
+~ Removed Fuel Sack from Starter to make intro cutscene consistant
+~ Added Fuel Bomb and Molotov as possible starting items
 
 2.2+ Changes for Dead End Heaven and Deicide [06-17-20]
 ~ Scaling Overhaul
