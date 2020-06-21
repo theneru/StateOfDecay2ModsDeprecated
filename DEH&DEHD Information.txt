@@ -38,6 +38,7 @@ What Dead End Heaven does:
 ~ Better Starter Items [Guns, ammo, sacks, consumables, throwable]
 ~ Better Armed Enclaves
 ~ Better Enclave Trades [V0.1]
+~ Increased the amount of ammo you can carry
 
 ==================================================================================
 ==================================================================================
@@ -124,6 +125,7 @@ CHANGELOGS AND PLANS
 ~ Scentblock and Vial of Enchanced Plague Cure are no longer guaranteed starter items
 ~ Better Starter Melee Weapons
 ~ Removed mixed files [again again]
+~ Further increased the amount of ammo you can carry
 
 2.2+ Changes for Dead End Heaven and Deicide [06-17-20]
 ~ Scaling Overhaul
