@@ -104,7 +104,6 @@ CHANGELOGS AND PLANS
 
 2.++ Changes for Dead End Heaven and Deicide [Soon] [06-19-20]
 ~ Decreased resources
-~ Altered Rucksacks to be embedded into DEH and DEHD
 ~ Better Enclave Trades [V0.2]
 
 2.3+ Changes for Dead End Heaven and Deicide [Soon] [06-19-20] - [06-21-20]
@@ -126,6 +125,7 @@ CHANGELOGS AND PLANS
 ~ Better Starter Melee Weapons
 ~ Removed mixed files [again again]
 ~ Further increased the amount of ammo you can carry
+~ Embedded Altered Rucksacks [DEH Ver]
 
 2.2+ Changes for Dead End Heaven and Deicide [06-17-20]
 ~ Scaling Overhaul
