@@ -102,12 +102,14 @@ Radio Unlock Effects
 
 CHANGELOGS AND PLANS
 
-2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20]
+2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [06-24-20]
 ~ Decreased resources
 ~ More gun variety to enclaves [Non Legacy Arcs]
 ~ Enclaves take less damage
 ~ Enclaves take more plague damage
 ~ Better Enclave Trades [V0.2]
+~ Fuel Cans and Repair Kits stacking
+~ Increased Refuel and Repair by 15%
 
 2.3+ Changes for Dead End Heaven and Deicide [Implemented] [06-22-20]
 ~ Adjusted Plague Heart Stats [Made Hearts Weaker]
