@@ -111,6 +111,9 @@ CHANGELOGS AND PLANS
 ~ Fuel Cans and Repair Kits stacking
 ~ Increased Refuel and Repair by 15%
 
+2.3++ Changes for Dead End Heaven and Deicide [Soon] [06-28-20]
+~ Updated for Build 18.1 396312
+
 2.3+ Changes for Dead End Heaven and Deicide [Implemented] [06-22-20]
 ~ Adjusted Plague Heart Stats [Made Hearts Weaker]
 ~ Adjusted Loot Tables
