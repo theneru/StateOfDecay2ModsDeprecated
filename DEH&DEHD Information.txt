@@ -109,14 +109,14 @@ CHANGELOGS AND PLANS
 ~ Better Enclave Trades [V0.2]
 ~ Make Green Zone Retardedly Hard
 
-2.4+ Changes for Dead End Heaven and Deicide [Soon] [06-28-20]
+2.4+ Changes for Dead End Heaven and Deicide [Implemented] [06-28-20]
 ~ Improved Storage
 ~ Can craft Enhanced Plague Cure with Infirmary 3 and Field Hospital
 ~ Can craft Enhanced Bandage
 ~ Added Enhanced Bandage to the possible loot
 ~ Added Enhanced Bandage to possible starter items
 ~ Potent Pain Killers no longer guaranteed starter
-~ Fixed Issue with Plague Heart not calling for Help
+~ Fixed Issue with Plague Heart not calling for help
 
 2.3++ Changes for Dead End Heaven and Deicide [Implemented] [06-28-20]
 ~ Updated for Build 18.1 396312
