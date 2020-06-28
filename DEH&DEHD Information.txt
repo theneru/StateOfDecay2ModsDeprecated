@@ -111,7 +111,7 @@ CHANGELOGS AND PLANS
 ~ Improved Storage
 ~ Can craft Enhanced Plague Cure with Infirmary 3 and Field Hospital
 ~ Can craft Enhanced Bandage
-~ Added Enhanced Bandage to the possible military loot
+~ Added Enhanced Bandage to the possible loot
 
 2.3++ Changes for Dead End Heaven and Deicide [Implemented] [06-28-20]
 ~ Updated for Build 18.1 396312
