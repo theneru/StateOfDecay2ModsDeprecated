@@ -106,9 +106,9 @@ CHANGELOGS AND PLANS
 ~ Decreased resources
 ~ More gun variety to enclaves [Non Legacy Arcs]
 ~ Enclaves take less damage
-~ Enclaves take more plague damage
 ~ Better Enclave Trades [V0.2]
 ~ Make Green Zone Retardedly Hard
+~ Improved Storage
 
 2.3++ Changes for Dead End Heaven and Deicide [Implemented] [06-28-20]
 ~ Updated for Build 18.1 396312
