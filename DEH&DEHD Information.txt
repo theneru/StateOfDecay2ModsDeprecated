@@ -108,13 +108,13 @@ CHANGELOGS AND PLANS
 ~ Enclaves take less damage
 ~ Enclaves take more plague damage
 ~ Better Enclave Trades [V0.2]
-~ Fuel Cans and Repair Kits stacking
-~ Increased Refuel and Repair by 15%
 ~ Make Green Zone Retardedly Hard
 
 2.3++ Changes for Dead End Heaven and Deicide [Implemented] [06-28-20]
 ~ Updated for Build 18.1 396312
 ~ Adjusted Vehicle Stats
+~ Fuel Cans and Repair Kits stacking
+~ Increased Refuel and Repair by 15%
 
 2.3+ Changes for Dead End Heaven and Deicide [Implemented] [06-22-20]
 ~ Adjusted Plague Heart Stats [Made Hearts Weaker]
