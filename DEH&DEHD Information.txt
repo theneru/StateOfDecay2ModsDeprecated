@@ -107,6 +107,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ Enclaves take less damage
 ~ Better Enclave Trades [V0.2]
 ~ Make Green Zone Retardedly Hard
+~ Items can be thrown further
 
 ==================================================================================
 
