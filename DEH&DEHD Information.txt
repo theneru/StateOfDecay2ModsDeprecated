@@ -109,7 +109,7 @@ CHANGELOGS AND PLANS
 ~ Better Enclave Trades [V0.2]
 ~ Make Green Zone Retardedly Hard
 
-2.4+ Changes for Dead End Heaven and Deicide [06-28-20]
+2.4+ Changes for Dead End Heaven and Deicide [Soon] [06-28-20]
 ~ Improved Storage
 ~ Can craft Enhanced Plague Cure with Infirmary 3 and Field Hospital
 ~ Can craft Enhanced Bandage
