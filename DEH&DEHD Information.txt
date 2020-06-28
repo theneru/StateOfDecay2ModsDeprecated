@@ -108,6 +108,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ Better Enclave Trades [V0.2]
 ~ Make Green Zone Retardedly Hard
 ~ Items can be thrown further
+~ NPCs `should` now actively avoid Bloater Gas and Plague Heart Gas
 
 ==================================================================================
 
