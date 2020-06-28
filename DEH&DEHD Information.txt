@@ -102,7 +102,7 @@ Radio Unlock Effects
 
 CHANGELOGS AND PLANS
 
-2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [06-24-20]
+2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [06-28-20]
 ~ Decreased resources
 ~ More gun variety to enclaves [Non Legacy Arcs]
 ~ Enclaves take less damage
@@ -110,6 +110,7 @@ CHANGELOGS AND PLANS
 ~ Better Enclave Trades [V0.2]
 ~ Fuel Cans and Repair Kits stacking
 ~ Increased Refuel and Repair by 15%
+~ Make Green Zone Retardedly Hard
 
 2.3++ Changes for Dead End Heaven and Deicide [Implemented] [06-28-20]
 ~ Updated for Build 18.1 396312
