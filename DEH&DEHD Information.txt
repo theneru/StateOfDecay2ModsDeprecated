@@ -105,6 +105,7 @@ PLANS [TO BE IMPLEMENTED]
 2.5+ Changes for Dead End Heaven and Deicide
 ~ Removed Better Enclave Trades
 ~ Trader Boon is always active
+~ Boon Trader trades++
 ~ More gun variety to enclaves [Non Legacy Arcs]
 ~ Enclaves take less damage
 ~ Enclaves will have loot on them [Ammo, consumables, etc.]
