@@ -107,6 +107,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ Trader Boon is always active
 ~ More gun variety to enclaves [Non Legacy Arcs]
 ~ Enclaves take less damage
+~ Enclaves will have loot on them [Ammo, consumables, etc.]
 
 ==================================================================================
 
