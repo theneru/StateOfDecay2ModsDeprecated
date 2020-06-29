@@ -101,15 +101,17 @@ Radio Unlock Effects
 PLANS [TO BE IMPLEMENTED]
 2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [06-28-20]
 ~ Decreased resources
-~ More gun variety to enclaves [Non Legacy Arcs]
-~ Enclaves take less damage
+
+2.5+ Changes for Dead End Heaven and Deicide
 ~ Removed Better Enclave Trades
 ~ Trader Boon is always active
+~ More gun variety to enclaves [Non Legacy Arcs]
+~ Enclaves take less damage
 
 ==================================================================================
 
 CHANGELOGS
-2.4++
+2.4++ Changes for Dead End Heaven and Deicide [Implemented] [06-28-20]
 ~ Green Zone Retardedly Hard
 ~ Items can be thrown further
 ~ NPCs `should` now actively avoid Bloater Gas and Plague Heart Gas
