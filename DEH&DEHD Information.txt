@@ -106,13 +106,17 @@ PLANS [TO BE IMPLEMENTED]
 ~ More gun variety to enclaves [Non Legacy Arcs]
 ~ Enclaves take less damage
 ~ Better Enclave Trades [V0.2]
-~ Make Green Zone Retardedly Hard
-~ Items can be thrown further
-~ NPCs `should` now actively avoid Bloater Gas and Plague Heart Gas
 
 ==================================================================================
 
 CHANGELOGS
+2.4++
+~ Green Zone Retardedly Hard
+~ Items can be thrown further
+~ NPCs `should` now actively avoid Bloater Gas and Plague Heart Gas
+~ Various fixes
+~ Fixed random crash when looting dead enclave members
+
 2.4+ Changes for Dead End Heaven and Deicide [Implemented] [06-28-20]
 ~ Improved Storage
 ~ Can craft Enhanced Plague Cure with Infirmary 3 and Field Hospital
