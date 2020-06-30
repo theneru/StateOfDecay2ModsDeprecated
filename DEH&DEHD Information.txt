@@ -102,17 +102,18 @@ PLANS [TO BE IMPLEMENTED]
 2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [06-28-20]
 ~ Decreased resources
 
-2.5+ Changes for Dead End Heaven and Deicide
+==================================================================================
+
+CHANGELOGS
+2.5+ Changes for Dead End Heaven and Deicide [Implemented] [06-30-20]
 ~ Removed Better Enclave Trades
 ~ Trader Boon is always active
 ~ Boon Trader trades++
 ~ More gun variety to enclaves [Non Legacy Arcs]
 ~ Enclaves take less damage
 ~ Enclaves will have loot on them [Ammo, consumables, etc.] [Non Legacy Arcs]
+~ Fixed Files
 
-==================================================================================
-
-CHANGELOGS
 2.4++ Changes for Dead End Heaven and Deicide [Implemented] [06-28-20]
 ~ Green Zone Retardedly Hard
 ~ Items can be thrown further
