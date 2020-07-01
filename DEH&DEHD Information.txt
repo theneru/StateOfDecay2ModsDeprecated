@@ -105,7 +105,6 @@ PLANS [TO BE IMPLEMENTED]
 ~ +1 Outpost Limit
 ~ +2 Base Bed
 ~ Crouch Sprinting enabled regardless of skill
-~ Increased carry limit for throwables
 ~ Increased Fire damage to Plague Heart
 ~ Difficulty Scaling Adjustment
 
