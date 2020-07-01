@@ -102,6 +102,11 @@ PLANS [TO BE IMPLEMENTED]
 2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [06-28-20]
 ~ Decreased resources
 ~ A Recruit comes by everyday when Community Morale is 10+
+~ +1 Outpost Limit
+~ +2 Base Bed
+~ Crouch Sprinting enabled regardless of skill
+~ Increased carry limit for throwables
+~ Increased Fire damage to Plague Heart
 
 ==================================================================================
 
