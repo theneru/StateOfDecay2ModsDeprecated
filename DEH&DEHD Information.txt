@@ -107,6 +107,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ Crouch Sprinting enabled regardless of skill
 ~ Increased carry limit for throwables
 ~ Increased Fire damage to Plague Heart
+~ Difficulty Scaling Adjustment
 
 ==================================================================================
 
