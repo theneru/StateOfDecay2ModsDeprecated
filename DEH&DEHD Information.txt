@@ -104,7 +104,6 @@ PLANS [TO BE IMPLEMENTED]
 ~ A Recruit comes by everyday when Community Morale is 10+
 ~ +1 Outpost Limit
 ~ +2 Base Bed
-~ Crouch Sprinting enabled regardless of skill
 ~ Increased Fire damage to Plague Heart
 ~ Difficulty Scaling Adjustment
 
