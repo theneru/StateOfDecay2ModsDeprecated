@@ -104,6 +104,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ A Recruit comes by everyday when Community Morale is 10+
 ~ +2 Base Bed
 ~ Increased Fire damage to Plague Heart
+~ Increased Heavy Melee Damage against Plague Hearts
 ~ Adjusted Rucksack contents
 ~ Difficulty Scaling Adjustment
 
