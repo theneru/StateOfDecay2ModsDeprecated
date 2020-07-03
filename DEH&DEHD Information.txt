@@ -99,8 +99,12 @@ Radio Unlock Effects
 ==================================================================================
 
 PLANS [TO BE IMPLEMENTED]
-2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [07-02-20]
-~ Decreased resources
+2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [07-04-20]
+~ Decreased resources V0.6
+~ +1 of each Resource everyday
+~ More Weapon Variety to enclaves
+~ Morale Recruit inventory change
+~ Adjusted Bloodfestation
 
 ==================================================================================
 
