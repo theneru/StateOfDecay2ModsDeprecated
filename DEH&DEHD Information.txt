@@ -98,6 +98,30 @@ Radio Unlock Effects
 ==================================================================================
 ==================================================================================
 
+EMBEDDED MODS INFO
+
+Altered Rucksacks Contents [Embedded]
+--------------------------
+Changes the items given to you by the rucksack when opened.
+Making the rucksack more enticing to open.
+~ Ammo Sacks: Can give various ammo types, guns and throwables
+~ Material Sacks: Can give parts, scraps, toolkits and melee weapons
+~ Food Sacks: Can give food related items [Mysterious Meat Sack is unchanged]
+~ Medicine Sack: Can give health and stamina related items
+~ Fuel Sack: Can give fuel related items and throwables
+--------------------------
+
+4th Of JuDie DEH Ver [Not yet available]
+--------------------------
+Makes the Pyro Launcher and StarShank Launcher Full Auto,
+more EXPLOSIONS AND DAMAGE! Celebrating the 4th of July.
+~ Pyro Launcher can now hold 120 rounds and take down a Juggernaut with ease
+~ STarShank Launcher can now hold 30 rounds. Larger blast radius and more explosions
+
+==================================================================================
+==================================================================================
+==================================================================================
+
 PLANS [TO BE IMPLEMENTED]
 2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [07-04-20]
 ~ Decreased resources V0.6
