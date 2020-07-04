@@ -127,8 +127,11 @@ PLANS [TO BE IMPLEMENTED]
 2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [07-04-20]
 ~ Decreased resources V0.6
 ~ +1 of each Resource everyday
-~ More Weapon Variety to enclaves
+~ More Weapon Variety to enclaves [Non Legacy Arcs]
+~ Enclaves has better loot on them [Non Legacy Arcs]
+~ Enclaves will always have rucksacks on them [Non Legacy Arcs]
 ~ Morale Recruit inventory change
+~ Morale Recruit weapon set
 ~ Adjusted Bloodfestation
 ~ Adjusted starting inventory
 ~ Scaling Adjustment for Nightmare Zone
