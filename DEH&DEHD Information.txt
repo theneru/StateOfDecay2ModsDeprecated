@@ -137,6 +137,8 @@ PLANS [TO BE IMPLEMENTED]
 ~ Adjusted Bloodfestation
 ~ Adjusted starting inventory
 ~ Scaling Adjustment for Nightmare Zone
+~ Increase chances of contracting Plague
+~ Plague Heart explosion greatly increased damage and plague damage
 
 ==================================================================================
 
