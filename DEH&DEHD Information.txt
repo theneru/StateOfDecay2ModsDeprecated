@@ -117,6 +117,7 @@ Makes the Pyro Launcher and StarShank Launcher Full Auto,
 more EXPLOSIONS AND DAMAGE! Celebrating the 4th of July.
 ~ Pyro Launcher can now hold 120 rounds and take down a Juggernaut with ease
 ~ STarShank Launcher can now hold 30 rounds. Larger blast radius and more explosions
+~ Enclaves may spawn with the Pyro Launcher
 
 ==================================================================================
 ==================================================================================
