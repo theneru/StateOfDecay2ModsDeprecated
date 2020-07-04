@@ -131,6 +131,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ Morale Recruit inventory change
 ~ Adjusted Bloodfestation
 ~ Adjusted starting inventory
+~ Scaling Adjustment for Nightmare Zone
 
 ==================================================================================
 
