@@ -129,9 +129,10 @@ PLANS [TO BE IMPLEMENTED]
 ~ +1 of each Resource everyday
 ~ More Weapon Variety to enclaves [Non Legacy Arcs]
 ~ Enclaves has better loot on them [Non Legacy Arcs]
-~ Enclaves will always have rucksacks on them [Non Legacy Arcs]
 ~ Morale Recruit inventory change
 ~ Morale Recruit weapon set
+~ Morale Recruit will always have a rucksack on them
+~ Morale Recruit will have loot on them
 ~ Adjusted Bloodfestation
 ~ Adjusted starting inventory
 ~ Scaling Adjustment for Nightmare Zone
