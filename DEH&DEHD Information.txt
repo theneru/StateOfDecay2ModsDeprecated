@@ -111,7 +111,7 @@ Making the rucksack more enticing to open.
 ~ Fuel Sack: Can give fuel related items and throwables
 --------------------------
 
-4th Of JuDie DEH Ver [Not yet available]
+4th Of JuDie DEH Ver [Embedded as of 2.7+]
 --------------------------
 Makes the Pyro Launcher and StarShank Launcher Full Auto,
 more EXPLOSIONS AND DAMAGE! Celebrating the 4th of July.
@@ -125,11 +125,14 @@ more EXPLOSIONS AND DAMAGE! Celebrating the 4th of July.
 ==================================================================================
 
 PLANS [TO BE IMPLEMENTED]
-2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [07-04-20]
+2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [07-05-20]
 ~ Decreased resources V0.6
 ~ Plague Heart explosion greatly increased damage and plague damage
 
-2.7+ Changes for Dead End Heaven and Deicide [Soon-Plans] [07-04-20]
+==================================================================================
+
+CHANGELOGS
+2.7+ Changes for Dead End Heaven and Deicide [Implemented] [07-05-20]
 ~ +1 of each Resource everyday
 ~ More Weapon Variety to enclaves [Non Legacy Arcs]
 ~ Enclaves has better loot on them [Non Legacy Arcs]
@@ -143,9 +146,6 @@ PLANS [TO BE IMPLEMENTED]
 ~ Increase chances of contracting Plague [Dread and Nightmare Only]
 ~ Damage taken in Green Zone is decreased by 95%
 
-==================================================================================
-
-CHANGELOGS
 2.6+ Changes for Dead End Heaven and Deicide [Implemented] [07-02-20]
 ~ A Recruit comes by everyday when Community Morale is 10+
 ~ +1 Outpost Slot
