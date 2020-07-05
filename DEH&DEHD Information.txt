@@ -107,7 +107,6 @@ PLANS [TO BE IMPLEMENTED]
 ~ Decreased resources V0.6
 ~ Plague Heart explosion greatly increased damage and plague damage
 ~ Crouch Sprinting available regardless of skill
-~ Blood Bloater Gas now attracts zeds
 ~ Removed Enhanced Bandage
 ~ Daily Prestige
 
