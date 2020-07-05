@@ -127,6 +127,9 @@ more EXPLOSIONS AND DAMAGE! Celebrating the 4th of July.
 PLANS [TO BE IMPLEMENTED]
 2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [07-04-20]
 ~ Decreased resources V0.6
+~ Plague Heart explosion greatly increased damage and plague damage
+
+2.6+ Changes for Dead End Heaven and Deicide [Soon-Plans] [07-04-20]
 ~ +1 of each Resource everyday
 ~ More Weapon Variety to enclaves [Non Legacy Arcs]
 ~ Enclaves has better loot on them [Non Legacy Arcs]
@@ -138,7 +141,6 @@ PLANS [TO BE IMPLEMENTED]
 ~ Adjusted starting inventory
 ~ Scaling Adjustment for Nightmare Zone
 ~ Increase chances of contracting Plague [Dread and Nightmare Only]
-~ Plague Heart explosion greatly increased damage and plague damage
 
 ==================================================================================
 
