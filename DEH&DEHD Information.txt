@@ -46,6 +46,7 @@ Effects that apply to both versions -> [Right side notes the difference between 
 ~ Boon Trader trades++                                                                                          [SAME FOR DEHD]
 ~ Fuel Cans and Repair Kits stacking                                                                            [SAME FOR DEHD]
 ~ Increased Refuel and Repair by 15%                                                                            [SAME FOR DEHD]
+~ NPCs now actively avoid modded Bloater Gas size                                                               [SAME FOR DEHD]
 
 ==================================================================================
 ==================================================================================
