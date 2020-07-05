@@ -141,6 +141,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ Adjusted starting inventory
 ~ Scaling Adjustment for Nightmare Zone
 ~ Increase chances of contracting Plague [Dread and Nightmare Only]
+~ Damage taken in Green Zone is decreased by 95%
 
 ==================================================================================
 
