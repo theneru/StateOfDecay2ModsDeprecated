@@ -106,6 +106,9 @@ PLANS [TO BE IMPLEMENTED]
 2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [07-06-20]
 ~ Decreased resources V0.6
 ~ Plague Heart explosion greatly increased damage and plague damage
+~ Crouch Sprinting available regardless of skill
+~ Blood Bloater Gas now attracts zeds
+~ Removed Enhanced Bandage
 ~ Daily Prestige
 
 ==================================================================================
