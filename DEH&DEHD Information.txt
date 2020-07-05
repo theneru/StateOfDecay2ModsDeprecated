@@ -105,7 +105,7 @@ more EXPLOSIONS AND DAMAGE! Celebrating the 4th of July.
 PLANS [TO BE IMPLEMENTED]
 2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [07-06-20]
 ~ Decreased resources V0.6
-~ Plague Heart explosion greatly increased damage and plague damage
+~ Plague Heart explosion greatly increased damage and plague damage [DEHD Only]
 ~ Crouch Sprinting available regardless of skill
 ~ Removed Enhanced Bandage
 ~ Daily Prestige
