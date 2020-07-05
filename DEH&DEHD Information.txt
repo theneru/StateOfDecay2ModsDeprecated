@@ -74,6 +74,7 @@ Radio Unlock Effects
 ==================================================================================
 
 EMBEDDED MODS INFO
+Embedded mods are applied to both versions
 
 Altered Rucksacks Contents [Embedded]
 --------------------------
@@ -94,6 +95,7 @@ more EXPLOSIONS AND DAMAGE! Celebrating the 4th of July.
 ~ StarShank Launcher can now hold 30 rounds. Larger blast radius and more explosions
 ~ Explosions from both guns are louder
 ~ Enclaves may spawn with the Pyro Launcher
+--------------------------
 
 ==================================================================================
 ==================================================================================
