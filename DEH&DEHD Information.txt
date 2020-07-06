@@ -47,6 +47,9 @@ Effects that apply to both versions -> [Right side notes the difference between 
 ~ Fuel Cans and Repair Kits stacking                                                                            [SAME FOR DEHD]
 ~ Increased Refuel and Repair by 15%                                                                            [SAME FOR DEHD]
 ~ NPCs now actively avoid modded Bloater Gas size                                                               [SAME FOR DEHD]
+~ Crouch Sprinting available regardless of skill                                                                [SAME FOR DEHD]
+~ Removed Enhanced Bandage                                                                                      [SAME FOR DEHD]
+~ Daily Prestige                                                                                                [SAME FOR DEHD]
 
 ==================================================================================
 ==================================================================================
@@ -61,6 +64,7 @@ Dead End Heaven Deicide exclusives effects
 ~ Most throwables now explode on impact
 ~ Buffed most fire based throwables
 ~ Last of Us difficulty level [Active when community has 14 Heroes in Nightmare Zone]
+~ Plague Heart explosion greatly increased damage and plague damage
 
 Radio Unlock Effects
 ~ CLEO Drone - Call in a CLEO Drone to provide covering fire for a set duration
@@ -105,14 +109,16 @@ more EXPLOSIONS AND DAMAGE! Celebrating the 4th of July.
 PLANS [TO BE IMPLEMENTED]
 2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [07-06-20]
 ~ Decreased resources V0.6
+
+==================================================================================
+
+CHANGELOGS
+2.8+ Changes for Dead End Heaven and Deicide [Implemented] [07-06-20]
 ~ Plague Heart explosion greatly increased damage and plague damage [DEHD Only]
 ~ Crouch Sprinting available regardless of skill
 ~ Removed Enhanced Bandage
 ~ Daily Prestige
 
-==================================================================================
-
-CHANGELOGS
 2.7+ Changes for Dead End Heaven and Deicide [Implemented] [07-05-20]
 ~ +1 of each Resource everyday
 ~ More Weapon Variety to enclaves [Non Legacy Arcs]
