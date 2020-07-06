@@ -49,7 +49,7 @@ Effects that apply to both versions -> [Right side notes the difference between 
 ~ NPCs now actively avoid modded Bloater Gas size                                                               [SAME FOR DEHD]
 ~ Crouch Sprinting available regardless of skill                                                                [SAME FOR DEHD]
 ~ Removed Enhanced Bandage                                                                                      [SAME FOR DEHD]
-~ Daily Prestige                                                                                                [SAME FOR DEHD]
+~ Daily Prestige Gain                                                                                           [SAME FOR DEHD]
 
 ==================================================================================
 ==================================================================================
@@ -117,7 +117,7 @@ CHANGELOGS
 ~ Plague Heart explosion greatly increased damage and plague damage [DEHD Only]
 ~ Crouch Sprinting available regardless of skill
 ~ Removed Enhanced Bandage
-~ Daily Prestige
+~ Daily Prestige Gain
 
 2.7+ Changes for Dead End Heaven and Deicide [Implemented] [07-05-20]
 ~ +1 of each Resource everyday
