@@ -121,8 +121,8 @@ more EXPLOSIONS AND DAMAGE! Celebrating the 4th of July.
 PLANS [TO BE IMPLEMENTED]
 2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [07-09-20]
 ~ Decreased resources V0.6
-~ Freak Duos [DEHD Only]
-~ Murder Pack [DEHD Only]
+~ Freak Duos [NZ DEHD Only]
+~ Murder Pack [NZ DEHD Only]
 ~ Spawn Adjustment
 
 ==================================================================================
