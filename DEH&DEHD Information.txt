@@ -48,7 +48,7 @@ Effects that apply to both versions -> [Right side notes the difference between 
 ~ Better Starter Items [Guns, ammo, sacks, consumables, throwable]                                              [SAME FOR DEHD]
 ~ Better Armed Enclaves                                                                                         [SAME FOR DEHD]
 ~ Increased the amount of ammo you can carry                                                                    [SAME FOR DEHD]
-~ Craftable Enhanced Bandage and Vial of Enhanced Plague Cure                                                   [SAME FOR DEHD]
+~ Craftable Vial of Enhanced Plague Cure                                                                        [SAME FOR DEHD]
 ~ Increased chances of contracting Plague                                                                       [SAME FOR DEHD]
 ~ Morale Recruit from Green Zone                                                                                [SAME FOR DEHD]
 ~ Impossible Green Zone                                                                                         [SAME FOR DEHD]
