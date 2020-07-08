@@ -60,7 +60,6 @@ Effects that apply to both versions -> [Right side notes the difference between 
 ~ Increased Refuel and Repair by 15%                                                                            [SAME FOR DEHD]
 ~ NPCs now actively avoid modded Bloater Gas size                                                               [SAME FOR DEHD]
 ~ Crouch Sprinting available regardless of skill                                                                [SAME FOR DEHD]
-~ Removed Enhanced Bandage                                                                                      [SAME FOR DEHD]
 ~ Daily Prestige Gain                                                                                           [SAME FOR DEHD]
 
 ==================================================================================
