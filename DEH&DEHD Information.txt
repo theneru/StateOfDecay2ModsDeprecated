@@ -123,6 +123,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ Decreased resources V0.6
 ~ Freak Duos [NZ DEHD Only]
 ~ Murder Pack [NZ DEHD Only]
+~ Specialization Unlocks
 ~ Spawn Adjustment
 
 ==================================================================================
