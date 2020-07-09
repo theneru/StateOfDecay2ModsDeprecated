@@ -124,6 +124,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ Freak Duos [NZ DEHD Only]
 ~ Murder Pack [NZ DEHD Only]
 ~ Specialization Unlocks
+~ Added Several More Guns to starter
 ~ Spawn Adjustment
 
 ==================================================================================
