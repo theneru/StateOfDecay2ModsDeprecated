@@ -149,8 +149,11 @@ The following guns are given SemiAuto, 3RBurst and FullAuto fire modes with this
 ==================================================================================
 
 PLANS [TO BE IMPLEMENTED]
-3.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [07-09-20]
+3.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [07-11-20]
 ~ Decreased resources V0.6
+~ Full Auto RESet mod embedding
+~ More Guns to Starter and Enclaves [Non Legacy Arc]
+~ 5 man Enclave [Non Legacy Arc]
 
 ==================================================================================
 
