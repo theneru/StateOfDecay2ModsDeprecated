@@ -117,6 +117,33 @@ more EXPLOSIONS AND DAMAGE! Celebrating the 4th of July.
 ~ Enclaves may spawn with the Pyro Launcher
 --------------------------
 
+Full Auto RESet [To be Embedded]
+--------------------------
+Added Full Auto functionality to guns that had RPM values in the Spreadsheet.
+The following guns are given SemiAuto, 3RBurst and FullAuto fire modes with this mod.
+- GSG-W
+- Civilian Uzi 22 Pistol
+- Echo-S4 SMG
+- JL94 Civilian
+- JL94 Custom
+- MP5SD
+- Restored Echo-S4 SMG
+- CLEO Battle Rifle
+- CLEO Pistol
+- CLEO Shotgun
+- RTX Piranha
+- Classic SKS Rifle
+- Hunter SKS
+- M1-A
+- M1-A Short
+- M14 DMR
+- RTX Hordebreaker
+- SOCOM II
+- AR-15
+- M4X1 DMR Heavy
+- Civilian Uzi 22 Carbine
+--------------------------
+
 ==================================================================================
 ==================================================================================
 ==================================================================================
