@@ -130,7 +130,8 @@ PLANS [TO BE IMPLEMENTED]
 CHANGELOGS
 3.0+ Changes for Dead End Heaven and Deicide [Implemented] [07-10-20]
 ~ Various Bug fixes
-~ Enclaved Inventory change [Non Legacy Arcs]
+~ Enclaves Inventory change [Non Legacy Arcs]
+~ Modified Alterred Rucksacks
 
 2.9+ Changes for Dead End Heaven and Deicide [Implemented] [07-09-20]
 ~ Freak Duos [NZ DEHD Only]
