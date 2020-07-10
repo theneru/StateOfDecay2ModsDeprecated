@@ -122,12 +122,16 @@ more EXPLOSIONS AND DAMAGE! Celebrating the 4th of July.
 ==================================================================================
 
 PLANS [TO BE IMPLEMENTED]
-2.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [07-09-20]
+3.++ Changes for Dead End Heaven and Deicide [Soon-Plans] [06-19-20] - [07-09-20]
 ~ Decreased resources V0.6
 
 ==================================================================================
 
 CHANGELOGS
+3.0+ Changes for Dead End Heaven and Deicide [Implemented] [07-10-20]
+~ Various Bug fixes
+~ Enclaved Inventory change [Non Legacy Arcs]
+
 2.9+ Changes for Dead End Heaven and Deicide [Implemented] [07-09-20]
 ~ Freak Duos [NZ DEHD Only]
 ~ Murder Pack [NZ DEHD Only]
