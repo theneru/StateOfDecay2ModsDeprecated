@@ -12,6 +12,8 @@ Ping me over the SoD2 modding discord to say thanks, send suggestions or concern
 WARNING! Do not invite random people for the sole purpose of killing their survivors with this mod!
 WARNING! Do not invite random people for the sole purpose of killing their survivors with this mod!
 
+THESE MODS IS MEANT TO BE PLAYED WITHOUT ANY OTHER MODS FOR BETTER EXPERIENCE! THIS MOD AFFECTS SEVERAL
+FILES WHICH MIGHT CONFLICT WITH OTHER MODS
 INSTALLING THIS MOD MIDWAY INTO A GAME/SAVE WILL NOT AFFECT PRE-EXISTING PLAGUE HEARTS THAT WERE NOT SPAWNED
 BY THE MOD. IT IS HIGHLY RECOMMENDED TO CHANGE MAPS, DIFFICULTY OR START A NEW GAME ENTIRELY.
 
@@ -30,6 +32,19 @@ Dead End Heaven & Deicide
 ~ AI Limit Fix
 ~ Super Radio Unlock [Deicide Only]
 ~ Super Radio Unlock Low Cost - No Cooldown [Deicide Only]
+~ Boom Pack
+~ Safe Space [Deicide Only]
+~ Mad Max Weapons Pack
+~ Mad Max Explosives Pack
+~ Mad Max Ammo Stack
+~ Gunslinger
+~ Ammo Stack Sizes
+~ Prestige to Influence
+~ 2x Enclaves
+~ Increased Consumables
+~ Increased Ammo Stacks
+
+Super Radio Unlock mods can be used by giving the mod higher priority.
 ==================================================================================
 ==================================================================================
 
