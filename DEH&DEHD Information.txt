@@ -117,7 +117,7 @@ more EXPLOSIONS AND DAMAGE! Celebrating the 4th of July.
 ~ Enclaves may spawn with the Pyro Launcher
 --------------------------
 
-Full Auto RESet [To be Embedded]
+Full Auto RESet [Embedded as of 3.1+]
 --------------------------
 Added Full Auto functionality to guns that had RPM values in the Spreadsheet.
 The following guns are given SemiAuto, 3RBurst and FullAuto fire modes with this mod.
