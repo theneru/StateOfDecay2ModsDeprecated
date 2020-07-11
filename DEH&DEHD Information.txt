@@ -9,7 +9,6 @@ Please refrain Direct Messages to me.
 Ping me over the SoD2 modding discord to say thanks, send suggestions or concerns about my mods.
 ==================================================================================
 ==================================================================================
-
 WARNING! Do not invite random people for the sole purpose of killing their survivors with this mod!
 WARNING! Do not invite random people for the sole purpose of killing their survivors with this mod!
 
@@ -17,6 +16,26 @@ INSTALLING THIS MOD MIDWAY INTO A GAME/SAVE WILL NOT AFFECT PRE-EXISTING PLAGUE 
 BY THE MOD. IT IS HIGHLY RECOMMENDED TO CHANGE MAPS, DIFFICULTY OR START A NEW GAME ENTIRELY.
 
 [CHANGELOGS AT THE BOTTOM]
+
+Incompatible Mods List
+==================================================================================
+==================================================================================
+Dead End Heaven & Deicide
+~ Incompatible with ANY Spawn Mods
+~ All Active Legacy
+~ SZDZNZ Morale Recruit
+~ 4 Core Specialization
+~ Tech Me Not
+~ Better Starter Items
+~ AI Limit Fix
+~ Super Radio Unlock [Deicide Only]
+~ Super Radio Unlock Low Cost - No Cooldown [Deicide Only]
+==================================================================================
+==================================================================================
+
+
+
+
 
 Dead End Heaven & Dead End Heaven Deicide effects
 
