@@ -193,7 +193,11 @@ The following guns are given SemiAuto, 3RBurst and FullAuto fire modes with this
 PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
 ~ Red Talon Warfighter Reload buff
-~ -30 Starting Morale
+~ -30 Starting Morale [Dread and Nightmare only]
+~ Espresso Stand Outpost gives more Morale
+~ Safehouse provides more beds
+~ Reduced Rucksack Yield
+~ Morale Recruit has more traits
 
 ==================================================================================
 
@@ -203,6 +207,7 @@ CHANGELOGS
 ~ Full Auto RESet mod embedding
 ~ More Guns to Starter and Enclaves [Non Legacy Arc]
 ~ 5 man Enclave [Non Legacy Arc]
+~ Enclaves always have rucksacks on them [A Reason to threaten and kill enclaves]
 
 3.0+ Changes for Dead End Heaven and Deicide [Implemented] [07-10-20]
 ~ Various Bug fixes
