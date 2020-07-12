@@ -192,7 +192,8 @@ The following guns are given SemiAuto, 3RBurst and FullAuto fire modes with this
 
 PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
-
+~ Red Talon Warfighter Reload buff
+~ -30 Starting Morale
 
 ==================================================================================
 
