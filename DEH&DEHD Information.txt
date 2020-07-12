@@ -98,6 +98,7 @@ Effects that apply to both versions -> [Right side notes the difference between 
 ~ Crouch Sprinting available regardless of skill                                                                [SAME FOR DEHD]
 ~ Daily Prestige Gain                                                                                           [SAME FOR DEHD]
 ~ Specialization Unlocks                                                                                        [SAME FOR DEHD]
+~ Decreased resources V0.5 [Total Map Resources reduced by 25%]                                                 [SAME FOR DEHD]
 
 ==================================================================================
 ==================================================================================
