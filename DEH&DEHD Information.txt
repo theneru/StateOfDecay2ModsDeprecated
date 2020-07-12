@@ -195,7 +195,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ Red Talon Warfighter Reload buff
 ~ More Morale Penalty [Dread and Nightmare only]
 ~ Espresso Stand Outpost gives more Morale
-~ Safehouse provides more beds, reduces noise and boosts morale
+~ Safehouse provides more beds and reduces noise
 ~ Reduced Rucksack Yield
 ~ Adjusted Rucksack Content Table
 
