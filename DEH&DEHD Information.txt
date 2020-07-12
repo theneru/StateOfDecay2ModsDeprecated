@@ -23,8 +23,8 @@ BY THE MOD. IT IS HIGHLY RECOMMENDED TO CHANGE MAPS, DIFFICULTY OR START A NEW G
 Incompatible Mods List
 ==================================================================================
 ==================================================================================
-Dead End Heaven & Deicide
-~ Incompatible with ANY Spawn Mods
+Dead End Heaven & Deicide is incompatible with:
+~ ANY Spawn Mods
 ~ All Active Legacy
 ~ SZDZNZ Morale Recruit
 ~ 4 Core Specialization
@@ -141,6 +141,12 @@ Making the rucksack more enticing to open.
 ~ Food Sacks: Can give food related items [Mysterious Meat Sack is unchanged]
 ~ Medicine Sack: Can give health and stamina related items
 ~ Fuel Sack: Can give fuel related items and throwables
+--------------------------
+
+Better Starter Items (DEH Version) [Embedded]
+--------------------------
+Custom version of Better Starter Items for DEH and DEHD
+~ Gives random assortment of guns, ammo, consumables and rucksacks.
 --------------------------
 
 4th Of JuDie DEH Ver [Embedded as of 2.7+]
