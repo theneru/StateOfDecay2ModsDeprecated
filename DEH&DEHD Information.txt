@@ -193,9 +193,9 @@ The following guns are given SemiAuto, 3RBurst and FullAuto fire modes with this
 PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
 ~ Red Talon Warfighter Reload buff
-~ -30 Starting Morale [Dread and Nightmare only]
+~ More Morale Penalty [Dread and Nightmare only]
 ~ Espresso Stand Outpost gives more Morale
-~ Safehouse provides more beds
+~ Safehouse provides more beds, reduces noise and boosts morale
 ~ Reduced Rucksack Yield
 ~ Adjusted Rucksack Content Table
 
