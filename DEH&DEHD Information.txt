@@ -196,7 +196,7 @@ PLANS [TO BE IMPLEMENTED]
 ==================================================================================
 
 CHANGELOGS
-3.2+ Changes for Dead End Heaven and Deicide [Implemented] [TBA]
+3.2+ Changes for Dead End Heaven and Deicide [Implemented] [07-12-20]
 ~ Red Talon Warfighter Reload buff
 ~ More Morale Penalty [Dread and Nightmare only]
 ~ Espresso Stand Outpost gives more Morale and reduces fatigue rate
