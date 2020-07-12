@@ -197,6 +197,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ Espresso Stand Outpost gives more Morale
 ~ Safehouse provides more beds
 ~ Reduced Rucksack Yield
+~ Adjusted Rucksack Content Table
 
 ==================================================================================
 
