@@ -197,7 +197,6 @@ PLANS [TO BE IMPLEMENTED]
 ~ Espresso Stand Outpost gives more Morale
 ~ Safehouse provides more beds
 ~ Reduced Rucksack Yield
-~ Morale Recruit has more traits
 
 ==================================================================================
 
