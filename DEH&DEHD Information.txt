@@ -198,6 +198,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ Safehouse provides more beds and reduces noise
 ~ Reduced Rucksack Yield
 ~ Adjusted Rucksack Content Table
+~ Zulu Echo Romeo Uniform
 
 ==================================================================================
 
