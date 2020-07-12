@@ -194,7 +194,7 @@ PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
 ~ Red Talon Warfighter Reload buff
 ~ More Morale Penalty [Dread and Nightmare only]
-~ Espresso Stand Outpost gives more Morale
+~ Espresso Stand Outpost gives more Morale and reduces fatigue rate
 ~ Safehouse provides more beds and reduces noise
 ~ Reduced Rucksack Yield
 ~ Adjusted Rucksack Content Table
