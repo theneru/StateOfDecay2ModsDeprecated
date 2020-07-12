@@ -192,6 +192,11 @@ The following guns are given SemiAuto, 3RBurst and FullAuto fire modes with this
 
 PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
+
+==================================================================================
+
+CHANGELOGS
+3.2+ Changes for Dead End Heaven and Deicide [Implemented] [07-12-20]
 ~ Red Talon Warfighter Reload buff
 ~ More Morale Penalty [Dread and Nightmare only]
 ~ Espresso Stand Outpost gives more Morale and reduces fatigue rate
@@ -200,9 +205,6 @@ PLANS [TO BE IMPLEMENTED]
 ~ Adjusted Rucksack Content Table
 ~ Zulu Echo Romeo Uniform
 
-==================================================================================
-
-CHANGELOGS
 3.1+ Changes for Dead End Heaven and Deicide [Implemented] [07-11-20]
 ~ Decreased resources V0.5
 ~ Full Auto RESet mod embedding
