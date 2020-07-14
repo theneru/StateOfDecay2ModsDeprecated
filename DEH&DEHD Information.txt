@@ -120,6 +120,7 @@ Dead End Heaven Deicide exclusives effects
 ~ Plague Heart explosion greatly increased damage and plague damage
 ~ Freak Duos - Freaks can spawn with their Plague Counterpart [NZ Only]
 ~ Murder Pack - Pack 4 Ferals. 2 Regular and 2 Blood Versions [NZ Only]
+~ Increased damage taken in Dread and Nightmare
 
 Radio Unlock Effects
 ~ CLEO Drone - Call in a CLEO Drone to provide covering fire for a set duration
@@ -204,6 +205,7 @@ CHANGELOGS
 ~ Fixed crash issue when playing on Dread
 ~ Green Zone damage dealt is increased
 ~ Fixed issue Plague Juggernaut not spawning in Green Zone
+~ Increased damage taken in Dread and Nightmare [DEHD only]
 
 3.2++ Changes for Dead End Heaven and Deicide [Implemented] [07-13-20]
 ~ Espresso Stand Outpost Morale adjustment
