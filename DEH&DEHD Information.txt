@@ -202,6 +202,9 @@ PLANS [TO BE IMPLEMENTED]
 ==================================================================================
 
 CHANGELOGS
+3.22+ Changes for Dead End Heaven and Deicide [Implemented] [07-15-20]
+~ Fixed issue with Stealth Crouch Run being disabled
+
 3.21+ Changes for Dead End Heaven and Deicide [Implemented] [07-15-20]
 ~ Fixed crash issue when playing on Dread
 ~ Green Zone damage dealt is increased
