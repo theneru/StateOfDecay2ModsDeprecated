@@ -33,6 +33,7 @@ Dead End Heaven & Deicide is incompatible with:
 ~ AI Limit Fix
 ~ Super Radio Unlock [Deicide Only]
 ~ Super Radio Unlock Low Cost - No Cooldown [Deicide Only]
+~ Hurts like hell
 ~ Boom Pack
 ~ Safe Space [Deicide Only]
 ~ Mad Max Weapons Pack
