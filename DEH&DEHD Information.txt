@@ -84,7 +84,7 @@ Effects that apply to both versions -> [Right side notes the difference between 
 ~ Better Armed Enclaves                                                                                         [SAME FOR DEHD]
 ~ Increased the amount of ammo you can carry                                                                    [SAME FOR DEHD]
 ~ Craftable Vial of Enhanced Plague Cure (Infirmary 3 or Field Hospital)                                        [SAME FOR DEHD]
-~ Increased chances of contracting Plague                                                                       [Higher chance in DEHD
+~ Increased chances of contracting Plague                                                                       [Higher chance in DEHD] [THIS AFFECTS CLIENTS AS WELL!]
 ~ Morale Recruit from Green Zone (At +10 Morale)                                                                [SAME FOR DEHD]
 ~ Morale Recruit has weapons and items on them                                                                  [SAME FOR DEHD]
 ~ Impossible Green Zone                                                                                         [SAME FOR DEHD]
@@ -120,7 +120,7 @@ Dead End Heaven Deicide exclusives effects
 ~ Plague Heart explosion greatly increased damage and plague damage
 ~ Freak Duos - Freaks can spawn with their Plague Counterpart [NZ Only]
 ~ Murder Pack - Pack 4 Ferals. 2 Regular and 2 Blood Versions [NZ Only]
-~ Increased damage taken in Dread and Nightmare
+~ Increased damage taken in Dread and Nightmare [THIS AFFECTS CLIENTS AS WELL!]
 
 Radio Unlock Effects
 ~ CLEO Drone - Call in a CLEO Drone to provide covering fire for a set duration
