@@ -9,8 +9,16 @@ Please refrain Direct Messages to me.
 Ping me over the SoD2 modding discord to say thanks, send suggestions or concerns about my mods.
 ==================================================================================
 ==================================================================================
-WARNING! Do not invite random people for the sole purpose of killing their survivors with this mod!
-WARNING! Do not invite random people for the sole purpose of killing their survivors with this mod!
+==================================================================================
+==================================================================================
+WARNING! Damage multipliers used in these mod also affect clients!
+WARNING! Damage multipliers used in these mod also affect clients!
+WARNING! Do not invite random people for the sole purpose of killing their survivors with these mods!
+WARNING! Do not invite random people for the sole purpose of killing their survivors with these mods!
+==================================================================================
+==================================================================================
+==================================================================================
+==================================================================================
 
 THESE MODS IS MEANT TO BE PLAYED WITHOUT ANY OTHER MODS FOR BETTER EXPERIENCE! THESE MODS AFFECTS SEVERAL
 FILES WHICH MIGHT CONFLICT WITH OTHER MODS
@@ -19,6 +27,7 @@ INSTALLING THIS MOD MIDWAY INTO A GAME/SAVE WILL NOT AFFECT PRE-EXISTING PLAGUE 
 BY THE MOD. IT IS HIGHLY RECOMMENDED TO CHANGE MAPS, DIFFICULTY OR START A NEW GAME ENTIRELY.
 
 [CHANGELOGS AT THE BOTTOM]
+
 
 Incompatible Mods List
 ==================================================================================
@@ -198,6 +207,11 @@ The following guns are given SemiAuto, 3RBurst and FullAuto fire modes with this
 
 PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
+~ Changed Vial of Enhanced Plague Cure crafting requirement
+~ Boon Trader+++
+~ Damage taken increased [DEHD Only DZ and NZ]
+~ Additional Morale Debuff
+~ 
 
 ==================================================================================
 
