@@ -207,14 +207,16 @@ The following guns are given SemiAuto, 3RBurst and FullAuto fire modes with this
 
 PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
+
+==================================================================================
+
+CHANGELOGS
+3.3+ Changes for Dead End Heaven and Deicide [Implemented] [07-16-20]
 ~ Changed Vial of Enhanced Plague Cure crafting requirement
 ~ Boon Trader+++
 ~ Damage taken increased [DEHD Only DZ and NZ]
 ~ Additional Morale Debuff [DEHD Only DZ and NZ]
 
-==================================================================================
-
-CHANGELOGS
 3.22+ Changes for Dead End Heaven and Deicide [Implemented] [07-15-20]
 ~ Fixed issue with Stealth Crouch Run being disabled
 
