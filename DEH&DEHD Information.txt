@@ -210,8 +210,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ Changed Vial of Enhanced Plague Cure crafting requirement
 ~ Boon Trader+++
 ~ Damage taken increased [DEHD Only DZ and NZ]
-~ Additional Morale Debuff
-~ 
+~ Additional Morale Debuff [DEHD Only DZ and NZ]
 
 ==================================================================================
 
