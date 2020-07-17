@@ -242,6 +242,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ Altered Rucksacks Content improvement
 ~ Dead End Heaven War Bag
 ~ Air Backpacks mod embedded
+~ Spawn Adjustment for DEH
 
 ==================================================================================
 
