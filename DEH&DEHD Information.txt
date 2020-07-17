@@ -233,6 +233,13 @@ Air Backpacks [To Be Embedded]
 Makes all backpacks have 0 weight and have 8 slots
 --------------------------
 
+CLEO Drop Rewards S DEH Version [To Be Embedded]
+--------------------------
+Siege Rewards from the CLEO Relay greatly improved.
+~ Ammo Drop - Contains buttloads of ammo. Not just CLEO rounds [30 minute cooldown]
+~ Supply Drop - May contain CLEO and RTX guns, or buttloads of resources [1hr cooldown]
+--------------------------
+
 ==================================================================================
 ==================================================================================
 ==================================================================================
@@ -240,6 +247,7 @@ Makes all backpacks have 0 weight and have 8 slots
 PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
 ~ Air Backpacks mod embedded
+~ CLEO Drop Rewards S DEH Version
 
 ==================================================================================
 
