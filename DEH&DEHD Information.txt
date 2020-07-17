@@ -240,7 +240,7 @@ Makes all backpacks have 0 weight and have 8 slots
 PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
 ~ Altered Rucksacks Content improvement
-~ Dead End Heaven War Sack
+~ Dead End Heaven War Bag
 ~ Air Backpacks mod embedded
 
 ==================================================================================
