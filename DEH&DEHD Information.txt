@@ -239,15 +239,17 @@ Makes all backpacks have 0 weight and have 8 slots
 
 PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
-~ Altered Rucksacks Content improvement
-~ Dead End Heaven War Bag
 ~ Air Backpacks mod embedded
-~ Spawn Adjustment for DEH
-~ Boon Trader trades adjustment
 
 ==================================================================================
 
 CHANGELOGS
+3.4+ Changes for Dead End Heaven and Deicide [Implemented] [07-17-20]
+~ Altered Rucksacks Content improvement
+~ Dead End Heaven War Bag
+~ Spawn Adjustment for DEH
+~ Boon Trader trades adjustment
+
 3.3+ Changes for Dead End Heaven and Deicide [Implemented] [07-16-20]
 ~ Changed Vial of Enhanced Plague Cure crafting requirement
 ~ Boon Trader+++
