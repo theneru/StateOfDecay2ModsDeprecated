@@ -243,6 +243,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ Dead End Heaven War Bag
 ~ Air Backpacks mod embedded
 ~ Spawn Adjustment for DEH
+~ Boon Trader trades adjustment
 
 ==================================================================================
 
