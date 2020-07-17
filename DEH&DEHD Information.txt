@@ -248,6 +248,7 @@ PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
 ~ Air Backpacks mod embedded
 ~ CLEO Drop Rewards S DEH Version
+~ Buffed Zulu Echo Romeo Uniform
 
 ==================================================================================
 
