@@ -237,7 +237,7 @@ CLEO Drop Rewards S DEH Version [To Be Embedded]
 --------------------------
 Siege Rewards from the CLEO Relay greatly improved.
 ~ Ammo Drop - Contains buttloads of ammo. Not just CLEO rounds [30 minute cooldown]
-~ Supply Drop - May contain CLEO and RTX guns, or buttloads of resources [1hr cooldown]
+~ Supply Drop - May contain CLEO and RTX guns, buttloads of resources or 15 DEH War Bags [1hr cooldown]
 --------------------------
 
 ==================================================================================
