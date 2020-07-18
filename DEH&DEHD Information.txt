@@ -247,12 +247,14 @@ Siege Rewards from the CLEO Relay greatly improved.
 PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
 ~ Air Backpacks mod embedded
-~ CLEO Drop Rewards S DEH Version
-~ Buffed Zulu Echo Romeo Uniform
 
 ==================================================================================
 
 CHANGELOGS
+3.5+ Changes for Dead End Heaven and Deicide [Implemented] [07-19-20]
+~ CLEO Drop Rewards S DEH Version
+~ Buffed Zulu Echo Romeo Uniform
+
 3.4+ Changes for Dead End Heaven and Deicide [Implemented] [07-17-20]
 ~ Altered Rucksacks Content improvement
 ~ Dead End Heaven War Bag
