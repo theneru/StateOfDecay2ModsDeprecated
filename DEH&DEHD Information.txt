@@ -228,11 +228,6 @@ The following guns are given SemiAuto, 3RBurst and FullAuto fire modes with this
 - Civilian Uzi 22 Carbine
 --------------------------
 
-Air Backpacks [To Be Embedded]
---------------------------
-Makes all backpacks have 0 weight and have 8 slots
---------------------------
-
 CLEO Drop Rewards S DEH Version [Embedded as of 3.5+]
 --------------------------
 Siege Rewards from the CLEO Relay greatly improved.
@@ -246,11 +241,13 @@ Siege Rewards from the CLEO Relay greatly improved.
 
 PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
-~ Air Backpacks mod embedded
 ~ Added Phat Lewt
 ~ Added Phat Lewt to loot table
+~ Added Phat Lewt to Plague Heart drops
 ~ Changed Mail-Order Wakizashi to Yae Sakura
 ~ Buffed Yae Sakura
+~ Fixed Boon Trader trade inventory
+~ Added New Zombie Type
 
 ==================================================================================
 
