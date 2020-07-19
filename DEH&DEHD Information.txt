@@ -241,6 +241,12 @@ Siege Rewards from the CLEO Relay greatly improved.
 
 PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
+~ Added New Zombie Type
+
+==================================================================================
+
+CHANGELOGS
+3.6++ Changes for Dead End Heaven and Deicide [Implemented] [07-19-20]
 ~ Added Phat Lewt
 ~ Added Phat Lewt to loot table
 ~ Added Phat Lewt to Plague Heart drops
@@ -248,7 +254,6 @@ PLANS [TO BE IMPLEMENTED]
 ~ Buffed Yae Sakura
 ~ Fixed Boon Trader trade inventory
 ~ Removed DEH War Bags from loot sources
-~ DEH War Bag now only available through CLEO Siege Drops and Boon Trader
 ~ Phat Lewt may contain DEH War Bags
 ~ CLEO Drop Rewards S DEH Version drop change
 ~ Buffed CLEO Drone Support [DEHD Only]
@@ -258,11 +263,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ Adjusted Cost and Cooldown for Red Talon Care Package and Combat Resupply [DEHD Only]
 ~ Boon Trader now trades Bloater Poison Gland
 ~ Plague Buster can now be crafted via Stills
-~ Added New Zombie Type
 
-==================================================================================
-
-CHANGELOGS
 3.5+ Changes for Dead End Heaven and Deicide [Implemented] [07-19-20]
 ~ CLEO Drop Rewards S DEH Version
 ~ Buffed Zulu Echo Romeo Uniform
