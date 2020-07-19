@@ -249,6 +249,8 @@ PLANS [TO BE IMPLEMENTED]
 ~ Fixed Boon Trader trade inventory
 ~ Removed DEH War Bags from loot sources
 ~ DEH War Bag now only available through CLEO Siege Drops and Boon Trader
+~ Phat Lewt may contain DEH War Bags
+~ CLEO Drop Rewards S DEH Version drop change
 ~ Added New Zombie Type
 
 ==================================================================================
