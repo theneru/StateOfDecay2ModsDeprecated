@@ -140,6 +140,7 @@ Effects that apply to both versions -> [Right side notes the difference between 
 ~ Espresso Stand Outpost gives more Morale and reduces fatigue rate                                             [SAME FOR DEHD]
 ~ Safehouse provides more beds and reduces noise                                                                [SAME FOR DEHD]
 ~ Rucksack Yields 3 resources                                                                                   [SAME FOR DEHD]
+~ Craftable Plague Busters [Stills]                                                                             [SAME FOR DEHD]
 
 ==================================================================================
 ==================================================================================
