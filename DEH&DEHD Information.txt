@@ -159,8 +159,10 @@ Dead End Heaven Deicide exclusives effects
 ~ Freak Duos - Freaks can spawn with their Plague Counterpart [NZ Only]
 ~ Murder Pack - Pack 4 Ferals. 2 Regular and 2 Blood Versions [NZ Only]
 ~ Increased damage taken in Dread and Nightmare [THIS AFFECTS CLIENTS AS WELL!]
+~ Police Car Delivery unlocked
 
 Radio Unlock Effects
+~ Police Car Delivery - Same as vanilla but trunk items are changed
 ~ CLEO Drone - Call in a CLEO Drone to provide covering fire for a set duration
 ~ Words of TheZeru - Restores Health, removes trauma and fatigue.
 ~ Combat Resupply - A Supply Case is dropped nearby which provides rifle ammunition, meds, and throwables.
