@@ -247,6 +247,9 @@ PLANS [TO BE IMPLEMENTED]
 
 CHANGELOGS
 3.6++ Changes for Dead End Heaven and Deicide [Implemented] [07-19-20]
+~ Removed New Zombie Type
+
+3.6+ Changes for Dead End Heaven and Deicide [Implemented] [07-19-20]
 ~ Added Phat Lewt
 ~ Added Phat Lewt to loot table
 ~ Added Phat Lewt to Plague Heart drops
@@ -263,6 +266,7 @@ CHANGELOGS
 ~ Adjusted Cost and Cooldown for Red Talon Care Package and Combat Resupply [DEHD Only]
 ~ Boon Trader now trades Bloater Poison Gland
 ~ Plague Buster can now be crafted via Stills
+~ Added New Zombie Type
 
 3.5+ Changes for Dead End Heaven and Deicide [Implemented] [07-19-20]
 ~ CLEO Drop Rewards S DEH Version
