@@ -254,6 +254,8 @@ PLANS [TO BE IMPLEMENTED]
 ~ Buffed CLEO Drone Support [DEHD Only]
 ~ Radio Police Car Delivery unlocked [DEHD Only]
 ~ Police Car delivery trunk items changed [DEHD Only]
+~ Red Talon Care Package now contains DEH War Bags [DEHD Only]
+~ Adjusted Cost and Cooldown for Red Talon Care Package and Combat Resupply [DEHD Only]
 ~ Added New Zombie Type
 
 ==================================================================================
