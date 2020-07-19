@@ -256,6 +256,8 @@ PLANS [TO BE IMPLEMENTED]
 ~ Police Car delivery trunk items changed [DEHD Only]
 ~ Red Talon Care Package now contains DEH War Bags [DEHD Only]
 ~ Adjusted Cost and Cooldown for Red Talon Care Package and Combat Resupply [DEHD Only]
+~ Boon Trader now trades Bloater Poison Gland
+~ Plague Buster can now be crafted via Stills
 ~ Added New Zombie Type
 
 ==================================================================================
