@@ -251,6 +251,9 @@ PLANS [TO BE IMPLEMENTED]
 ~ DEH War Bag now only available through CLEO Siege Drops and Boon Trader
 ~ Phat Lewt may contain DEH War Bags
 ~ CLEO Drop Rewards S DEH Version drop change
+~ Buffed CLEO Drone Support [DEHD Only]
+~ Radio Police Car Delivery unlocked [DEHD Only]
+~ Police Car delivery trunk items changed [DEHD Only]
 ~ Added New Zombie Type
 
 ==================================================================================
