@@ -247,6 +247,8 @@ PLANS [TO BE IMPLEMENTED]
 ~ Changed Mail-Order Wakizashi to Yae Sakura
 ~ Buffed Yae Sakura
 ~ Fixed Boon Trader trade inventory
+~ Removed DEH War Bags from loot sources
+~ DEH War Bag now only available through CLEO Siege Drops and Boon Trader
 ~ Added New Zombie Type
 
 ==================================================================================
