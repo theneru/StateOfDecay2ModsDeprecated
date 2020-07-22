@@ -244,7 +244,18 @@ Siege Rewards from the CLEO Relay greatly improved.
 
 PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
-~ Everyday Morale Recruit has a chance to be a Red Talon DB
+~ Everyday Morale Recruit may spawn as Red Talon DB recruit
+~ RT DB Recruit weapon set
+~ Removed lesser loot mod [Due to updated loot table and functions]
+~ Spawn Adjustment for DEH and DEHD
+~ Phat Lewt drop rate reduced
+~ Removed Dead End Heaven War Sack from loot table [I swear I did this already]
+~ Dead End Heaven War Sack content adjustment
+~ Blood Bloater Gas now ignores walls [DEHD Only]
+~ Plague Cures now require water to craft
+~ Reduced Morale buff duration
+~ Add my real name into the survivor names
+~ Add Dead End Heaven to hostile enclave names
 
 ==================================================================================
 
