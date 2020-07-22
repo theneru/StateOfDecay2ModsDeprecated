@@ -254,8 +254,6 @@ PLANS [TO BE IMPLEMENTED]
 ~ Blood Bloater Gas now ignores walls [DEHD Only]
 ~ Plague Cures now require water to craft
 ~ Reduced Morale buff duration
-~ Add my real name into the survivor names
-~ Add Dead End Heaven to hostile enclave names
 
 ==================================================================================
 
