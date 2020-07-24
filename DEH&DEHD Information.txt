@@ -252,9 +252,17 @@ PLANS [TO BE IMPLEMENTED]
 ~ Removed Dead End Heaven War Sack from loot table [I swear I did this already]
 ~ Dead End Heaven War Sack content adjustment
 ~ Blood Bloater Gas now ignores walls [DEHD Only]
+~ Blood Bloater Gas now attracts zeds
+~ Increased Screamer Vomit size and damage
+~ Screamer vomit attracts zeds
 ~ Plague Cures now require water to craft
 ~ Reduced Morale buff duration
 ~ Buffed Fire Bomb [Highly effective against Juggs]
+~ Changed Starter Item Set
+~ Enclave All Available Trades
+~ Removed Kick from Assault
+~ Get Aim Snap from Assault at 4 Stars
+~ Further reduce Plague Timer
 
 ==================================================================================
 
