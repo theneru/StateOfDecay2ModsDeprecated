@@ -263,6 +263,10 @@ PLANS [TO BE IMPLEMENTED]
 ~ Removed Kick from Assault
 ~ Get Aim Snap from Assault at 4 Stars
 ~ Further reduce Plague Timer
+~ Increased chances to accrue trauma and injury
+~ Zeds are more persistent at chasing
+~ Ferals are extremely persistent at chasing
+~ Buffed Soda Can Bomb with Mentos
 
 ==================================================================================
 
