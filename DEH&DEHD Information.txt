@@ -392,7 +392,7 @@ CHANGELOGS
 ~ Fixed Files
 
 2.4++ Changes for Dead End Heaven and Deicide [Implemented] [06-28-20]
-~ Green Zone Retardedly Hard
+~ Green Zone Super Hard
 ~ Items can be thrown further
 ~ NPCs `should` now actively avoid Bloater Gas and Plague Heart Gas
 ~ Various fixes
