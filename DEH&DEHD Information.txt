@@ -271,6 +271,9 @@ PLANS [TO BE IMPLEMENTED]
 ==================================================================================
 
 CHANGELOGS
+3.61+ Changes for Dead End Heaven and Deicide [Implemented] [07-28-20]
+~ ???
+
 3.6++ Changes for Dead End Heaven and Deicide [Implemented] [07-19-20]
 ~ Removed New Zombie Type
 
