@@ -251,6 +251,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ Phat Lewt drop rate reduced
 ~ Removed Dead End Heaven War Sack from loot table [I swear I did this already]
 ~ Dead End Heaven War Sack content adjustment
+~ Bloater Gas now ignores walls
 ~ Blood Bloater Gas now ignores walls [DEHD Only]
 ~ Blood Bloater Gas now attracts zeds
 ~ Increased Screamer Vomit size and damage
@@ -267,6 +268,8 @@ PLANS [TO BE IMPLEMENTED]
 ~ Zeds are more persistent at chasing
 ~ Ferals are extremely persistent at chasing
 ~ Buffed Soda Can Bomb with Mentos
+~ Food outposts no longer give Food Resource per day
+~ 
 
 ==================================================================================
 
