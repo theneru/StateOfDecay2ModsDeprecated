@@ -269,7 +269,8 @@ PLANS [TO BE IMPLEMENTED]
 ~ Ferals are extremely persistent at chasing
 ~ Buffed Soda Can Bomb with Mentos
 ~ Food outposts no longer give Food Resource per day
-~ 
+~ Buffed Plague Heart
+~ Adjusted Plague Heart Spawns
 
 ==================================================================================
 
