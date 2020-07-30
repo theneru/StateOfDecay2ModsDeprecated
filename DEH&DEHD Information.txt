@@ -148,7 +148,7 @@ Dead End Heaven Deicide exclusives effects
 ~ Plague Heart gas ignores obstacles and will slowly expand over time
 ~ Screamer loudness increased greatly
 ~ Tougher Juggernaut
-~ Radio Unlocked - CLEO Drone, Recon Drone, Words of TheZeru, Combat Resupply, Red Talon Care Package, Mortar Barrage
+~ Radio Unlocked - CLEO Drone, Recon Drone, Words of TheZeru, Combat Resupply, Red Talon Care Package
 ~ Increased the amount of some consumables you can carry
 ~ Roll of Firework Crackers effectiveness has been increased
 ~ Reduced Safe Zone sizes
@@ -167,8 +167,6 @@ Radio Unlock Effects
 ~ Words of TheZeru - Restores Health, removes trauma and fatigue.
 ~ Combat Resupply - A Supply Case is dropped nearby which provides rifle ammunition, meds, and throwables.
 ~ Red Talon Care Package - RT drops a Supply Case that contains resources for your base.
-~ Mortar Barrage - Call in loud ordinance over a wide area you designated.
-[You are immune to the mortars and mortar blasts ignore obstacles. More shells and increased loudness for distraction]
 
 ==================================================================================
 ==================================================================================
@@ -271,6 +269,8 @@ PLANS [TO BE IMPLEMENTED]
 ~ Food outposts no longer give Food Resource per day
 ~ Buffed Plague Heart
 ~ Adjusted Plague Heart Spawns
+~ Adjusted Plague Heart Drops
+~ Removed Mortar Barrage radio
 
 ==================================================================================
 
