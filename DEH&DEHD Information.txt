@@ -239,7 +239,8 @@ PLANS [TO BE IMPLEMENTED]
 ==================================================================================
 
 CHANGELOGS
-3.7+ Changes for Dead End Heaven Deicide [Implemented] [07-31-20]
+3.7+ Changes for Dead End Heaven and Deicide [Implemented] [07-31-20]
+~ Fixed for Update 19
 ~ Removed loot mods
 ~ Spawn Adjustment for DEHD
 ~ Dead End Heaven War Sack content adjustment
