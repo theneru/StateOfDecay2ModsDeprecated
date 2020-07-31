@@ -121,6 +121,7 @@ Effects that apply to both versions -> [Right side notes the difference between 
 ~ Safehouse provides more beds and reduces noise                                                                [SAME FOR DEHD]
 ~ Rucksack Yields 3 resources                                                                                   [SAME FOR DEHD]
 ~ Craftable Plague Busters [Stills]                                                                             [SAME FOR DEHD]
+~ Plague Cures now require water to craft                                                                       [SAME FOR DEHD]
 
 ==================================================================================
 ==================================================================================
@@ -243,18 +244,18 @@ CHANGELOGS
 ~ Spawn Adjustment for DEHD
 ~ Dead End Heaven War Sack content adjustment
 ~ Bloater Gas now ignores walls
-~ Blood Bloater Gas now ignores walls
-~ Blood Bloater Gas now attracts zeds
+~ Blood Bloater Gas now ignores walls [DEHD Only]
+~ Blood Bloater Gas now attracts zeds [DEHD Only]
 ~ Increased Screamer Vomit size and damage
 ~ Screamer vomit attracts zeds
 ~ Plague Cures now require water to craft
-~ Reduced Morale buff duration
-~ Buffed Fire Bomb [Highly effective against Juggs]
+~ Reduced Morale buff duration [DEHD Only]
+~ Buffed Fire Bomb [Highly effective against Juggs] [DEHD Only]
 ~ Changed Starter Item Set
 ~ Further reduce Plague Timer
 ~ Adjusted Plague Heart Drops
 ~ Adjusted Plague Heart Spawns
-~ Removed Mortar Barrage radio
+~ Removed Mortar Barrage radio [DEHD Only]
 ~ Removed Boon Trader modification
 
 3.6++ Changes for Dead End Heaven and Deicide [Implemented] [07-19-20]
