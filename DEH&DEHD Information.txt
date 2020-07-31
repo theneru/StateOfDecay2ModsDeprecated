@@ -255,6 +255,7 @@ CHANGELOGS
 ~ Adjusted Plague Heart Drops
 ~ Adjusted Plague Heart Spawns
 ~ Removed Mortar Barrage radio
+~ Removed Boon Trader modification
 
 3.6++ Changes for Dead End Heaven and Deicide [Implemented] [07-19-20]
 ~ Removed New Zombie Type
