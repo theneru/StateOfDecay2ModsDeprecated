@@ -225,7 +225,8 @@ PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
 ~ Everyday Morale Recruit may spawn as Red Talon DB recruit
 ~ RT DB Recruit weapon set
-~ Phat Lewt drop rate reduced
+~ Reduced Phat Lewt drop rate
+~ Rucksacks are less likely to spawn
 ~ Enclave All Available Trades
 ~ Removed Kick from Assault
 ~ Get Aim Snap from Assault at 4 Stars
@@ -233,7 +234,7 @@ PLANS [TO BE IMPLEMENTED]
 ~ Zeds are more persistent at chasing
 ~ Ferals are extremely persistent at chasing
 ~ Buffed Soda Can Bomb with Mentos
-~ Food outposts no longer give Food Resource per day
+~ Food outposts reduced income in nightmare
 ~ Buffed Plague Heart
 
 ==================================================================================
@@ -258,6 +259,7 @@ CHANGELOGS
 ~ Adjusted Plague Heart Spawns
 ~ Removed Mortar Barrage radio [DEHD Only]
 ~ Removed Boon Trader modification
+~ Removed everyday resource gain
 
 3.6++ Changes for Dead End Heaven and Deicide [Implemented] [07-19-20]
 ~ Removed New Zombie Type
