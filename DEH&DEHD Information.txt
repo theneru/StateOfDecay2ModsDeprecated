@@ -223,7 +223,6 @@ Siege Rewards from the CLEO Relay greatly improved.
 
 PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
-~ Everyday Morale Recruit may spawn as Red Talon DB recruit
 ~ RT DB Recruit weapon set
 ~ Enclave All Available Trades
 ~ Removed Kick from Assault
@@ -235,6 +234,7 @@ PLANS [TO BE IMPLEMENTED]
 
 CHANGELOGS
 3.8+ Changes for Dead End Heaven and Deicide [08-??-20]
+~ Everyday Morale Recruit may spawn as Red Talon DB recruit
 ~ Reduced Phat Lewt drop rate
 ~ Rucksacks are less likely to spawn
 ~ Screamers are easily TRIGGERED!
