@@ -232,7 +232,10 @@ PLANS [TO BE IMPLEMENTED]
 ==================================================================================
 
 CHANGELOGS
-3.8+ Changes for Dead End Heaven and Deicide [08-??-20]
+3.8++ Changes for Dead End Heaven and Deicide [08-01-20]
+~ Morale Bug Fix
+
+3.8+ Changes for Dead End Heaven and Deicide [08-01-20]
 ~ Everyday Morale Recruit may spawn as Red Talon DB recruit
 ~ Reduced Phat Lewt drop rate
 ~ Rucksacks are less likely to spawn
