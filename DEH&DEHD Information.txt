@@ -245,7 +245,6 @@ CHANGELOGS
 ~ All Car Trunk Inventory is 18
 ~ 3x Fuel Tank Size for vehicles
 ~ Nerfed Firecrackers
-~ Buffed Soda Can Bomb with Mentos
 
 3.7+ Changes for Dead End Heaven and Deicide [Implemented] [07-31-20]
 ~ Fixed for Update 19
