@@ -228,7 +228,6 @@ PLANS [TO BE IMPLEMENTED]
 ~ Removed Kick from Assault
 ~ Get Aim Snap from Assault at 4 Stars
 ~ Increased chances to accrue trauma and injury
-~ Buffed Soda Can Bomb with Mentos
 
 ==================================================================================
 
@@ -244,6 +243,8 @@ CHANGELOGS
 ~ Buffed Plague Heart
 ~ Super Cars
 ~ All Car Trunk Inventory is 18
+~ Nerfed Firecrackers
+~ Buffed Soda Can Bomb with Mentos
 
 3.7+ Changes for Dead End Heaven and Deicide [Implemented] [07-31-20]
 ~ Fixed for Update 19
