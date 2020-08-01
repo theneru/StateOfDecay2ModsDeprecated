@@ -243,6 +243,7 @@ CHANGELOGS
 ~ Buffed Plague Heart
 ~ Super Cars
 ~ All Car Trunk Inventory is 18
+~ 3x Fuel Tank Size for vehicles
 ~ Nerfed Firecrackers
 ~ Buffed Soda Can Bomb with Mentos
 
