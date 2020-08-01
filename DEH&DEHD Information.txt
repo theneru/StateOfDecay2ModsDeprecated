@@ -225,21 +225,26 @@ PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
 ~ Everyday Morale Recruit may spawn as Red Talon DB recruit
 ~ RT DB Recruit weapon set
-~ Reduced Phat Lewt drop rate
-~ Rucksacks are less likely to spawn
 ~ Enclave All Available Trades
 ~ Removed Kick from Assault
 ~ Get Aim Snap from Assault at 4 Stars
 ~ Increased chances to accrue trauma and injury
-~ Zeds are more persistent at chasing
-~ Ferals are extremely persistent at chasing
 ~ Buffed Soda Can Bomb with Mentos
-~ Food outposts reduced income in nightmare
-~ Buffed Plague Heart
 
 ==================================================================================
 
 CHANGELOGS
+3.8+ Changes for Dead End Heaven and Deicide [08-??-20]
+~ Reduced Phat Lewt drop rate
+~ Rucksacks are less likely to spawn
+~ Screamers are easily TRIGGERED!
+~ Zeds are more persistent at chasing
+~ Ferals are extremely persistent at chasing
+~ Food outposts reduced income in nightmare
+~ Buffed Plague Heart
+~ Super Cars
+~ All Car Trunk Inventory is 18
+
 3.7+ Changes for Dead End Heaven and Deicide [Implemented] [07-31-20]
 ~ Fixed for Update 19
 ~ Removed loot mods
