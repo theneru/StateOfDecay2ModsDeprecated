@@ -232,6 +232,10 @@ PLANS [TO BE IMPLEMENTED]
 ==================================================================================
 
 CHANGELOGS
+3.81+ Changes for Dead End Heaven and Deicide [08-02-20]
+~ M4X2 SSW Lite fix
+~ Fixes
+
 3.8++ Changes for Dead End Heaven and Deicide [08-01-20]
 ~ Morale Bug Fix
 
