@@ -107,6 +107,7 @@ Effects that apply to both versions -> [Right side notes the difference between 
 ~ Impossible Green Zone                                                                                         [SAME FOR DEHD]
 ~ +1 Outpost Slot                                                                                               [SAME FOR DEHD]
 ~ +2 Base Bed                                                                                                   [SAME FOR DEHD]
+~ -1 Labor Debuff                                                                                               [SAME FOR DEHD]
 ~ Fuel Cans and Repair Kits stacking                                                                            [SAME FOR DEHD]
 ~ Increased Refuel and Repair by 15%                                                                            [SAME FOR DEHD]
 ~ NPCs now actively avoid modded Bloater Gas size                                                               [SAME FOR DEHD]
@@ -119,6 +120,8 @@ Effects that apply to both versions -> [Right side notes the difference between 
 ~ Rucksack Yields 3 resources                                                                                   [SAME FOR DEHD]
 ~ Craftable Plague Busters [Stills]                                                                             [SAME FOR DEHD]
 ~ Plague Cures now require water to craft                                                                       [SAME FOR DEHD]
+~ Altered the cost and requirements to claim an outpost                                                         [SAME FOR DEHD]
+
 
 ==================================================================================
 ==================================================================================
@@ -221,7 +224,6 @@ Siege Rewards from the CLEO Relay greatly improved.
 PLANS [TO BE IMPLEMENTED]
 3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
 ~ RT DB Recruit weapon set
-~ Enclave All Available Trades
 ~ Removed Kick from Assault
 ~ Get Aim Snap from Assault at 4 Stars
 ~ Increased chances to accrue trauma and injury
@@ -229,6 +231,20 @@ PLANS [TO BE IMPLEMENTED]
 ==================================================================================
 
 CHANGELOGS
+3.9+ Changes for Dead End Heaven and Deicide [08-07-20]
+~ Ammo Drop Adjustment
+~ Junk Loot Adjustment
+~ Outpost Cost increased
+~ Outpost Claim Requirements changed
+~ Increased Utilities Outpost cost
+~ Utilities Outpost Claim Requirements changed
+~ Increased Utilities Outpost maintenance cost
+~ -1 Labor Debuff
+~ Further Raised GDM [Nightmare Only]
+~ Increased Dodge Cost [DZ and NZ]
+~ Phatlewt content adjustment
+~ All Enclave Trades
+
 3.82+ Changes for Dead End Heaven and Deicide [08-04-20]
 ~ Added Junk Rucksack
 ~ Fixed Rucksack drop rate
