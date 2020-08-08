@@ -231,6 +231,12 @@ PLANS [TO BE IMPLEMENTED]
 ==================================================================================
 
 CHANGELOGS
+3.91+ Changes for Dead End Heaven and Deicide [08-08-20]
+~ Fixed Legendre
+~ Buffs Fix [Dude A and B were Gods!]
+~ Infirmary 2 can now craft Enhanced Cures
+~ Added Cheat Building
+
 3.9+ Changes for Dead End Heaven and Deicide [08-07-20]
 ~ Ammo Drop Adjustment
 ~ Junk Loot Adjustment
