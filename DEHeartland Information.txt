@@ -1,1 +1,40 @@
-Never Gonna Give You Up
+"Crimson moon shines upon the town that is smeared in blood..."
+Cried the Diva given into lament
+
+"Florid moon shines upon a world that is doomed to die..."
+Wailed the Diva given into lament
+=====================================================================
+Nothing to see here. >.>
+
+Changelogs
+v0.2 [08-10-20]
+~ Removed N.E.R.U. from Logan
+~ Chavez no longer immune to BP
+~ Removed AR15 from Izzbee and returned to normal ammo
+~ Removed Hammerdown radio call [Daybreaking Ver]
+
+v0.11 [08-04-20]
+~ Copied several assets from DEH
+~ Carried several embedded mods from DEH
+~ Spawn Balancing
+~ Changed Starter items for Larisse, Fi, Quincy and Helena.
+~ Logan starts with N.E.R.U.
+~ Chavez made immune to Blood Plague
+~ Izzbee starts with AR15 that uses 5.56mm Firework round
+~ Added Hammerdown radio call [Daybreaking Ver]
+
+v0.1 [08-02-20]
+~ Started DEHeartland from scratch again
+
+v0.1 [07-01-20]
+~ Started DEHeartland from scratch
+
+v0.11 [06-16-20]
+~ Spawn adjustments
+~ Character adjustments
+~ Copied DEH PHeart
+~ Custom IDs
+
+v0.1 [06-12-20]
+~ Mod name
+
