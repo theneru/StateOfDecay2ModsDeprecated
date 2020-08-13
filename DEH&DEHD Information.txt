@@ -244,6 +244,8 @@ CHANGELOGS
 *Enabled Slam Attack*
 ~ Slightly increased chance to accrue Trauma and Injury
 ~ Reduced overall Skill EXP gain [DEHD DZ and NZ only]
+~ Max Level Scouting grants Night Vision
+~ Level 3 Tactics grants Night Vision
 
 3.91+ Changes for Dead End Heaven and Deicide [08-08-20]
 ~ Fixed Legendre
