@@ -141,6 +141,7 @@ Dead End Heaven Deicide exclusives effects
 ~ Murder Pack - Pack 4 Ferals. 2 Regular and 2 Blood Versions [NZ Only]
 ~ Increased damage taken in Dread and Nightmare [THIS AFFECTS CLIENTS AS WELL!]
 ~ Police Car Delivery unlocked
+~ Reduced overall Skill EXP gain
 
 Radio Unlock Effects
 ~ Police Car Delivery - Same as vanilla but trunk items are changed
@@ -226,11 +227,24 @@ PLANS [TO BE IMPLEMENTED]
 ~ RT DB Recruit weapon set
 ~ Removed Kick from Assault
 ~ Get Aim Snap from Assault at 4 Stars
-~ Increased chances to accrue trauma and injury
 
 ==================================================================================
 
 CHANGELOGS
+3.92+ Changes for Dead End Heaven and Deicide [08-13-20]
+~ Enclaves now spawn with Bounty Broker guns
+~ Prowess abilities change
+*Disabled Flying Strike*
+*Enabled Drop Kick*
+~ Heroism abilities change
+*Disabled Shove attack*
+*Disabled Blade leg sweep*
+*Disabled Enhanced CQC attack moves*
+*Enabled CQC Execution*
+*Enabled Slam Attack*
+~ Slightly increased chance to accrue Trauma and Injury
+~ Reduced overall Skill EXP gain [DEHD DZ and NZ only]
+
 3.91+ Changes for Dead End Heaven and Deicide [08-08-20]
 ~ Fixed Legendre
 ~ Buffs Fix [Dude A and B were Gods!]
