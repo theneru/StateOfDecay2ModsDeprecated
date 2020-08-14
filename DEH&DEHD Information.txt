@@ -227,7 +227,6 @@ PLANS [TO BE IMPLEMENTED]
 ~ RT DB Recruit weapon set
 ~ Removed Kick from Assault
 ~ Get Aim Snap from Assault at 4 Stars
-~ Add new trait Among the Dead
 
 ==================================================================================
 
