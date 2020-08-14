@@ -232,6 +232,10 @@ PLANS [TO BE IMPLEMENTED]
 ==================================================================================
 
 CHANGELOGS
+3.93+ Changes for Dead End Heaven and Deicide [08-14-20]
+~ Fixed issue with Night Vision buff of Tactics and Scouting
+[Existing Characters with Max Scouting and Max Tactics cannot obtain this buff prior to update]
+
 3.92+ Changes for Dead End Heaven and Deicide [08-13-20]
 ~ Enclaves now spawn with Bounty Broker guns
 ~ Prowess abilities change
