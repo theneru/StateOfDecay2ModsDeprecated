@@ -8,7 +8,7 @@ Nothing to see here. >.>
 
 Changelogs
 v0.3 [08-18-20]
-~ GDM adjustment
+~ Global Damage Multiplier adjustment
 
 v0.2 [08-10-20]
 ~ Removed N.E.R.U. from Logan
