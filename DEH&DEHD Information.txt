@@ -231,6 +231,11 @@ PLANS [TO BE IMPLEMENTED]
 ==================================================================================
 
 CHANGELOGS
+3.94+ Changes for Dead End Heaven and Deicide [08-18-20]
+~ Various bug fix [One of the throwables didn't work right]
+~ Slightly increased avoid range of NPCs from explosives
+~ Reworked Enclave items
+
 3.93+ Changes for Dead End Heaven and Deicide [08-14-20]
 ~ Fixed issue with Night Vision buff of Tactics and Scouting
 [Existing Characters with Max Scouting and Max Tactics cannot obtain this buff prior to update]
