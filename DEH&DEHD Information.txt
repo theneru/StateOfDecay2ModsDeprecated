@@ -232,11 +232,12 @@ PLANS [TO BE IMPLEMENTED]
 ==================================================================================
 
 CHANGELOGS
-4.0+ Changes for Dead End Heaven and Deicide [08-18-20]
+4.0+ Changes for Dead End Heaven and Deicide [08-23-20]
 ~ Loot Table redo
 ~ Plague Heart drop redo
 ~ Blood Siege
 ~ Scavenge Command for Safehouse Outposts
+~ Rares Trader now trades old WW2 Bounty Pack guns
 
 3.94+ Changes for Dead End Heaven and Deicide [08-18-20]
 ~ Various bug fix [One of the throwables didn't work right]
