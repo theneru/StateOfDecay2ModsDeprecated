@@ -1,5 +1,10 @@
 Outpost Overhaul Mod [Darkside Version]
 =======================================
+
+Be warned, the Material Cost is doubled in Nightmare
+due to difficulty settings. It's the game's settings.
+Not mine.
+
 =======================================
 Ammo Outpost
 ~ Claim Cost - 2000 Influence, 5 Material Resources
