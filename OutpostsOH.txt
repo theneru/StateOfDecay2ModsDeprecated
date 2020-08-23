@@ -111,3 +111,14 @@ Safehouse Outpost
 It yields the following amount after 1 ingame day [90 minutes]
 +30 Parts, 2 of every resource except ammo, +50 Prestige, +100 Influence.
 [+40 Parts, 3 of every resource except ammo, +100 Prestige, +250 Influence.]
+
+
+=======================================
+=======================================
+Future updates
+~ Mod slots
+~ Randomized Scavenge loot
+=======================================
+Changelogs
+[08-23-20]
+Initial Release
