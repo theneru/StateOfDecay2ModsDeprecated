@@ -1,0 +1,93 @@
+Outpost Overhaul Mod [Darkside Version]
+=======================================
+=======================================
+Ammo Outpost
+~ Claim Cost - 2000 Influence, 5 Material Resources
+Listed [Mod] Effects
+- -1 Labor
+- +2 Ammo Per Day
+- Craft Rounds & Produce Ammo Function
+
+Food Outpost
+~ Claim Cost - 1500 Influence, 5 Material Resources
+Listed [Mod] Effects
+- -1 Labor
+- +2 Food Per Day
+- Make Items and Produce Food Function
+
+Fuel Outpost
+~ Claim Cost - 1000 Influence, 2 Material Resources
+Listed [Mod] Effects
+- -1 Labor
+- +2 Fuel Per Day
+
+Materials Outpost
+~ Claim Cost - 3000 Influence, 8 Material Resources
+Listed [Mod] Effects
+- -1 Labor
+- +2 Materials Per Day
+- Craft Items and Produce Ammo [Workshop 1] Function
+- Repair and Salvage Weapons [Workshop 1] Function
+- Parts to Materials Function
+
+Medical Outpost
+~ Claim Cost - 1500 Influence, 5 Material Resources
+Listed [Mod] Effects
+- -1 Labor
+- +2 Meds Per Day
+- Craft Items and Produce Meds [Infirmary 2]
+
+Artillery Outpost
+~ Claim Cost - 2500 Influence, 5 Material Resources
+
+Espresso Stand
+- Claim Cost - 775 Influence, 1 Material Resources
+Listed [Mod] Effects
+- Slightly higher morale boost
+- Passive Fatigue reduction
+
+Power Outpost
+- Claim Cost - 5000 Influence, 5 Material Resources
+Listed [Mod] Effects
+- -2 Labor
+
+Radio Booster Outpost
+- Claim Cost - 1250 Influence
+
+Safehouse Outpost
+~ Claim Cost - 1500 Influence, 3 Material Resources
+Listed [Mod] Effects
+- -1 Labor
+- +4 Bed
+- Scavenge Function
+
+Water Outpost
+- Claim Cost - 5000 Influence, 5 Material Resources
+Listed [Mod] Effects
+- -1 Labor
+- -2 Fuel Per Day
+
+=======================================
+=======================================
+=======================================
+=======================================
+Functions Information
+
+Ammo Outpost
+- Allows crafting of .22 cal, 9mm, .357 magnum, 5.56mm, and 12g shells.
+Allows Ammo Resource production.
+
+Food Outpost
+- Vanilla Kitchen Craft Functions
+
+Materials Outpost
+- Vanilla Workshop 1 Functions
+- Vanilla Forge Functions
+
+Medical Outpost
+- Vanilla Infirmary 2 Functions
+
+Safehouse Outpost
+- Scavenge function, allows you to spend 2 Ammo and 3 labor to search for resources.
+It yields the following amount after 1 ingame day [90 minutes]
++30 Parts, 2 of every resource except ammo, +50 Prestige, +100 Influence.
