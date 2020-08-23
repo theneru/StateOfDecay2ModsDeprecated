@@ -121,6 +121,7 @@ Effects that apply to both versions -> [Right side notes the difference between 
 ~ Craftable Plague Busters [Stills]                                                                             [SAME FOR DEHD]
 ~ Plague Cures now require water to craft                                                                       [SAME FOR DEHD]
 ~ Altered the cost and requirements to claim an outpost                                                         [SAME FOR DEHD]
+~ Blood Siege                                                                                                   [SAME FOR DEHD]
 
 
 ==================================================================================
@@ -223,7 +224,7 @@ Siege Rewards from the CLEO Relay greatly improved.
 ==================================================================================
 
 PLANS [TO BE IMPLEMENTED]
-3.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
+4.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
 ~ RT DB Recruit weapon set
 ~ Removed Kick from Assault
 ~ Get Aim Snap from Assault at 4 Stars
@@ -231,6 +232,12 @@ PLANS [TO BE IMPLEMENTED]
 ==================================================================================
 
 CHANGELOGS
+4.0+ Changes for Dead End Heaven and Deicide [08-18-20]
+~ Loot Table redo
+~ Plague Heart drop redo
+~ Blood Siege
+~ Scavenge Command for Safehouse Outposts
+
 3.94+ Changes for Dead End Heaven and Deicide [08-18-20]
 ~ Various bug fix [One of the throwables didn't work right]
 ~ Slightly increased avoid range of NPCs from explosives
