@@ -1,33 +1,39 @@
-Outpost Overhaul Mod [Darkside Version]
+Outpost Overhaul Mod
+=======================================
 =======================================
 
 Be warned, the Material Cost is doubled in Nightmare
 due to difficulty settings. It's the game's settings.
-Not mine.
+Not mine. The cost values in bracket are
+for the Standard Version
+
+I = Influence
+M = Materials
 
 =======================================
+=======================================
 Ammo Outpost
-~ Claim Cost - 2000 Influence, 5 Material Resources
+~ Claim Cost - 2000I, 5M [1000I, 2M]
 Listed [Mod] Effects
 - -1 Labor
 - +2 Ammo Per Day
 - Craft Rounds & Produce Ammo Function
 
 Food Outpost
-~ Claim Cost - 1500 Influence, 5 Material Resources
+~ Claim Cost - 1500I, 5M [I, M]
 Listed [Mod] Effects
 - -1 Labor
 - +2 Food Per Day
 - Make Items and Produce Food Function
 
 Fuel Outpost
-~ Claim Cost - 1000 Influence, 2 Material Resources
+~ Claim Cost - 1000I, 2M [750I, 2M]
 Listed [Mod] Effects
 - -1 Labor
 - +2 Fuel Per Day
 
 Materials Outpost
-~ Claim Cost - 3000 Influence, 8 Material Resources
+~ Claim Cost - 3000I, 8M [600I, 2M]
 Listed [Mod] Effects
 - -1 Labor
 - +2 Materials Per Day
@@ -36,38 +42,38 @@ Listed [Mod] Effects
 - Parts to Materials Function
 
 Medical Outpost
-~ Claim Cost - 1500 Influence, 5 Material Resources
+~ Claim Cost - 1500I, 5M [600I, 2M]
 Listed [Mod] Effects
 - -1 Labor
 - +2 Meds Per Day
 - Craft Items and Produce Meds [Infirmary 2]
 
 Artillery Outpost
-~ Claim Cost - 2500 Influence, 5 Material Resources
+~ Claim Cost - 2500I, 5M [1250I, 2M]
 
 Espresso Stand
-- Claim Cost - 775 Influence, 1 Material Resources
+- Claim Cost - 775I, 1M
 Listed [Mod] Effects
 - Slightly higher morale boost
 - Passive Fatigue reduction
 
 Power Outpost
-- Claim Cost - 5000 Influence, 5 Material Resources
+- Claim Cost - 5000I, 5M [2000I, 3M]
 Listed [Mod] Effects
 - -2 Labor
 
 Radio Booster Outpost
-- Claim Cost - 1250 Influence
+- Claim Cost - 1250I
 
 Safehouse Outpost
-~ Claim Cost - 1500 Influence, 3 Material Resources
+~ Claim Cost - 1000I, 3M
 Listed [Mod] Effects
 - -1 Labor
 - +4 Bed
 - Scavenge Function
 
 Water Outpost
-- Claim Cost - 5000 Influence, 5 Material Resources
+- Claim Cost - 5000I, 5M [1800I, 3M]
 Listed [Mod] Effects
 - -1 Labor
 - -2 Fuel Per Day
@@ -96,3 +102,4 @@ Safehouse Outpost
 - Scavenge function, allows you to spend 2 Ammo and 3 labor to search for resources.
 It yields the following amount after 1 ingame day [90 minutes]
 +30 Parts, 2 of every resource except ammo, +50 Prestige, +100 Influence.
+[+40 Parts, 3 of every resource except ammo, +100 Prestige, +250 Influence.]
