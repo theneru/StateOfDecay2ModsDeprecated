@@ -118,8 +118,11 @@ consumables like health, stims, throwables, misc items, and Skill Books
 =======================================
 =======================================
 Future updates
-~ Mod slots
-~ Randomized Scavenge loot
+~ Mod slots [Darkside Ver]
+~ Scavenge for small items [Darkside Ver]
+~ Threat Removal
+~ Scavenge Weapons
+~ Find a Recruit
 =======================================
 Changelogs
 [08-24-20] [Standard Version]
