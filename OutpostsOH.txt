@@ -107,10 +107,12 @@ Medical Outpost
 - Vanilla Infirmary 2 Functions
 
 Safehouse Outpost
-- Scavenge function, allows you to spend 2 Ammo and 3 labor to search for resources.
+- Scavenge for resources function, allows you to spend 2 Ammo and 3 labor to search for resources.
 It yields the following amount after 1 ingame day [90 minutes]
 +30 Parts, 2 of every resource except ammo, +50 Prestige, +100 Influence.
 [+40 Parts, 3 of every resource except ammo, +100 Prestige, +250 Influence.]
+- Scavenge for small items function, allows you to spend 1.5 ammo and 1 labor to search for various
+consumables like health, stims, throwables, misc items, and Skill Books
 
 
 =======================================
@@ -120,5 +122,10 @@ Future updates
 ~ Randomized Scavenge loot
 =======================================
 Changelogs
+[08-24-20] [Standard Version]
+~ Added Mods slots to Ammo, Food, Safehouse and Meds outposts
+~ Scavenge for small items function to Safehouse outpost
+~ Changed original Scavenge function name to Scavenge for resources
+
 [08-23-20]
 Initial Release
