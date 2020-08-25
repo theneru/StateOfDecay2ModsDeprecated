@@ -12,8 +12,8 @@ Outpost Overhaul Mod
 
 Be warned, the Material Cost is doubled in Nightmare
 due to difficulty settings. It's the game's settings.
-Not mine. The cost values in bracket are
-for the Standard Version
+Not mine. Darkside version of this mod is now exclusive to
+the Darkside mod.
 
 I = Influence
 M = Materials
@@ -21,27 +21,27 @@ M = Materials
 =======================================
 =======================================
 Ammo Outpost
-~ Claim Cost - 2000I, 5M [1000I, 2M]
+~ Claim Cost - [1000I, 2M]
 Listed [Mod] Effects
 - -1 Labor
 - +2 Ammo Per Day
 - Craft Rounds & Produce Ammo Function
 
 Food Outpost
-~ Claim Cost - 1500I, 5M [I, M]
+~ Claim Cost - [750I, 2M]
 Listed [Mod] Effects
 - -1 Labor
 - +2 Food Per Day
 - Make Items and Produce Food Function
 
 Fuel Outpost
-~ Claim Cost - 1000I, 2M [750I, 2M]
+~ Claim Cost - [750I, 2M]
 Listed [Mod] Effects
 - -1 Labor
 - +2 Fuel Per Day
 
 Materials Outpost
-~ Claim Cost - 3000I, 8M [600I, 2M]
+~ Claim Cost - [600I, 2M]
 Listed [Mod] Effects
 - -1 Labor
 - +2 Materials Per Day
@@ -57,31 +57,31 @@ Listed [Mod] Effects
 - Craft Items and Produce Meds [Infirmary 2]
 
 Artillery Outpost
-~ Claim Cost - 2500I, 5M [1250I, 2M]
+~ Claim Cost - [1250I, 2M]
 
 Espresso Stand
-- Claim Cost - 775I, 1M
+- Claim Cost - [775I, 1M]
 Listed [Mod] Effects
 - Slightly higher morale boost
 - Passive Fatigue reduction
 
 Power Outpost
-- Claim Cost - 5000I, 5M [2000I, 3M]
+- Claim Cost - [2000I, 3M]
 Listed [Mod] Effects
 - -2 Labor
 
 Radio Booster Outpost
-- Claim Cost - 1250I
+- Claim Cost - [1250I]
 
 Safehouse Outpost
-~ Claim Cost - 1000I, 3M
+~ Claim Cost - [1000I, 3M]
 Listed [Mod] Effects
 - -1 Labor
 - +4 Bed
 - Scavenge Function
 
 Water Outpost
-- Claim Cost - 5000I, 5M [1800I, 3M]
+- Claim Cost - [1800I, 3M]
 Listed [Mod] Effects
 - -1 Labor
 - -2 Fuel Per Day
@@ -109,7 +109,6 @@ Medical Outpost
 Safehouse Outpost
 - Scavenge for resources function, allows you to spend 2 Ammo and 3 labor to search for resources.
 It yields the following amount after 1 ingame day [90 minutes]
-+30 Parts, 2 of every resource except ammo, +50 Prestige, +100 Influence.
 [+40 Parts, 3 of every resource except ammo, +100 Prestige, +250 Influence.]
 - Scavenge for small items function, allows you to spend 1.5 ammo and 1 labor to search for various
 consumables like health, stims, throwables, misc items, and Skill Books
@@ -118,14 +117,12 @@ consumables like health, stims, throwables, misc items, and Skill Books
 =======================================
 =======================================
 Future updates
-~ Mod slots [Darkside Ver]
-~ Scavenge for small items [Darkside Ver]
 ~ Threat Removal
 ~ Scavenge Weapons
 ~ Find a Recruit
 =======================================
 Changelogs
-[08-24-20] [Standard Version]
+[08-24-20]
 ~ Added Mods slots to Ammo, Food, Safehouse and Meds outposts
 ~ Scavenge for small items function to Safehouse outpost
 ~ Changed original Scavenge function name to Scavenge for resources
