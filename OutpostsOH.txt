@@ -26,6 +26,7 @@ Listed [Mod] Effects
 - -1 Labor
 - +2 Ammo Per Day
 - Craft Rounds & Produce Ammo Function
+- Mod Slot [Worshop Mods]
 
 Food Outpost
 ~ Claim Cost - [750I, 2M]
@@ -33,6 +34,7 @@ Listed [Mod] Effects
 - -1 Labor
 - +2 Food Per Day
 - Make Items and Produce Food Function
+- Mod Slot [Kitchen Mods]
 
 Fuel Outpost
 ~ Claim Cost - [750I, 2M]
@@ -55,6 +57,7 @@ Listed [Mod] Effects
 - -1 Labor
 - +2 Meds Per Day
 - Craft Items and Produce Meds [Infirmary 2]
+- Mod Slot [Infirmary Mods]
 
 Artillery Outpost
 ~ Claim Cost - [1250I, 2M]
@@ -79,6 +82,7 @@ Listed [Mod] Effects
 - -1 Labor
 - +4 Bed
 - Scavenge Function
+- Mod Slot [Bed Mods]
 
 Water Outpost
 - Claim Cost - [1800I, 3M]
@@ -117,9 +121,10 @@ consumables like health, stims, throwables, misc items, and Skill Books
 =======================================
 =======================================
 Future updates
-~ Threat Removal
-~ Scavenge Weapons
-~ Find a Recruit
+~ Threat Removal Function [Safehouse]
+~ Scavenge Weapons Function [Safehouse]
+~ Find a Recruit Function [Safehouse]
+~ Increase Safehouse Claim Cost
 =======================================
 Changelogs
 [08-24-20]
