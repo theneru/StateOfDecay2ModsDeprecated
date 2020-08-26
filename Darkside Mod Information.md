@@ -78,13 +78,13 @@ CHANGELOGS AT THE BOTTOM
 
 EMBEDDED MODS INFO  
 //////////////////////////  
-Altered Rucksacks Contents (Embedded)
-Changes the items given to you by the rucksack when opened.
-Making the rucksack more enticing to open.
-~ Ammo Sacks: Can give various ammo types, guns and throwables
-~ Material Sacks: Can give parts, scraps, toolkits and melee weapons
-~ Food Sacks: Can give food related items (Mysterious Meat Sack is unchanged)
-~ Medicine Sack: Can give health and stamina related items
+Altered Rucksacks Contents (Embedded)  
+Changes the items given to you by the rucksack when opened.  
+Making the rucksack more enticing to open.  
+~ Ammo Sacks: Can give various ammo types, guns and throwables  
+~ Material Sacks: Can give parts, scraps, toolkits and melee weapons  
+~ Food Sacks: Can give food related items (Mysterious Meat Sack is unchanged)  
+~ Medicine Sack: Can give health and stamina related items  
 ~ Fuel Sack: Can give fuel related items and throwables  
 //////////////////////////  
 
@@ -95,13 +95,13 @@ Siege Rewards from the CLEO Relay greatly improved.
 ~ Supply Drop - May contain CLEO and RTX guns, buttloads of resources or 15 DEH War Bags (1hr cooldown)  
 //////////////////////////  
 
-/////////////////////////////////////////////////////
+/////////////////////////////////////////////////////  
 
-PLANS [TO BE IMPLEMENTED]
+PLANS [TO BE IMPLEMENTED]  
 ~
 
 ==================================================================================
 
-CHANGELOGS
-08-27-20
+CHANGELOGS  
+08-27-20  
 Initial Release for public
