@@ -19,8 +19,6 @@ https://www.paypal.me/TheNeru
 ==================================================================================
 ==================================================================================
 WARNING! Damage multipliers used in these mod also affect clients!
-WARNING! Damage multipliers used in these mod also affect clients!
-WARNING! Do not invite random people for the sole purpose of killing their survivors with these mods!
 WARNING! Do not invite random people for the sole purpose of killing their survivors with these mods!
 ==================================================================================
 ==================================================================================
@@ -32,6 +30,10 @@ FILES WHICH MIGHT CONFLICT WITH OTHER MODS
 
 INSTALLING THIS MOD MIDWAY INTO A GAME/SAVE WILL NOT AFFECT PRE-EXISTING PLAGUE HEARTS THAT WERE NOT SPAWNED
 BY THE MOD. IT IS HIGHLY RECOMMENDED TO CHANGE MAPS, DIFFICULTY OR START A NEW GAME ENTIRELY.
+
+THIS MOD AFFECTS ALL DIFFICULTIES
+STANDARD IS EASIER THAN DREAD, DREAD IS EASIER THAN NIGHTMARE AND NIGHTMARE IS EASIER THAN GREEN ZONE
+STANDARD IS EASIER THAN DREAD, DREAD IS EASIER THAN NIGHTMARE AND NIGHTMARE IS EASIER THAN GREEN ZONE
 
 [CHANGELOGS AT THE BOTTOM]
 
