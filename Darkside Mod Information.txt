@@ -1,9 +1,18 @@
-(/◕ヮ◕)/ Shameless Paypal link insertion here. (/◕ヮ◕)/
+
+(/◕ヮ◕)/ Shameless Donation links insertion here. (/◕ヮ◕)/
+Brian asked me to create this Darkside mod, if you've watched his videos of this mod and have not
+subscribed to his channel yet. Consider doing so! [His YT Channel Link below].
+You may send donos [donations] to him as well! [Streamlab link below]
+
+Brian's Youtube Channel -> https://www.youtube.com/channel/UC3t5CYZMhhOl0_8ATxCBrkg
+Brian's Donation Link -> https://streamlabs.com/brianmenard/tip
+
+
 If you like my mods and probably want or don't want to see more. A Donation is welcome but never required.
 
 https://www.paypal.me/TheNeru
 
-¯\_(ツ)_/¯ Shameless Paypal link insertion end. ¯\_(ツ)_/¯
+¯\_(ツ)_/¯ Shameless Donation links insertion end. ¯\_(ツ)_/¯
 
 
 ==================================================================================
@@ -69,7 +78,7 @@ Darkside effects
 ~ Roll of Firework Crackers effectiveness has been increased
 ~ Last of Us difficulty level [Active when community has 14 Heroes in Nightmare Zone]
 ~ Plague Heart explosion greatly increased damage and plague damage
-~ Murder Pack - Pack 4 Ferals. 2 Regular and 2 Blood Versions [NZ Only]
+~ Murder Pack - Pack 4-6 Ferals. 2-3 Regular and 2-3 Blood Versions [NZ Only]
 ~ Increased damage taken
 ~ Reduced Standing gain
 ~ Car Headlights are God Rays
