@@ -22,7 +22,7 @@ WARNING! Do not invite random people for the sole purpose of killing their survi
 THIS MOD IS MEANT TO BE PLAYED WITHOUT ANY OTHER MODS FOR BETTER EXPERIENCE! THIS MOD AFFECTS SEVERAL
 FILES WHICH MIGHT CONFLICT WITH OTHER MODS
 
-# CHANGELOGS AT THE BOTTOM  
+CHANGELOGS AT THE BOTTOM  
 
 # Darkside effects  
 ~ Increased Plague Heart Health  
@@ -76,7 +76,7 @@ FILES WHICH MIGHT CONFLICT WITH OTHER MODS
 ~ Vehicle trunk size is 18  
 
 
-EMBEDDED MODS INFO  
+# EMBEDDED MODS INFO  
 //////////////////////////  
 Altered Rucksacks Contents (Embedded)  
 Changes the items given to you by the rucksack when opened.  
@@ -97,11 +97,11 @@ Siege Rewards from the CLEO Relay greatly improved.
 
 /////////////////////////////////////////////////////  
 
-PLANS [TO BE IMPLEMENTED]  
+# PLANS [TO BE IMPLEMENTED]  
 ~
 
 ==================================================================================
 
-CHANGELOGS  
+# CHANGELOGS  
 08-27-20  
 Initial Release for public
