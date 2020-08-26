@@ -151,7 +151,6 @@ Radio Unlock Effects
 ==================================================================================
 
 EMBEDDED MODS INFO
-Embedded mods are applied to both versions
 
 Altered Rucksacks Contents [Embedded]
 --------------------------
