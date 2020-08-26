@@ -39,7 +39,7 @@ BY THE MOD. IT IS HIGHLY RECOMMENDED TO CHANGE MAPS, DIFFICULTY OR START A NEW G
 Incompatible Mods List
 ==================================================================================
 ==================================================================================
-Dead End Heaven & Deicide is incompatible with:
+Dead End Heaven Deicide is incompatible with:
 ~ ANY Spawn Mods
 ~ All Active Legacy
 ~ SZDZNZ Morale Recruit
@@ -47,11 +47,11 @@ Dead End Heaven & Deicide is incompatible with:
 ~ Tech Me Not
 ~ Better Starter Items
 ~ AI Limit Fix
-~ Super Radio Unlock [Deicide Only]
-~ Super Radio Unlock Low Cost - No Cooldown [Deicide Only]
+~ Super Radio Unlock
+~ Super Radio Unlock Low Cost - No Cooldown
 ~ Hurts like hell
 ~ Boom Pack
-~ Safe Space [Deicide Only]
+~ Safe Space
 ~ Mad Max Weapons Pack
 ~ Mad Max Explosives Pack
 ~ Mad Max Ammo Stack
@@ -68,65 +68,55 @@ Super Radio Unlock mods can be used by giving the mod higher priority.
 
 
 
-
-
-
-Dead End Heaven & Dead End Heaven Deicide effects
+Dead End Heaven Deicide effects
 ==================================================================================
 ==================================================================================
-
-Effects that apply to both versions -> [Right side notes the difference between the two]
-~ Increased Plague Heart Health                                                                                 [PHearts in DEHD have higher Health]
-~ Plague Heart takes increased damage from Melee and fire but takes greatly reduced gun and explosive damage.   [SAME FOR DEHD]
-~ Plague Heart can spawn Special Infected when attacked. (Bloater, Blood Feral)                                 [SAME FOR DEHD]
-~ Plague Heart has increased zombie spawn with nearly no cooldown                                               [SAME FOR DEHD]
-~ Plague Heart gas damage increased and deals plague damage                                                     [SAME FOR DEHD]
-~ Plague Heart can spawn up to 4 Blood Ferals max                                                               [8 BFerals in DEHD]
-~ Blood Ferals take less headshots to kill                                                                      [Takes +2 more in DEHD with increased Headshot immunity time]
-~ All Freaks can now spawn in the field. Except for Blood Ferals                                                [BFerals can spawn in field in DEHD]
-~ The amount of Ambient Zombies spawned is greatly increased                                                    [DEHD has more]
-~ Ferals have increased Car Dodge Cooldown                                                                      [SAME FOR DEHD]
-~ Hordes and Special Infected are more pronounced                                                               [SAME FOR DEHD]
-~ Bloodfestation [Based on Heilos' Inf. Infestation]                                                            [SAME FOR DEHD]
-~ Bloater Cloud is 5 times it's regular size while Blood Bloater Cloud is 2x                                    [SAME FOR DEHD]
-~ Plague Damage of Blood Bloater Cloud is cut by half                                                           [SAME FOR DEHD]
-~ Increased Plague Heart cloud area                                                                             [SAME FOR DEHD]
-~ Plague Heart Burst and Cloud events now attract zombies                                                       [SAME FOR DEHD]
-~ Altered Plague Heart Drops                                                                                    [SAME FOR DEHD]
-~ Zeds scream louder                                                                                            [SAME FOR DEHD]
-~ Enhanced Plague Cures can now persist in main game and Heartland                                              [SAME FOR DEHD]
-~ Bloater Glands can now persist in main game and Heartland                                                     [SAME FOR DEHD]
-~ Plague Busters can now persist in main game and Heartland                                                     [SAME FOR DEHD]
-~ Better Starter Items [Guns, ammo, sacks, consumables, throwable]                                              [SAME FOR DEHD]
-~ Better Armed Enclaves                                                                                         [SAME FOR DEHD]
-~ Increased the amount of ammo you can carry                                                                    [SAME FOR DEHD]
-~ Craftable Vial of Enhanced Plague Cure (Infirmary 3 or Field Hospital)                                        [SAME FOR DEHD]
-~ Increased chances of contracting Plague                                                                       [Higher chance in DEHD] [THIS AFFECTS CLIENTS AS WELL!]
-~ Morale Recruit from Green Zone (At +10 Morale)                                                                [SAME FOR DEHD]
-~ Morale Recruit has weapons and items on them                                                                  [SAME FOR DEHD]
-~ Impossible Green Zone                                                                                         [SAME FOR DEHD]
-~ +1 Outpost Slot                                                                                               [SAME FOR DEHD]
-~ +2 Base Bed                                                                                                   [SAME FOR DEHD]
-~ -1 Labor Debuff                                                                                               [SAME FOR DEHD]
-~ Fuel Cans and Repair Kits stacking                                                                            [SAME FOR DEHD]
-~ Increased Refuel and Repair by 15%                                                                            [SAME FOR DEHD]
-~ NPCs now actively avoid modded Bloater Gas size                                                               [SAME FOR DEHD]
-~ Crouch Sprinting available regardless of skill                                                                [SAME FOR DEHD]
-~ Daily Prestige Gain                                                                                           [SAME FOR DEHD]
-~ Specialization Unlocks                                                                                        [SAME FOR DEHD]
-~ More Morale Penalty [Dread and Nightmare only]                                                                [SAME FOR DEHD]
-~ Espresso Stand Outpost gives more Morale and reduces fatigue rate                                             [SAME FOR DEHD]
-~ Safehouse provides more beds and reduces noise                                                                [SAME FOR DEHD]
-~ Rucksack Yields 3 resources                                                                                   [SAME FOR DEHD]
-~ Craftable Plague Busters [Stills]                                                                             [SAME FOR DEHD]
-~ Plague Cures now require water to craft                                                                       [SAME FOR DEHD]
-~ Altered the cost and requirements to claim an outpost                                                         [SAME FOR DEHD]
-~ Blood Siege                                                                                                   [SAME FOR DEHD]
-
-
-==================================================================================
-==================================================================================
-Dead End Heaven Deicide exclusives effects
+~ Increased Plague Heart Health
+~ Plague Heart takes increased damage from Melee and fire but takes greatly reduced gun and explosive damage.
+~ Plague Heart can spawn Special Infected when attacked. (Bloater, Blood Feral)
+~ Plague Heart has increased zombie spawn with nearly no cooldown
+~ Plague Heart gas damage increased and deals plague damage
+~ Plague Heart can spawn up to 8 Blood Ferals max
+~ Blood Ferals take more headshots to kill
+~ All Freaks can now spawn in the field.
+~ The amount of Ambient Zombies spawned is greatly increased
+~ Ferals have increased Car Dodge Cooldown
+~ Hordes and Special Infected are more pronounced
+~ Bloodfestation [Based on Heilos' Inf. Infestation]
+~ Bloater Cloud is 5 times it's regular size while Blood Bloater Cloud is 2x
+~ Plague Damage of Blood Bloater Cloud is cut by half
+~ Increased Plague Heart cloud area
+~ Plague Heart Burst and Cloud events now attract zombies
+~ Altered Plague Heart Drops
+~ Zeds scream louder
+~ Enhanced Plague Cures can now persist in main game and Heartland
+~ Bloater Glands can now persist in main game and Heartland
+~ Plague Busters can now persist in main game and Heartland
+~ Better Starter Items [Guns, ammo, sacks, consumables, throwable]
+~ Better Armed Enclaves [Bounty Broker Weapons]
+~ Increased the amount of ammo you can carry
+~ Craftable Vial of Enhanced Plague Cure (Infirmary 2 or Field Hospital)
+~ Increased chances of contracting Plague
+~ Morale Recruit from Green Zone (At +10 Morale)
+~ Morale Recruit has weapons and items on them
+~ Impossible Green Zone
+~ +1 Outpost Slot
+~ +2 Base Bed
+~ -1 Labor Debuff
+~ Fuel Cans and Repair Kits stacking
+~ Increased Refuel and Repair by 15%
+~ NPCs now actively avoid modded Bloater Gas size
+~ Crouch Sprinting available regardless of skill
+~ Daily Prestige Gain
+~ Specialization Unlocks
+~ More Morale Penalty [Dread and Nightmare only]
+~ Espresso Stand Outpost gives more Morale and reduces fatigue rate
+~ Safehouse provides more beds and reduces noise
+~ Rucksack Yields 3 resources
+~ Craftable Plague Busters [Stills]
+~ Plague Cures now require water to craft
+~ Altered the cost and requirements to claim an outpost
+~ Blood Siege
 ~ Plague Heart gas ignores obstacles and will slowly expand over time
 ~ Screamer loudness increased greatly
 ~ Tougher Juggernaut
@@ -225,13 +215,16 @@ Siege Rewards from the CLEO Relay greatly improved.
 
 PLANS [TO BE IMPLEMENTED]
 4.++ Changes for Dead End Heaven and Deicide [Soon-Plans]
-~ RT DB Recruit weapon set
-~ Removed Kick from Assault
-~ Get Aim Snap from Assault at 4 Stars
+~ Add trait Short Change Hero
+~ Add trait Among the Dead
 
 ==================================================================================
 
 CHANGELOGS
+4.1+ Changes for Dead End Heaven and Deicide [08-27-20]
+~ Updated for Build 20 402590
+~ Added Scentblock Fix
+
 4.0+ Changes for Dead End Heaven and Deicide [08-23-20]
 ~ Loot Table redo
 ~ Plague Heart drop redo
