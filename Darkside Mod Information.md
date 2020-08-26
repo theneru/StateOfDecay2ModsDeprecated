@@ -11,7 +11,7 @@ If you like my mods and probably want or don't want to see more. A Donation is w
 
 https://www.paypal.me/TheNeru
 
-¯\_(ツ)_/¯ Shameless Donation links insertion end. ¯\_(ツ)_/¯
+Shameless Donation links insertion end.
 
 
 WARNING! Damage multipliers used in these mod also affect clients!
@@ -24,7 +24,7 @@ FILES WHICH MIGHT CONFLICT WITH OTHER MODS
 CHANGELOGS AT THE BOTTOM
 
 
-Darkside effects
+# Darkside effects  
 ~ Increased Plague Heart Health  
 ~ Plague Heart takes increased damage from Melee and fire but takes greatly reduced gun and explosive damage.  
 ~ Plague Heart can spawn Special Infected when attacked. (Bloater, Blood Feral)  
@@ -76,7 +76,7 @@ Darkside effects
 ~ Vehicle trunk size is 18  
 
 
-EMBEDDED MODS INFO
+EMBEDDED MODS INFO  
 //////////////////////////  
 Altered Rucksacks Contents (Embedded)
 Changes the items given to you by the rucksack when opened.
@@ -85,7 +85,7 @@ Making the rucksack more enticing to open.
 ~ Material Sacks: Can give parts, scraps, toolkits and melee weapons
 ~ Food Sacks: Can give food related items (Mysterious Meat Sack is unchanged)
 ~ Medicine Sack: Can give health and stamina related items
-~ Fuel Sack: Can give fuel related items and throwables
+~ Fuel Sack: Can give fuel related items and throwables  
 //////////////////////////  
 
 CLEO Drop Rewards S DEH Version (Embedded)  
@@ -93,7 +93,7 @@ CLEO Drop Rewards S DEH Version (Embedded)
 Siege Rewards from the CLEO Relay greatly improved.  
 ~ Ammo Drop - Contains buttloads of ammo. Not just CLEO rounds (30 minute cooldown)  
 ~ Supply Drop - May contain CLEO and RTX guns, buttloads of resources or 15 DEH War Bags (1hr cooldown)  
-//////////////////////////
+//////////////////////////  
 
 /////////////////////////////////////////////////////
 
