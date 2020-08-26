@@ -231,6 +231,8 @@ CHANGELOGS
 ~ Added Scentblock Fix
 ~ Mad Norma and Bloodmobile trunk size is now 18 slots
 ~ Car Headlights are now God Rays
+~ Updated All Bounty Tabs
+~ Spawn Adjustment [All difficulties]
 
 4.0+ Changes for Dead End Heaven and Deicide [08-23-20]
 ~ Loot Table redo
