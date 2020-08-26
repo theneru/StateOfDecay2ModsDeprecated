@@ -19,11 +19,10 @@ WARNING! Damage multipliers used in these mod also affect clients!
 WARNING! Do not invite random people for the sole purpose of killing their survivors with these mods!
 
 
-THESE MODS IS MEANT TO BE PLAYED WITHOUT ANY OTHER MODS FOR BETTER EXPERIENCE! THESE MODS AFFECTS SEVERAL
+THIS MOD IS MEANT TO BE PLAYED WITHOUT ANY OTHER MODS FOR BETTER EXPERIENCE! THIS MOD AFFECTS SEVERAL
 FILES WHICH MIGHT CONFLICT WITH OTHER MODS
 
-CHANGELOGS AT THE BOTTOM
-
+# CHANGELOGS AT THE BOTTOM  
 
 # Darkside effects  
 ~ Increased Plague Heart Health  
