@@ -221,9 +221,10 @@ PLANS [TO BE IMPLEMENTED]
 ==================================================================================
 
 CHANGELOGS
-4.1+ Changes for Dead End Heaven and Deicide [08-27-20]
+4.01+ Changes for Dead End Heaven and Deicide [08-??-20]
 ~ Updated for Build 20 402590
 ~ Added Scentblock Fix
+~ Mad Norma and Bloodmobile trunk size is now 18 slots
 
 4.0+ Changes for Dead End Heaven and Deicide [08-23-20]
 ~ Loot Table redo
