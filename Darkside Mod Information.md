@@ -31,7 +31,7 @@ CHANGELOGS AT THE BOTTOM
 ~ Plague Heart has increased zombie spawn with nearly no cooldown  
 ~ Plague Heart gas damage increased and deals plague damage  
 ~ Plague Heart can spawn up to 8 Blood Ferals max  
-~ All Freaks can now spawn in the field.  
+~ All Freaks can now spawn in the field. (Except for Blood Ferals)  
 ~ The amount of Ambient Zombies spawned is greatly increased  
 ~ Ferals have increased Car Dodge Cooldown  
 ~ Hordes and Special Infected are more pronounced  
