@@ -95,6 +95,13 @@ Siege Rewards from the CLEO Relay greatly improved.
 ~ Supply Drop - May contain CLEO and RTX guns, buttloads of resources or 15 DEH War Bags (1hr cooldown)  
 //////////////////////////  
 
+Output Overhaul Darkside Ver (Embedded)  
+//////////////////////////  
+Same as the Standard Outpost Overhaul mod, except outposts  
+cost more and instead of the Materials Outpost having Parts to Materials function  
+the Materials Outpost will instead have the Sawmill functions  
+//////////////////////////  
+  
 /////////////////////////////////////////////////////  
 
 # PLANS [TO BE IMPLEMENTED]  
