@@ -105,7 +105,8 @@ the Materials Outpost will instead have the Sawmill functions
 /////////////////////////////////////////////////////  
 
 # PLANS [TO BE IMPLEMENTED]  
-~
+~ Adjust Saw Mill functions  
+~ Added signals during Plague Heart gas phases
 
 ==================================================================================
 
