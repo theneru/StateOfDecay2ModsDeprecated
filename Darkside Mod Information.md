@@ -54,7 +54,7 @@ CHANGELOGS AT THE BOTTOM
 ~ Decreased Gas Can and Toolkit fill/repair by half  
 ~ NPCs now actively avoid modded Bloater Gas size  
 ~ Specialization Unlocks  
-~ More Morale Penalty (Dread and Nightmare only)  
+~ More Morale Penalty  
 ~ Espresso Stand Outpost gives more Morale and reduces fatigue rate  
 ~ Safehouse provides more beds and reduces noise  
 ~ Rucksack Yields 2-3 resources  
