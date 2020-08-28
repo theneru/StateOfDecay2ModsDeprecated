@@ -225,6 +225,9 @@ PLANS [TO BE IMPLEMENTED]
 ==================================================================================
 
 CHANGELOGS
+4.02+ Changes for Dead End Heaven and Deicide [08-27-20]
+~ Adjusted Loot table for Safehouse Scavenge function (Small items)
+
 4.01+ Changes for Dead End Heaven and Deicide [08-27-20]
 ~ Updated for Build 20 402590
 ~ Added Scentblock Fix
