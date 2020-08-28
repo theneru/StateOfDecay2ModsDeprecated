@@ -114,8 +114,8 @@ the Materials Outpost will instead have the Sawmill functions
 Rebalanced Saw Mill function for Materials Outpost  
 Adjusted Loot Table for Safehouse (Small Items)  
 Plague Hearts make audio noise during Gas Phase to signal gas phase end  
-(1st Gas Phase - 1 Signal means Gas has dissipitated)
-(2nd Gas Phase - 3 Signals means Gas has dissipitated)
+(1st Gas Phase - 1 Signal means Gas has dissipitated)  
+(2nd Gas Phase - 3 Signals means Gas has dissipitated)  
 
 08-27-20  
 Initial Release for public
