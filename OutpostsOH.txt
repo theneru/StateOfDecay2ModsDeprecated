@@ -29,11 +29,12 @@ Listed [Mod] Effects
 - Mod Slot [Worshop Mods]
 
 Food Outpost
-~ Claim Cost - [750I, 2M]
+~ Claim Cost - [900I, 2M]
 Listed [Mod] Effects
 - -1 Labor
 - +2 Food Per Day
 - Make Items and Produce Food Function
+- Prepare Feast (Philippine Dishes)
 - Mod Slot [Kitchen Mods]
 
 Fuel Outpost
@@ -60,7 +61,13 @@ Listed [Mod] Effects
 - Mod Slot [Infirmary Mods]
 
 Artillery Outpost
-~ Claim Cost - [1250I, 2M]
+~ Claim Cost - [3250I, 7M]
+Listed [Mod] Effects
+- -4 Labor
+- -2 Ammo Per Day
+- Unlocks Mortar Barrage Radio Call
+- Craft Ammo & Weapon Mods Function
+- Mod Slot [Workshop Mods]
 
 Espresso Stand
 - Claim Cost - [775I, 1M]
@@ -77,11 +84,12 @@ Radio Booster Outpost
 - Claim Cost - [1250I]
 
 Safehouse Outpost
-~ Claim Cost - [1000I, 3M]
+~ Claim Cost - [1250I, 3M]
 Listed [Mod] Effects
 - -1 Labor
 - +4 Bed
 - Scavenge Function
+- Distract Threat Function
 - Mod Slot [Bed Mods]
 
 Water Outpost
@@ -98,10 +106,13 @@ Functions Information
 
 Ammo Outpost
 - Allows crafting of .22 cal, 9mm, .357 magnum, 5.56mm, and 12g shells.
-Allows Ammo Resource production.
+- Allows Ammo Resource production.
 
 Food Outpost
 - Vanilla Kitchen Craft Functions
+- Prepare Feast (Philippine Dishes)
+Spend 4 Food and 3 Labor to give your community Morale, Stamina and Fatigue Rate Reduction
+buff for 1 hour. Bonus effects when having certain Cooking related Knowledges.
 
 Materials Outpost
 - Vanilla Workshop 1 Functions
@@ -116,17 +127,21 @@ It yields the following amount after 1 ingame day [90 minutes]
 [+40 Parts, 3 of every resource except ammo, +100 Prestige, +250 Influence.]
 - Scavenge for small items function, allows you to spend 1.5 ammo and 1 labor to search for various
 consumables like health, stims, throwables, misc items, and Skill Books
-
+- Distract Threat function, spend 3 ammo and 6 Firecrackers to distract zeds from your base for
+1 day.
 
 =======================================
 =======================================
 Future updates
-~ Threat Removal Function [Safehouse]
 ~ Scavenge Weapons Function [Safehouse]
 ~ Find a Recruit Function [Safehouse]
-~ Increase Safehouse Claim Cost
 =======================================
 Changelogs
+[08-30-20]
+~ Added Distract Threat Function to Safehouse Outpost
+~ Increased Outpost Cost
+~ Added Several new functions to Artillery Outpost
+
 [08-24-20]
 ~ Added Mods slots to Ammo, Food, Safehouse and Meds outposts
 ~ Scavenge for small items function to Safehouse outpost
