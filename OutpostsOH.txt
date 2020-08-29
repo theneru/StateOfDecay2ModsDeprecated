@@ -121,6 +121,11 @@ Materials Outpost
 Medical Outpost
 - Vanilla Infirmary 2 Functions
 
+Artillery Outpost
+- Allows crafting of .45, 7.62mm, .50 Cal and 40mm rounds
+- Allows crafting of Advance Weapon Mods
+- Allows Ammo Resource production.
+
 Safehouse Outpost
 - Scavenge for resources function, allows you to spend 2 Ammo and 3 labor to search for resources.
 It yields the following amount after 1 ingame day [90 minutes]
