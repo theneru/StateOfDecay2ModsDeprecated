@@ -45,7 +45,7 @@ Listed [Mod] Effects
 Materials Outpost
 ~ Claim Cost - [600I, 2M]
 Listed [Mod] Effects
-- -1 Labor
+- -2 Labor
 - +2 Materials Per Day
 - Craft Items and Produce Ammo [Workshop 1] Function
 - Repair and Salvage Weapons [Workshop 1] Function
