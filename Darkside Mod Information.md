@@ -110,6 +110,13 @@ the Materials Outpost will instead have the Sawmill functions
 ==================================================================================
 
 # CHANGELOGS  
+08-30-20  
+Added Several Functions to the Artillery Outpost
+Added Prepare Feast (Philippine Dishes) Function to Food Outposts
+Increased Claim Cost for Food and Artillery Outpost
+Added Distract Threat Function to Safehouse
+Increased Claim Cost for Safehouse Outpost
+
 08-28-20  
 Rebalanced Saw Mill function for Materials Outpost  
 Adjusted Loot Table for Safehouse (Small Items)  
