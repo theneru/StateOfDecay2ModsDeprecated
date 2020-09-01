@@ -110,6 +110,10 @@ the Materials Outpost will instead have the Sawmill functions
 ==================================================================================
 
 # CHANGELOGS  
+09-01-20  
+Enclaves no longer disband when recruiting one of their members (Non-Arc Legacy)
+Bloater Gland Harvest is enabled after completing "A Cure for All Seasons"
+
 08-30-20  
 Added Several Functions to the Artillery Outpost
 Added Prepare Feast (Philippine Dishes) Function to Food Outposts
