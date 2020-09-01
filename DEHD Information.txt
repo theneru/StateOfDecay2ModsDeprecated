@@ -225,13 +225,17 @@ PLANS [TO BE IMPLEMENTED]
 ==================================================================================
 
 CHANGELOGS
-4.02+ Changes for Dead End Heaven and Deicide [08-27-20]
+4.1+ Changes for Dead End Heaven Deicide [09-01-20]
+~ Enclaves no longer disband when recruiting one of their members [Non-Arc Legacy]
+~ Bloater Gland Harvest enabled after finishing "A Cure for All Seasons" task
+
+4.02+ Changes for Dead End Heaven Deicide [08-27-20]
 ~ Adjusted Loot table for Safehouse Scavenge function (Small items)
 ~ Plague Hearts make audio noise during Gas Phase to signal gas phase end  
 (1st Gas Phase - 1 Signal means Gas has dissipitated)
 (2nd Gas Phase - 3 Signals means Gas has dissipitated)
 
-4.01+ Changes for Dead End Heaven and Deicide [08-27-20]
+4.01+ Changes for Dead End Heaven Deicide [08-27-20]
 ~ Updated for Build 20 402590
 ~ Added Scentblock Fix
 ~ Mad Norma and Bloodmobile trunk size is now 18 slots
