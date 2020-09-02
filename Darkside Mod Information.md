@@ -74,6 +74,8 @@ CHANGELOGS AT THE BOTTOM
 ~ Car Headlights are God Rays  
 ~ Increased Vehicle Acceleration and top speed  
 ~ Vehicle trunk size is 18  
+~ Enclaves no longer disband when recruiting one of their members (Non-Arc Legacy)  
+~ Bloater Gland Harvest is enabled after completing "A Cure for All Seasons"
 
 
 # EMBEDDED MODS INFO  
@@ -111,7 +113,7 @@ the Materials Outpost will instead have the Sawmill functions
 
 # CHANGELOGS  
 09-01-20  
-Enclaves no longer disband when recruiting one of their members (Non-Arc Legacy)
+Enclaves no longer disband when recruiting one of their members (Non-Arc Legacy)  
 Bloater Gland Harvest is enabled after completing "A Cure for All Seasons"
 
 08-30-20  
