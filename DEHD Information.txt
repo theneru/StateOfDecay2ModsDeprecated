@@ -138,6 +138,8 @@ Dead End Heaven Deicide effects
 ~ Car Headlights are God Rays
 ~ Increased Vehicle Acceleration and top speed
 ~ Vehicle trunk size is 18
+~ Enclaves no longer disband when recruiting one of their members [Non-Arc Legacy]
+~ Bloater Gland Harvest enabled after finishing "A Cure for All Seasons" task
 
 Radio Unlock Effects
 ~ Police Car Delivery - Same as vanilla but trunk items are changed
@@ -225,6 +227,9 @@ PLANS [TO BE IMPLEMENTED]
 ==================================================================================
 
 CHANGELOGS
+4.11+ Changes for Dead End Heaven Deicide [09-02-20]
+~ Adjusted Starter Items
+
 4.1+ Changes for Dead End Heaven Deicide [09-01-20]
 ~ Enclaves no longer disband when recruiting one of their members [Non-Arc Legacy]
 ~ Bloater Gland Harvest enabled after finishing "A Cure for All Seasons" task
