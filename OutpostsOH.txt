@@ -38,10 +38,12 @@ Listed [Mod] Effects
 - Mod Slot [Kitchen Mods]
 
 Fuel Outpost
-~ Claim Cost - [750I, 2M]
+~ Claim Cost - [800I, 2M]
 Listed [Mod] Effects
 - -1 Labor
 - +2 Fuel Per Day
+- Crafting of Light Upgrade Kit
+- Vehicle Tuning [Autoshop Vehicle Durability and Noise]
 
 Materials Outpost
 ~ Claim Cost - [600I, 2M]
@@ -81,7 +83,11 @@ Listed [Mod] Effects
 - -2 Labor
 
 Radio Booster Outpost
-- Claim Cost - [1250I]
+- Claim Cost - [1350I]
+Listed [Mod] Effects
+- -1 Labor
+- Unlocks Sniper and Recon Radio Call
+- Provides Passive Enemy Detection
 
 Safehouse Outpost
 ~ Claim Cost - [1250I, 3M]
@@ -114,6 +120,10 @@ Food Outpost
 Spend 4 Food and 3 Labor to give your community Morale, Stamina and Fatigue Rate Reduction
 buff for 1 hour. Bonus effects when having certain Cooking related Knowledges.
 
+Fuel Outpost
+- Light Vehicle Upgrade Kit crafting
+- Vanilla Autoshop Vehicle Tuning
+
 Materials Outpost
 - Vanilla Workshop 1 Functions
 - Vanilla Forge Functions
@@ -142,6 +152,14 @@ Future updates
 ~ Find a Recruit Function [Safehouse]
 =======================================
 Changelogs
+[09-02-30]
+~ Increased Fuel Outpost Cost
+~ Fuel Outpost can now tune car durability and noise
+~ Fuel Outpost can now craft Light Vehicle Upgrade Kits
+~ Increased Radio Tower Claim cost
+~ Radio Tower now unlocks sniper and recon support
+~ Radio Tower now provides passive detection
+
 [08-30-20]
 ~ Added Distract Threat Function to Safehouse Outpost
 ~ Increased Outpost Cost
