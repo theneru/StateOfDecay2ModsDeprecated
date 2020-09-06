@@ -66,7 +66,6 @@ CHANGELOGS AT THE BOTTOM
 ~ Screamer loudness increased greatly  
 ~ Increased the amount of some consumables you can carry  
 ~ Roll of Firework Crackers effectiveness has been increased  
-~ Last of Us difficulty level (Active when community has 14 Heroes in Nightmare Zone)  
 ~ Plague Heart explosion greatly increased damage and plague damage  
 ~ Murder Pack - Pack 4-6 Ferals. 2-3 Regular and 2-3 Blood Versions (NZ Only)  
 ~ Increased damage taken  
