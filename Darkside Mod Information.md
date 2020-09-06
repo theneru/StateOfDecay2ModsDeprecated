@@ -74,7 +74,19 @@ CHANGELOGS AT THE BOTTOM
 ~ Increased Vehicle Acceleration and top speed  
 ~ Vehicle trunk size is 18  
 ~ Enclaves no longer disband when recruiting one of their members (Non-Arc Legacy)  
-~ Bloater Gland Harvest is enabled after completing "A Cure for All Seasons"
+~ Bloater Gland Harvest is enabled after completing "A Cure for All Seasons"  
+
+# CUSTOM TRAITS  
+**Short Change Hero**  
+//////////////////////////  
+This ain't no place for no Hero. This ain't no place for no better man.  
+
+*All Core Skills are at 6 Stars*  
+*Unlocks Heroism and Warfighting specializaton*  
+*-3 Morale to everyone*  
+*-50% Standing Gain*  
+*Hero Bonus: +1 Ammo Everyday*  
+//////////////////////////  
 
 
 # EMBEDDED MODS INFO  
@@ -111,6 +123,14 @@ the Materials Outpost will instead have the Sawmill functions
 ==================================================================================
 
 # CHANGELOGS  
+09-06-20  
+Several Bug Fixes  
+Thermite can now kill armored Zeds  
+Added CTS 7290-9 Flash-Bang  
+CTS 7290-9 Flash-Bang can be Crafted at Military Outposts  
+Military Outposts now unlocks the radio call to find Fatigues (People with military background)  
+Added Custom Trait "Short Change Hero"
+
 09-01-20  
 Enclaves no longer disband when recruiting one of their members (Non-Arc Legacy)  
 Bloater Gland Harvest is enabled after completing "A Cure for All Seasons"
