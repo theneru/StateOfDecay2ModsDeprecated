@@ -144,7 +144,7 @@ the Materials Outpost will instead have the Sawmill functions
 /////////////////////////////////////////////////////  
 
 # PLANS [TO BE IMPLEMENTED]  
-  
+Nothing. For now...  
 
 ==================================================================================
 
