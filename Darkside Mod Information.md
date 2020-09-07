@@ -148,6 +148,10 @@ the Materials Outpost will instead have the Sawmill functions
 ==================================================================================
 
 # CHANGELOGS  
+09-07-20  
+Added trait Wanna be Yakuza  
+Added trait Among the dead  
+
 09-06-20  
 Several Bug Fixes  
 Thermite can now kill armored Zeds  
