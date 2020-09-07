@@ -75,6 +75,7 @@ CHANGELOGS AT THE BOTTOM
 ~ Vehicle trunk size is 18  
 ~ Enclaves no longer disband when recruiting one of their members (Non-Arc Legacy)  
 ~ Bloater Gland Harvest is enabled after completing "A Cure for All Seasons"  
+~ Starter Houses' Right Side Outdoor Slot has randomized built-in  
 
 # CUSTOM TRAITS  
 **Short Change Hero**  
@@ -151,6 +152,7 @@ the Materials Outpost will instead have the Sawmill functions
 09-07-20  
 Added trait Wanna be Yakuza  
 Added trait Among the dead  
+Starter Houses' Right Side Outdoor Slot has randomized built-in
 
 09-06-20  
 Several Bug Fixes  
