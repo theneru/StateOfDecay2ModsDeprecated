@@ -88,6 +88,31 @@ This ain't no place for no Hero. This ain't no place for no better man.
 *Hero Bonus: +1 Ammo Everyday*  
 //////////////////////////  
 
+**Wanna be Yakuza**  
+//////////////////////////  
+I always aspired to be like Kazuma Kiryu, from the video game Yakuza.  
+
+*+45 Health*  
+*+45 Stamina*  
+*-40% Fatigue Rate*  
+*-40% Injury Rate*  
+*+15 Carry Limit*  
+*+100% Health Consumable effect*  
+*EXP Gain +200%*  
+*1.5x Food Consumption*  
+//////////////////////////  
+
+**Among the dead**  
+//////////////////////////  
+I've been through hell and back with blood plague. I've grown resistant to it. But...  
+
+*-45 Health*  
+*Plague Immunity*  
+*-97% Zombie Visibility*  
+*1.5x Food Consumption*  
+*Cardio Max Level 3*  
+*Fighting Max Level 3*  
+//////////////////////////  
 
 # EMBEDDED MODS INFO  
 //////////////////////////  
