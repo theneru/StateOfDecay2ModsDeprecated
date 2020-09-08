@@ -154,6 +154,7 @@ Future updates
 Changelogs
 [09-09-20]
 ~ Adjusted functions for Artillery Outpost
+~ Bug fix
 
 [09-02-20]
 ~ Increased Fuel Outpost Cost
