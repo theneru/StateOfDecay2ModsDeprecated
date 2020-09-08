@@ -158,12 +158,12 @@ Custom version of Better Starter Items for DEH and DEHD
 
 **4th Of JuDie DEH Ver [Embedded as of 2.7+]**  
 //////////////////////////  
-Makes the Pyro Launcher and StarShank Launcher Full Auto,
-more EXPLOSIONS AND DAMAGE! Celebrating the 4th of July.
-~ Pyro Launcher can now hold 120 rounds and take down a Juggernaut with ease
-~ StarShank Launcher can now hold 30 rounds. Larger blast radius and more explosions
-~ Explosions from both guns are louder
-~ Enclaves may spawn with the Pyro Launcher
+Makes the Pyro Launcher and StarShank Launcher Full Auto,  
+more EXPLOSIONS AND DAMAGE! Celebrating the 4th of July.  
+~ Pyro Launcher can now hold 120 rounds and take down a Juggernaut with ease  
+~ StarShank Launcher can now hold 30 rounds. Larger blast radius and more explosions  
+~ Explosions from both guns are louder  
+~ Enclaves may spawn with the Pyro Launcher  
 //////////////////////////  
 
 **Full Auto RESet [Embedded as of 3.1+]**  
