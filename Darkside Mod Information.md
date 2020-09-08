@@ -150,7 +150,10 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
-09-09-20
+09-09-20  
+Removed Fuel items from starter vehicles
+
+09-09-20  
 Adjusted Screamer spawns
 Adjusted Blood Bloater Gas behaviour
 
