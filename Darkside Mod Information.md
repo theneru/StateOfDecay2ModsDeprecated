@@ -154,8 +154,8 @@ Nothing. For now...
 Removed Fuel items from starter vehicles
 
 09-09-20  
-Adjusted Screamer spawns
-Adjusted Blood Bloater Gas behaviour
+Adjusted Screamer spawns  
+Adjusted Blood Bloater Gas behaviour  
 
 09-07-20  
 Added trait Wanna be Yakuza  
