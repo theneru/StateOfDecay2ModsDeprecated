@@ -30,8 +30,8 @@ CHANGELOGS AT THE BOTTOM
 ~ Plague Heart can spawn Special Infected when attacked. (Bloater, Blood Feral)  
 ~ Plague Heart has increased zombie spawn with nearly no cooldown  
 ~ Plague Heart gas damage increased and deals plague damage  
-~ Plague Heart can spawn up to 8 Blood Ferals max  
-~ All Freaks can now spawn in the field. (Except for Blood Ferals)  
+~ Plague Heart can spawn up to 8 Blood Ferals max at 8 Heroes  
+~ Base and Plague Freak variants can now spawn in the field. (Blood Ferals do not spawn woth base variants)  
 ~ The amount of Ambient Zombies spawned is greatly increased  
 ~ Ferals have increased Car Dodge Cooldown  
 ~ Hordes and Special Infected are more pronounced  
@@ -67,7 +67,7 @@ CHANGELOGS AT THE BOTTOM
 ~ Increased the amount of some consumables you can carry  
 ~ Roll of Firework Crackers effectiveness has been increased  
 ~ Plague Heart explosion greatly increased damage and plague damage  
-~ Murder Pack - Pack 4-6 Ferals. 2-3 Regular and 2-3 Blood Versions (NZ Only)  
+~ Murder Pack (Rare Spawn) - Pack 4-6 Ferals. 2-3 Regular and 2-3 Blood Versions (NZ Only)  
 ~ Increased damage taken  
 ~ Reduced Standing gain  
 ~ Car Headlights are God Rays  
