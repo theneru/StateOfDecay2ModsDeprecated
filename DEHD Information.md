@@ -247,6 +247,9 @@ Siege Rewards from the CLEO Relay greatly improved.
 
 
 # CHANGELOGS
+4.21+ Changes for Dead End Heaven Deicide [09-09-20]  
+~ Removed Fuel items from the starter vehicle
+
 4.2+ Changes for Dead End Heaven Deicide [09-09-20]  
 ~ Added traits Short Change Hero, Wanna be Yakuza and Among the Dead  
 ~ Blood Bloater Gas now attracts zeds properly  
