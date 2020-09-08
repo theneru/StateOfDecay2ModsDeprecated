@@ -150,6 +150,10 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+09-09-20
+Adjusted Screamer spawns
+Adjusted Blood Bloater Gas behaviour
+
 09-07-20  
 Added trait Wanna be Yakuza  
 Added trait Among the dead  
