@@ -152,7 +152,10 @@ Future updates
 ~ Find a Recruit Function [Safehouse]
 =======================================
 Changelogs
-[09-02-30]
+[09-09-20]
+~ Adjusted functions for Artillery Outpost
+
+[09-02-20]
 ~ Increased Fuel Outpost Cost
 ~ Fuel Outpost can now tune car durability and noise
 ~ Fuel Outpost can now craft Light Vehicle Upgrade Kits
