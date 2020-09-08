@@ -86,7 +86,7 @@ This ain't no place for no Hero. This ain't no place for no better man.
 *Unlocks Heroism and Warfighting specializaton*  
 *-3 Morale to everyone*  
 *-50% Standing Gain*  
-*Hero Bonus: +1 Ammo Everyday*  
+*Hero Bonus (Ammo Wishlist): +1 Ammo Everyday*  
 //////////////////////////  
 
 **Wanna be Yakuza**  
@@ -101,6 +101,7 @@ I always aspired to be like Kazuma Kiryu, from the video game Yakuza.
 *+100% Health Consumable effect*  
 *EXP Gain +200%*  
 *1.5x Food Consumption*  
+*Hero Bonus (Dragon of Dojima): +3 Labor, +45 Stamina to Everyone*  
 //////////////////////////  
 
 **Among the dead**  
