@@ -137,6 +137,47 @@ Dead End Heaven Deicide is incompatible with:
 //////////////////////////////////////////////////////////////////////////////////  
 //////////////////////////////////////////////////////////////////////////////////  
 
+# CUSTOM TRAITS  
+**Short Change Hero**  
+//////////////////////////  
+This ain't no place for no Hero. This ain't no place for no better man.  
+
+*All Core Skills are at 6 Stars*  
+*Unlocks Heroism and Warfighting specializaton*  
+*-3 Morale to everyone*  
+*-50% Standing Gain*  
+*Hero Bonus (Ammo Wishlist): +1 Ammo Everyday*  
+//////////////////////////  
+
+**Wanna be Yakuza**  
+//////////////////////////  
+I always aspired to be like Kazuma Kiryu, from the video game Yakuza.  
+
+*+45 Health*  
+*+45 Stamina*  
+*-40% Fatigue Rate*  
+*-40% Injury Rate*  
+*+15 Carry Limit*  
+*+100% Health Consumable effect*  
+*EXP Gain +200%*  
+*1.5x Food Consumption*  
+*Hero Bonus (Dragon of Dojima): +3 Labor, +45 Stamina to Everyone*  
+//////////////////////////  
+
+**Among the dead**  
+//////////////////////////  
+I've been through hell and back with blood plague. I've grown resistant to it. But...  
+
+*-45 Health*  
+*Plague Immunity*  
+*-97% Zombie Visibility*  
+*1.5x Food Consumption*  
+*Cardio Max Level 3*  
+*Fighting Max Level 3*  
+//////////////////////////  
+
+
+
 # EMBEDDED MODS INFO
 
 **Altered Rucksacks Contents [Embedded]**  
@@ -202,11 +243,15 @@ Siege Rewards from the CLEO Relay greatly improved.
 
 # PLANS [TO BE IMPLEMENTED]  
 4.++ Changes for Dead End Heaven and Deicide [Soon-Plans]  
-~ Add trait Short Change Hero  
-~ Add trait Among the Dead  
+~ None Currently
 
 
 # CHANGELOGS
+4.2+ Changes for Dead End Heaven Deicide [09-09-20]  
+~ Added traits Short Change Hero, Wanna be Yakuza and Among the Dead  
+~ Blood Bloater Gas now attracts zeds properly  
+~ Increased aggressiveness of all zeds  
+
 4.11+ Changes for Dead End Heaven Deicide [09-02-20]  
 ~ Adjusted Starter Items  
 
