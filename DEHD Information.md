@@ -144,13 +144,13 @@ Making the rucksack more enticing to open.
 ~ Fuel Sack: Can give fuel related items and throwables  
 //////////////////////////  
 
-**Better Starter Items (DEH Version) [Embedded]**
+**Better Starter Items (DEH Version) [Embedded]**  
 //////////////////////////  
 Custom version of Better Starter Items for DEH and DEHD
 ~ Gives random assortment of guns, ammo, consumables and rucksacks.
 //////////////////////////  
 
-**4th Of JuDie DEH Ver [Embedded as of 2.7+]**
+**4th Of JuDie DEH Ver [Embedded as of 2.7+]**  
 //////////////////////////  
 Makes the Pyro Launcher and StarShank Launcher Full Auto,
 more EXPLOSIONS AND DAMAGE! Celebrating the 4th of July.
