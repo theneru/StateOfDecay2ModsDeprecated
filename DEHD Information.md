@@ -185,8 +185,8 @@ The following guns are given SemiAuto, 3RBurst and FullAuto fire modes with this
 - AR-15  
 - M4X1 DMR Heavy  
 - Civilian Uzi 22 Carbine
-//////////////////////////  
-
+  
+  
 **CLEO Drop Rewards S DEH Version [Embedded as of 3.5+]**  
 //////////////////////////  
 Siege Rewards from the CLEO Relay greatly improved.  
