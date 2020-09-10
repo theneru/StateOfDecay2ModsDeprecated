@@ -151,6 +151,10 @@ Nothing. For now...
 
 # CHANGELOGS  
 09-10-20  
+Latrine, Garden, Watch Tower and Rain Collector now require materials to repair
+(The above are the randomized built-ins for starter houses. They will always spawn as damaged)
+
+09-10-20  
 Bug Fix  
 Adjusted Randomized Built-ins  
 Advance Biochem Station can be crafted at the Military Outpost  
