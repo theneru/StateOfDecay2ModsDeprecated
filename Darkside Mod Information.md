@@ -150,6 +150,11 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+09-10-20  
+Bug Fix  
+Adjusted Randomized Built-ins  
+Advance Biochem Station can be crafted at the Military Outpost  
+
 09-09-20  
 Removed Fuel items from starter vehicles
 
