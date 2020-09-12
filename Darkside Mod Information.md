@@ -101,7 +101,7 @@ I always aspired to be like Kazuma Kiryu, from the video game Yakuza.
 *+100% Health Consumable effect*  
 *EXP Gain +200%*  
 *1.5x Food Consumption*  
-*Hero Bonus (Dragon of Dojima): +3 Labor, +45 Stamina to Everyone*  
+*Hero Bonus (Dragon of Dojima): +3 Labor (Self Only), +45 Stamina to Everyone*  
 //////////////////////////  
 
 **Among the dead**  
