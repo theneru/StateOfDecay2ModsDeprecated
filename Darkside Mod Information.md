@@ -150,6 +150,10 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+09-12-20  
+Added Starter Backpack [4 Slot]
+Spawn Adjustment [Freaks should spawn properly now]
+
 09-10-20  
 Latrine, Garden, Watch Tower and Rain Collector now require materials to repair  
 (The above are the randomized built-ins for starter houses. They will always spawn as damaged)  
