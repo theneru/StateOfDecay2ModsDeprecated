@@ -150,6 +150,11 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+09-14-20  
+Several Bug Fixes  
+Adjusted 9 Flash-Bang behaviour [Can no longer randomly kill stuff]  
+Fixed Infestation Crash  
+
 09-12-20  
 Added Starter Backpack [4 Slot]
 Spawn Adjustment [Freaks should spawn properly now]
