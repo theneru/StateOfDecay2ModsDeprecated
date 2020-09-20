@@ -151,10 +151,10 @@ Nothing. For now...
 
 # CHANGELOGS  
 09-21-20  
-Adjusted Murder Pack spawn rate
-Fixed Murder Pack cooldown
-Adjust Infestation spawns
-Removed Improved Fatigue and Injury recovery
+Adjusted Murder Pack spawn rate  
+Fixed Murder Pack cooldown  
+Adjust Infestation spawns  
+Removed Improved Fatigue and Injury recovery  
 
 09-14-20  
 Several Bug Fixes  
