@@ -153,7 +153,7 @@ Nothing. For now...
 09-21-20  
 Adjusted Murder Pack spawn rate  
 Fixed Murder Pack cooldown  
-Adjust Infestation spawns  
+Adjusted Infestation spawns  
 Removed Improved Fatigue and Injury recovery  
 
 09-14-20  
