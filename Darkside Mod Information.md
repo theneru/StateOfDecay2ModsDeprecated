@@ -150,6 +150,35 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+10-03-20  
+Updated for Build 21  
+Added Darkside Lewt rucksack to Enclave trades [Gives 2 rucksack resources when opened. 5 Mats when deposited]  
+(Game crashes when I put it in the Plague Heart)  
+Reduced chances of obtaining books through Safehouse Small Items search  
+Changed Safehouse Small Items search search time from 45mins to 30mins  
+Claiming an outpost now takes time [3 mins]  
+Abandoning an outpost now takes time [5 mins]  
+Bases no longer require X amount of people to claim.  
+Increase influence cost to claim a base  
+Non-community NPCs slowly heal over time  
+Ambient Enclaves are always guaranteed to have a gun  
+Dusk Traders now spawn after morning upkeep [6:15am ingame time] instead of 3pm ingame time  
+Plague Hearts now take Full Bullet damage  
+Further increased melee damage to Plague Hearts from 18x to 20x  
+More zeds at night  
+Zeds have longer burn time from Molotovs and Fuel Bombs [Gives them more time to run around and spread fire to other zeds]  
+Initial 9-FlashBang blast ignites zeds  
+Willie Pete no longer spawns fire globs. Instead general blast/cloud/smoke area inflicts fire damage and ignites things  
+Increased Safe Zone sizes [Home - 25% || Outpost - 15%]  
+Increased sight range of Juggernauts, Bloaters and slow zeds [Screamers still hold the farthest sight range]  
+Increased aggro timer of Juggs by 60 seconds  
+Increased the explosive dmg multiplier against Plague Hearts to 5x  
+Added function to Safehouse Search for Valuables [Items that can be traded for influence]  
+Firecracker craft:  
+(OLD - 10 Parts = 3 Rolls - 90 secs [5 rolls with Knowledge])  
+(NEW - 20 Parts = 6 Rolls - 120 secs [10 rolls with Knowledge])  
+Dynamite Craftable at Workshop 2 & 3  
+
 09-21-20  
 Adjusted Murder Pack spawn rate  
 Fixed Murder Pack cooldown  
