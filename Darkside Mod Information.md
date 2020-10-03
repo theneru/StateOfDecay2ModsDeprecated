@@ -153,7 +153,6 @@ Nothing. For now...
 10-03-20  
 Updated for Build 21  
 Added Darkside Lewt rucksack to Enclave trades [Gives 2 rucksack resources when opened. 5 Mats when deposited]  
-(Game crashes when I put it in the Plague Heart)  
 Reduced chances of obtaining books through Safehouse Small Items search  
 Changed Safehouse Small Items search search time from 45mins to 30mins  
 Claiming an outpost now takes time [3 mins]  
