@@ -172,6 +172,7 @@ Increased Safe Zone sizes [Home - 25% || Outpost - 15%]
 Increased sight range of Juggernauts, Bloaters and slow zeds [Screamers still hold the farthest sight range]  
 Increased aggro timer of Juggs by 60 seconds  
 Increased the explosive dmg multiplier against Plague Hearts to 5x  
+Added function to Safehouse Search for Valuables [Items that can be traded for influence]  
 Firecracker craft:  
 (OLD - 10 Parts = 3 Rolls - 90 secs [5 rolls with Knowledge])  
 (NEW - 20 Parts = 6 Rolls - 120 secs [10 rolls with Knowledge])  
