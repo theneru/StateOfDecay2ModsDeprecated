@@ -47,14 +47,13 @@ CHANGELOGS AT THE BOTTOM
 ~ Increased the amount of ammo you can carry  
 ~ Craftable Vial of Enhanced Plague Cure (Infirmary 2 or Field Hospital)  
 ~ Increased chances of contracting Plague  
-~ Impossible Green Zone  
 ~ +1 Outpost Slot  
 ~ -1 Labor Debuff  
 ~ Fuel Cans and Repair Kits stacking  
 ~ Decreased Gas Can and Toolkit fill/repair by half  
 ~ NPCs now actively avoid modded Bloater Gas size  
 ~ Specialization Unlocks  
-~ More Morale Penalty  
+~ More Starting Morale Penalty  
 ~ Espresso Stand Outpost gives more Morale and reduces fatigue rate  
 ~ Safehouse provides more beds and reduces noise  
 ~ Rucksack Yields 2-3 resources  
@@ -67,14 +66,14 @@ CHANGELOGS AT THE BOTTOM
 ~ Increased the amount of some consumables you can carry  
 ~ Roll of Firework Crackers effectiveness has been increased  
 ~ Plague Heart explosion greatly increased damage and plague damage  
-~ Murder Pack (Rare Spawn) - Pack 4-6 Ferals. 2-3 Regular and 2-3 Blood Versions (NZ Only)  
+~ Murder Pack (Dangerous Spawn) - Pack 4-6 Ferals. 2-3 Regular and 2-3 Blood Versions  
 ~ Increased damage taken  
 ~ Reduced Standing gain  
 ~ Car Headlights are God Rays  
 ~ Increased Vehicle Acceleration and top speed  
-~ Vehicle trunk size is 18  
+~ All Vehicle trunk size is 18  
 ~ Enclaves no longer disband when recruiting one of their members (Non-Arc Legacy)  
-~ Bloater Gland Harvest is enabled after completing "A Cure for All Seasons"  
+~ Bloater Gland Harvest is enabled by default  
 ~ Starter Houses' Right Side Outdoor Slot has randomized built-in  
 
 # CUSTOM TRAITS  
