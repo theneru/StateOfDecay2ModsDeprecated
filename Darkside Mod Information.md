@@ -161,6 +161,7 @@ Can hold up to 12 Rolls of Firecrackers now
 CLEO Relay Supply Drop Calls cost adjustment  
 Supply Drop CLEO: 6500 Influence  
 Ammo Drop CLEO: 2000 Influence  
+Removed ADV Mods from Mysterious Wandering Trader
 
 10-03-20  
 Updated for Build 21  
