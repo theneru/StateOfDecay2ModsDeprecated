@@ -149,6 +149,16 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+10-11-20  
+Blood Siege prepare time increased from 30 seconds to 2mins and 30 secs  
+Added Echo Gun Crafting Station [Obtain from Ammo Trader or Mysterious Wandering Trader]  
+Echo Gun Crafting Station can only be used in the Artillery Outpost  
+Artillery Outpost mod slot will only take the Echo Gun Crafting Station  
+Increased Cleared Safe Zone size by 20%  
+Spawn Adjustment  
+While in Base or Outpost: +45 Stamina and -80% Fatigue Rate  
+Can hold up to 12 Rolls of Firecrackers now  
+
 10-03-20  
 Updated for Build 21  
 Added Darkside Lewt rucksack to Enclave trades [Gives 2 rucksack resources when opened. 5 Mats when deposited]  
