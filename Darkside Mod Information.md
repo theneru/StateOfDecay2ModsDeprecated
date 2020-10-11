@@ -158,6 +158,9 @@ Increased Cleared Safe Zone size by 20%
 Spawn Adjustment  
 While in Base or Outpost: +45 Stamina and -80% Fatigue Rate  
 Can hold up to 12 Rolls of Firecrackers now  
+CLEO Relay Supply Drop Calls cost adjustment  
+Supply Drop CLEO: 6500 Influence  
+Ammo Drop CLEO: 2000 Influence  
 
 10-03-20  
 Updated for Build 21  
