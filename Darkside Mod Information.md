@@ -149,6 +149,19 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+10-18-20  
+Blood Siege prepare time changed to 1minute and 45 seconds  
+Fixed Siege Timer [Probably]  
+Adjust Plague Buster craft cost  
+Fixed firecrackers not igniting Bloater Cloud  
+Adjusted First Homesite zed spawns  
+Spawn Adjustment at 160~1500 Total Standing [Lesser Spawns]  
+Shortened Zed burn time from Fuel Bomb  
+Buffed Willie Pete against Plague Heart  
+Further increased Bullet Damage against Plague Heart  
+Fighting Skill adjustment [Stamina Cost for melee is reduced by 20% at Max Stars]  
+Assault Skill Adjustment [Removed Kick attack, Aim Snap at 2 Stars]  
+
 10-11-20  
 Blood Siege prepare time increased from 30 seconds to 2mins and 30 secs  
 Added Echo Gun Crafting Station [Obtain from Ammo Trader or Mysterious Wandering Trader]  
