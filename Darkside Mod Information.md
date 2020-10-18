@@ -160,7 +160,7 @@ Shortened Zed burn time from Fuel Bomb
 Buffed Willie Pete against Plague Heart  
 Further increased Bullet Damage against Plague Heart  
 Fighting Skill adjustment [Stamina Cost for melee is reduced by 20% at Max Stars]  
-Assault Skill Adjustment [Removed Kick attack, Aim Snap at 2 Stars]  
+Assault Skill Adjustment [Removed Kick attack, Aim Snap at 2 Stars, shorter reload time]  
 
 10-11-20  
 Blood Siege prepare time increased from 30 seconds to 2mins and 30 secs  
