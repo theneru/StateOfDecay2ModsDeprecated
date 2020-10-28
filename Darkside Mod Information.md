@@ -149,6 +149,14 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+10-29-20  
+Several Bug Fixes:  
+~Indoor Spawn  
+~Firecracker Carry Limit  
+~Several Radio Calls  
+~Blood Siege Stage 2 [Removed Armored Zed]  
+Removed Unused Assets  
+
 10-18-20  
 Blood Siege prepare time changed to 1minute and 45 seconds  
 Fixed Siege Timer [Probably]  
