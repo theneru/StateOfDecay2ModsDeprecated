@@ -149,6 +149,20 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+10-31-20  
+Slightly increased the intensity of Blood Sieges  
+Cleared Areas now stay safe for 30mins instead of an hour  
+Enabled Snap Aim when scoped  
+CQC Weapons buffed slightly  
+Adjusted the required Infestation for morale penalties  
+Spawn Adjustment for Standing range 150~1000 [Lesset Spawns]  
+Home Base safe zone no longer decreases past x standing amount  
+Trade Depot radio changes:  
+~Increased Call cooldown to 2 in-game days [180mins]  
+~Increased Call cost from 100 to 450  
+Increased Ammo Carry from 120 to 150  
+Increased chance of getting Short Change Hero by 5%  
+
 10-29-20  
 Several Bug Fixes:  
 ~Indoor Spawn  
