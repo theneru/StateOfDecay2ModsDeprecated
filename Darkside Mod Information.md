@@ -155,7 +155,7 @@ Cleared Areas now stay safe for 30mins instead of an hour
 Enabled Snap Aim when scoped  
 CQC Weapons buffed slightly  
 Adjusted the required Infestation amount for morale penalties  
-~[Requires more infestations to trigger penalty]  
+~Requires more infestations to trigger penalty  
 Spawn Adjustment for Standing range 150~1000 [Lesset Spawns]  
 Home Base safe zone no longer decreases past x standing amount  
 Trade Depot radio changes:  
