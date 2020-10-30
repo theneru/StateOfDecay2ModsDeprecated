@@ -156,7 +156,7 @@ Enabled Snap Aim when scoped
 CQC Weapons buffed slightly  
 Adjusted the required Infestation amount for morale penalties  
 ~Requires more infestations to trigger penalty  
-Spawn Adjustment for Standing range 150~1000 [Lesset Spawns]  
+Spawn Adjustment for Standing range 150-1000 [Lesset Spawns]  
 Home Base safe zone no longer decreases past x standing amount  
 Trade Depot radio changes:  
 ~Increased Call cooldown to 2 in-game days [180mins]  
