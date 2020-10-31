@@ -140,6 +140,16 @@ Same as the Standard Outpost Overhaul mod, except outposts
 cost more and instead of the Materials Outpost having Parts to Materials function  
 the Materials Outpost will instead have the Sawmill functions  
 //////////////////////////  
+
+Full House Mod (Embedded)  
+//////////////////////////  
+Shows all the members of your community at home base  
+//////////////////////////  
+
+Dev. Menu Mod (Embedded)  
+//////////////////////////  
+Allows you to open the Developer Menu mod by Pressing F2  
+//////////////////////////  
   
 /////////////////////////////////////////////////////  
 
