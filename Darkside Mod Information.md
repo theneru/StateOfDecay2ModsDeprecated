@@ -18,63 +18,58 @@ Shameless Donation links insertion end.
 WARNING! Damage multipliers used in these mod also affect clients!
 WARNING! Do not invite random people for the sole purpose of killing their survivors with these mods!
 
-
 THIS MOD IS MEANT TO BE PLAYED WITHOUT ANY OTHER MODS FOR BETTER EXPERIENCE! THIS MOD AFFECTS SEVERAL
 FILES WHICH MIGHT CONFLICT WITH OTHER MODS
 
+# About Darkside
+Darkside is an overhaul mod exclusive to Nightmare Zone and originated from my first overhaul mod called  
+Dead End Heaven. This mod aims to flesh out several mechanics in the game all the while giving players a  
+good challenge. This isn't my mod. But it's mod by everyone in the SoD2 modding discord. The same applies to  
+Dead End Heaven. Credit goes to everyone who deserves it. Consider donating to me and the modders in the modding  
+discord. Without them my overhauls and my mods wouldn't be a thing. I'm not telling you to go donate! Okay?!  
+We accept donations but never required.  
+
+
 CHANGELOGS AT THE BOTTOM  
 
-# Darkside effects  
-~ Increased Plague Heart Health  
-~ Plague Heart takes increased damage from Melee and fire but takes greatly reduced gun and explosive damage.  
-~ Plague Heart can spawn Special Infected when attacked. (Bloater, Blood Feral)  
-~ Plague Heart has increased zombie spawn with nearly no cooldown  
-~ Plague Heart gas damage increased and deals plague damage  
-~ Plague Heart can spawn up to 8 Blood Ferals max at 8 Heroes  
-~ Base and Plague Freak variants can now spawn in the field. (Blood Ferals do not spawn woth base variants)  
-~ The amount of Ambient Zombies spawned is greatly increased  
+# Darkside effects in Combat  
+~ Starts with less spawns than Green Zone and slowly ramps up to more spawns than Nightmare Zone  
+~ Plague Hearts are now an actual threat when combating them  
+~ Plague Hearts will defend themselves and call nearby zeds for help  
+~ All zed types have improved hearing and sight  
+~ Damage taken is greatly increased  
+~ Blood Plague is more likely to be contracted  
+~ Plague Freak variants may spawn alongside their base counterparts  
+~ Murder Packs, a group of 4-6 Base abd Plague variant Ferals  
+~ Bloodfestation: Now infestations are comprised of Blood Variants of Zeds  
+
+# Darkside effects in Gameplay Mechanics  
+~ Outpost Overhaul: Several Outposts have functions from base facilities and other special functions  
+~ Facilities Functions: Certain facility actions now take time to complete, different costs & requirements and added special functions  
+~ Special items can be crafted from the outposts and facilities  
 ~ Ferals have increased Car Dodge Cooldown  
-~ Hordes and Special Infected are more pronounced  
-~ Bloodfestation (Based on Heilos' Inf. Infestation)  
-~ Bloater Cloud is 5 times it's regular size while Blood Bloater Cloud is 2x  
-~ Increased Plague Heart cloud area  
-~ Plague Heart Burst and Cloud events now attract zombies  
-~ Altered Plague Heart Drops  
-~ Enhanced Plague Cures can now persist in main game and Heartland  
-~ Bloater Glands can now persist in main game and Heartland  
-~ Plague Busters can now persist in main game and Heartland  
+~ Rucksacks now have better items in them when broken open. They now also have reduced yields  
+~ Some items can now be carried in bigger stacks  
+~ Increased Bloater Cloud size by 5 times and 2 times for the Blood variant  
+~ NPCs will actively avoid modded Bloater Gas  
+~ Several items from Heartland can be used in the main game  
+~ Bloater Poison Gland harvest is enabled by default  
+~ You may now have a max of 8 outpost  
 ~ Enclaves spawn as a group of 5 people  
-~ Increased the amount of ammo you can carry  
-~ Craftable Vial of Enhanced Plague Cure (Infirmary 2 or Field Hospital)  
-~ Increased chances of contracting Plague  
-~ +1 Outpost Slot  
-~ -1 Labor Debuff  
-~ Fuel Cans and Repair Kits stacking  
-~ Decreased Gas Can and Toolkit fill/repair by half  
-~ NPCs now actively avoid modded Bloater Gas size  
-~ Specialization Unlocks  
-~ More Starting Morale Penalty  
-~ Espresso Stand Outpost gives more Morale and reduces fatigue rate  
-~ Safehouse provides more beds and reduces noise  
-~ Rucksack Yields 2-3 resources  
-~ Craftable Plague Busters (Stills)  
-~ Plague Cures now require water to craft  
-~ Altered the cost and requirements to claim an outpost  
-~ Blood Siege  
-~ Plague Heart gas ignores obstacles and will slowly expand over time  
-~ Screamer loudness increased greatly  
-~ Increased the amount of some consumables you can carry  
-~ Roll of Firework Crackers effectiveness has been increased  
-~ Plague Heart explosion greatly increased damage and plague damage  
-~ Murder Pack (Dangerous Spawn) - Pack 4-6 Ferals. 2-3 Regular and 2-3 Blood Versions  
-~ Increased damage taken  
-~ Reduced Standing gain  
-~ Car Headlights are God Rays  
+~ Traders now show all the items they will trade  
 ~ Increased Vehicle Acceleration and top speed  
 ~ All Vehicle trunk size is 18  
-~ Enclaves no longer disband when recruiting one of their members (Non-Arc Legacy)  
-~ Bloater Gland Harvest is enabled by default  
-~ Starter Houses' Right Side Outdoor Slot has randomized built-in  
+~ Standing gain is reduced to balance the scaling of difficulty  
+~ Added 3 new traits, and 1 new Hero Bonus  
+~ Skill Adjustments for Assault, Scouting, Warfighting, Prowess, Heroism, Tactics  
+
+# Darkside effects to items  
+~ A new version of Flash Bang called the 7290-9 Flash-Bang Grenade  
+~ A variant of Brock's Golden Eagle called Philippine Golden Eagle  
+~ Added Scopes/Sights to the Echo Pistol and Echo Rifle  
+~ Scentblock now gives near instant Blood Plague but lasts longer  
+~ Altered the Mail Order Wakizashi to Yae Sakura with better stats  
+~ Altered the M4X2 SSW Lite to November Echo Romeo Uniform with better stats  
 
 # CUSTOM TRAITS  
 **Short Change Hero**  
@@ -159,6 +154,10 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+11-04-20
+Updated Mission to Claim First Base
+Spawn Adjustment for Murder Pack [Increased Required Standing Threshold by 250]
+
 10-31-20  
 Slightly increased the intensity of Blood Sieges  
 Cleared Areas now stay safe for 30mins instead of an hour  
