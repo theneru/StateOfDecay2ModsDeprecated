@@ -40,7 +40,7 @@ CHANGELOGS AT THE BOTTOM
 ~ Damage taken is greatly increased  
 ~ Blood Plague is more likely to be contracted  
 ~ Plague Freak variants may spawn alongside their base counterparts  
-~ Murder Packs, a group of 4-6 Base abd Plague variant Ferals  
+~ Murder Packs, a group of 4-6 Base and Plague variant Ferals  
 ~ Bloodfestation: Now infestations are comprised of Blood Variants of Zeds  
 
 # Darkside effects in Gameplay Mechanics  
