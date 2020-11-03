@@ -39,6 +39,7 @@ CHANGELOGS AT THE BOTTOM
 ~ Plague Hearts will defend themselves and call nearby zeds for help  
 ~ All zed types have improved hearing and sight  
 ~ Damage taken is greatly increased  
+~ Plague Damage taken is greatly increased  
 ~ Blood Plague is more likely to be contracted  
 ~ Plague Freak variants may spawn alongside their base counterparts  
 ~ Murder Packs, a group of 4-6 Base and Plague variant Ferals  
@@ -63,6 +64,7 @@ CHANGELOGS AT THE BOTTOM
 ~ Standing gain is reduced to balance the scaling of difficulty  
 ~ Added 3 new traits, and 1 new Hero Bonus  
 ~ Skill Adjustments for Assault, Scouting, Warfighting, Prowess, Heroism, Tactics  
+~ Morale Penalty from infestations has been nerfed. More infestations are required to incur moral penalty.  
 
 # Darkside effects to items  
 ~ A new version of Flash Bang called the 7290-9 Flash-Bang Grenade  
