@@ -154,9 +154,9 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
-11-04-20
-Updated Mission to Claim First Base
-Spawn Adjustment for Murder Pack [Increased Required Standing Threshold by 250]
+11-04-20  
+Updated Mission to Claim First Base  
+Spawn Adjustment for Murder Pack [Increased Required Standing Threshold by 250]  
 
 10-31-20  
 Slightly increased the intensity of Blood Sieges  
