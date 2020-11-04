@@ -157,6 +157,10 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+11-05-20  
+Added new function to Parking slot  
+Added new passive to Artillery Outpost  
+  
 11-04-20  
 Updated Mission to Claim First Base  
 Spawn Adjustment for Murder Pack [Increased Required Standing Threshold by 250]  
