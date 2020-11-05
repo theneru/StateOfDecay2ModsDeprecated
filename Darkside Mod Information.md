@@ -36,7 +36,7 @@ CHANGELOGS AT THE BOTTOM
 
 # Darkside effects in Combat  
 ~ Starts with less spawns than Green Zone and slowly ramps up to more spawns than Nightmare Zone  
-[Note: The game scales difficulty by your Total Community Standing. Every action other than trading earns you Standing.]
+[Note: The game scales difficulty by your Total Community Standing. Every action other than trading earns you Standing.]  
 ~ Plague Hearts are now an actual threat when combating them  
 ~ Plague Hearts will defend themselves and call nearby zeds for help  
 ~ All zed types have improved hearing and sight  
