@@ -24,7 +24,9 @@ FILES WHICH MIGHT CONFLICT WITH OTHER MODS
 # About Darkside
 Darkside is an overhaul mod exclusive to Nightmare Zone and originated from my first overhaul mod called  
 Dead End Heaven. This mod aims to flesh out several mechanics in the game all the while giving players a  
-good challenge. This isn't my mod. But it's mod by everyone in the SoD2 modding discord. The same applies to  
+good challenge. The mod emphasizes the managing of not only regular resources but your community itself.  
+Fleshes out the use of labor, distraction items, special items from Heartland and how you should handle various  
+scenarios. This isn't my mod. But it's mod by everyone in the SoD2 modding discord. The same applies to  
 Dead End Heaven. Credit goes to everyone who deserves it. Consider donating to me and the modders in the modding  
 discord. Without them my overhauls and my mods wouldn't be a thing. I'm not telling you to go donate! Okay?!  
 We accept donations but never required.  
@@ -40,31 +42,35 @@ CHANGELOGS AT THE BOTTOM
 ~ All zed types have improved hearing and sight  
 ~ Damage taken is greatly increased  
 ~ Plague Damage taken is greatly increased  
-~ Blood Plague is more likely to be contracted  
 ~ Plague Freak variants may spawn alongside their base counterparts  
 ~ Murder Packs, a group of 4-6 Base and Plague variant Ferals  
 ~ Bloodfestation: Now infestations are comprised of Blood Variants of Zeds  
+~ Blood Siege: Base sieges are entirely made of Plague Variants of zeds  
 
 # Darkside effects in Gameplay Mechanics  
 ~ Outpost Overhaul: Several Outposts have functions from base facilities and other special functions  
 ~ Facilities Functions: Certain facility actions now take time to complete, different costs & requirements and added special functions  
 ~ Special items can be crafted from the outposts and facilities  
+~ Blood Plague is more emphasized  
 ~ Ferals have increased Car Dodge Cooldown  
 ~ Rucksacks now have better items in them when broken open. They now also have reduced yields  
-~ Some items can now be carried in bigger stacks  
+~ Some items can now be carried in bigger stacks and some you can stack more  
 ~ Increased Bloater Cloud size by 5 times and 2 times for the Blood variant  
 ~ NPCs will actively avoid modded Bloater Gas  
 ~ Several items from Heartland can be used in the main game  
 ~ Bloater Poison Gland harvest is enabled by default  
 ~ You may now have a max of 8 outpost  
 ~ Enclaves spawn as a group of 5 people  
+~ Enclaves no longer disband when recruiting one of their people  
 ~ Traders now show all the items they will trade  
+~ Adjusted certain trade prices and inventory for balancing
 ~ Increased Vehicle Acceleration and top speed  
 ~ All Vehicle trunk size is 18  
 ~ Standing gain is reduced to balance the scaling of difficulty  
 ~ Added 3 new traits, and 1 new Hero Bonus  
 ~ Skill Adjustments for Assault, Scouting, Warfighting, Prowess, Heroism, Tactics  
 ~ Morale Penalty from infestations has been nerfed. More infestations are required to incur moral penalty.  
+~ Base Siege Timer Adjustment: Longer timer when preparing for the Siege. Allowing you time to assign weapons or place explosives.  
 
 # Darkside effects to items  
 ~ A new version of Flash Bang called the 7290-9 Flash-Bang Grenade  
