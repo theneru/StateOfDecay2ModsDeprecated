@@ -163,6 +163,10 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+11-09-20  
+Added new Muzzle Break WG-1-KARASAWA  
+Added new Muzzle Attachments loot table to Rare Ranged Weapon Cases [Red Lining]  
+  
 11-05-20  
 Added new function to Parking slot  
 Added new passive to Artillery Outpost  
