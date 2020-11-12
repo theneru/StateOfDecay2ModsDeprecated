@@ -79,6 +79,7 @@ CHANGELOGS AT THE BOTTOM
 ~ Scentblock now gives near instant Blood Plague but lasts longer  
 ~ Altered the Mail Order Wakizashi to Yae Sakura with better stats  
 ~ Altered the M4X2 SSW Lite to November Echo Romeo Uniform with better stats  
+~ Altered Wooden Bat to Majima's Practice Bat with altered stats  
 
 # CUSTOM TRAITS  
 **Short Change Hero**  
@@ -163,6 +164,11 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+11-11-20  
+Added new Wooden Bat  
+Added Majima's Practice Bat to starter vehicle trunk
+Made changes to Plague Heart Combat
+
 11-09-20  
 Added new Muzzle Break WG-1-KARASAWA  
 Added new Muzzle Attachments loot table to Rare Ranged Weapon Cases [Red Lining]  
