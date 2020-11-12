@@ -80,6 +80,7 @@ CHANGELOGS AT THE BOTTOM
 ~ Altered the Mail Order Wakizashi to Yae Sakura with better stats  
 ~ Altered the M4X2 SSW Lite to November Echo Romeo Uniform with better stats  
 ~ Altered Wooden Bat to Majima's Practice Bat with altered stats  
+~ Added new hybrid muzzle brake called WG-1-KARASAWA  
 
 # CUSTOM TRAITS  
 **Short Change Hero**  
@@ -166,8 +167,10 @@ Nothing. For now...
 # CHANGELOGS  
 11-11-20  
 Added new Wooden Bat  
-Added Majima's Practice Bat to starter vehicle trunk
-Made changes to Plague Heart Combat
+Added Majima's Practice Bat to starter vehicle trunk  
+Made changes to Plague Heart Combat  
+Added new hybrid muzzle brake called WG-1-KARASAWA  
+WG-1-KARASAWA added to Rare Ranged Weapon Cases Loot table  
 
 11-09-20  
 Added new Muzzle Break WG-1-KARASAWA  
