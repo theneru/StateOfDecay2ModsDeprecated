@@ -173,7 +173,7 @@ Adjusted Plague Heart loot content
 Removed 4 Core Specialization  
 Adjusted NPC AI [They reliably use Full Auto Fire mode now]  
 Blood Bloater Gas damage is halved when in a vehicle
-Regular Bloater Gas now inflicts a small amount of Plague Damage
+Regular Bloater Gas now inflicts a small amount of Plague Damage  
 Adjusted First Base Claim zeds  
 Majima's Practice Bat easily breaks now  
 Adjusted Rucksack contents  
