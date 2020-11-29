@@ -184,6 +184,7 @@ Philippine Golden Eagle is automatically deposited in the Supply Locker
 Adjusted WG-1-KARASAWA[Muzzle Break] pull chance [Slightly lower]  
 Reduced Juggernaut vision range  
 Adjusted Plague Buster craft cost  
+Stabilizing Foam now restores health and removes injuries  
 
 11-11-20  
 Added new Wooden Bat  
