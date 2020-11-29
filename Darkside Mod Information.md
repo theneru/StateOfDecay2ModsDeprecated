@@ -165,6 +165,26 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+11-30-20  
+Adjusted Roll of Firecracker crafting costs  
+Reduced throw range of Roll of Firecrackers  
+Made changes to Plague Heart Combat  
+Adjusted Plague Heart loot content  
+Removed 4 Core Spec  
+Adjusted NPC AI [They reliably uses Full Auto Fire mode now]  
+Blood Bloater Gas when inside a vehicle is halved  
+Adjusted First Base Claim zeds  
+Majima's Practice Bat easily breaks now  
+Adjusted Rucksack contents  
+Adjusted spawn chance of Mysterious Trader and Rare Skills trader  
+Added Base Variant of Juggernaut to field spawn  
+Juggernaut damage increased by 25%  
+Adjusted Gas Behaviour of Base and Plague Variant Bloaters  
+Philippine Golden Eagle is automatically deposited in the Supply Locker  
+Adjusted WG-1-KARASAWA[Muzzle Break] pull chance [Slightly lower]  
+Reduced Juggernaut vision range  
+Adjusted Plague Buster craft cost  
+
 11-11-20  
 Added new Wooden Bat  
 Added Majima's Practice Bat to starter vehicle trunk  
