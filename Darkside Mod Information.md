@@ -170,7 +170,7 @@ Adjusted Roll of Firecracker crafting costs
 Reduced throw range of Roll of Firecrackers  
 Made changes to Plague Heart Combat  
 Adjusted Plague Heart loot content  
-Removed 4 Core Spec  
+Removed 4 Core Specialization  
 Adjusted NPC AI [They reliably uses Full Auto Fire mode now]  
 Blood Bloater Gas when inside a vehicle is halved  
 Adjusted First Base Claim zeds  
