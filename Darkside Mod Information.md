@@ -177,7 +177,7 @@ Regular Bloater Gas now inflicts a small amount of Plague Damage
 Adjusted First Base Claim zeds  
 Majima's Practice Bat easily breaks now  
 Adjusted Rucksack contents  
-Adjusted spawn chance of Mysterious Trader and Rare Skills trader  
+Adjusted spawn chance of Mysterious Trader and Rare Skills trader [Lesser]  
 Added Base Variant of Juggernaut to field spawn  
 Juggernaut damage increased by 25%  
 Adjusted Gas Behaviour of Base and Plague Variant Bloaters  
