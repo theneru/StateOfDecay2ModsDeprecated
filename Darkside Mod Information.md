@@ -165,6 +165,9 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+12-01-20  
+Fixed Crashing issue  
+
 11-30-20  
 Adjusted Roll of Firecracker crafting costs  
 Reduced throw range of Roll of Firecrackers  
