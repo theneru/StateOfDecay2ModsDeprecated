@@ -165,6 +165,12 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+12-05-30  
+Updated for Build 23  
+Added Freak Show Horde [Lethal Zone]  
+Altered Plague Heart Spawns  
+Changed Plague Buster crafting requirements  
+
 12-01-20  
 Fixed Crashing issue  
 
