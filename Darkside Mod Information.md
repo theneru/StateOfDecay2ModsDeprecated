@@ -58,7 +58,6 @@ CHANGELOGS AT THE BOTTOM
 ~ Increased Bloater Cloud size by 5 times and 2 times for the Blood variant  
 ~ NPCs will actively avoid modded Bloater Gas  
 ~ Several items from Heartland can be used in the main game  
-~ Bloater Poison Gland harvest is enabled by default  
 ~ You may now have a max of 8 outpost  
 ~ Enclaves spawn as a group of 5 people  
 ~ Enclaves no longer disband when recruiting one of their people  
