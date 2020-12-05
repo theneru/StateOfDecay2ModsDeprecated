@@ -80,6 +80,7 @@ CHANGELOGS AT THE BOTTOM
 ~ Altered the M4X2 SSW Lite to November Echo Romeo Uniform with better stats  
 ~ Altered Wooden Bat to Majima's Practice Bat with altered stats  
 ~ Added new hybrid muzzle brake called WG-1-KARASAWA  
+~ Echo Gun Crafting Station [Can only be installed at Military Outpost]
 
 # CUSTOM TRAITS  
 **Short Change Hero**  
