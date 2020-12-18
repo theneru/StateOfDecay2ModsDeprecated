@@ -114,6 +114,8 @@ I always aspired to be like Kazuma Kiryu, from the video game Yakuza.
 I've been through hell and back with blood plague. I've grown resistant to it. But...  
 
 *-45 Health*  
+*-45 Stamina*  
+*+33% Fatigue Rate*
 *Plague Immunity*  
 *-97% Zombie Visibility*  
 *1.5x Food Consumption*  
