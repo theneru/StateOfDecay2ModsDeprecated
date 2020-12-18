@@ -156,6 +156,11 @@ Dev. Menu Mod (Embedded)
 //////////////////////////  
 Allows you to open the Developer Menu mod by Pressing F2  
 //////////////////////////  
+
+Realistic Vehicle Storage (Embedded)
+//////////////////////////  
+Balanced Storage sizes for vehicles. Credits to Col Disco  
+//////////////////////////  
   
 /////////////////////////////////////////////////////  
 
@@ -166,7 +171,7 @@ Nothing. For now...
 
 # CHANGELOGS  
 12-19-20  
-Added Realistic Vehicle Storage  
+Added Realistic Vehicle Storage [Credits to Col. Disco]  
 Adjusted loot of upgraded vehicles  
 Hydrophonics now grow both food and meds  
 Hydrophonics build cost increased  
