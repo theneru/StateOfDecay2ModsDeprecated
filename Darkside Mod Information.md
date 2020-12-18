@@ -165,6 +165,27 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+12-19-20  
+Added Realistic Vehicle Storage  
+Adjusted loot of upgraded vehicles  
+Hydrophonics now grow both food and meds  
+Hydrophonics build cost increased  
+Removed Plague Cure with no cure animation [The one I added]  
+
+12-12-20  
+Removed Lethal food buff  
+Plague Sample drop decreased by 75%  
+Fixed several icons  
+Fixed RT Prestige Trader [Probably]  
+
+10-12-20  
+Added Auto Shop outpost  
+Added Scavenge Base Outpost  
+Added Hame Base/Outpost Zone buffs  
+Added Plague Cure with no cure animation  
+Added timers to Bio Chem Station actions  
+Buffed Work Bench buffs  
+
 12-05-30  
 Updated for Build 23  
 Darkside affects Lethal Zone too  
