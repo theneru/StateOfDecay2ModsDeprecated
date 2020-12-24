@@ -158,7 +158,7 @@ Dev. Menu Mod (Embedded)
 Allows you to open the Developer Menu mod by Pressing F2  
 //////////////////////////  
 
-Realistic Vehicle Storage (Embedded)
+Realistic Vehicle Storage (Embedded)  
 //////////////////////////  
 Balanced Storage sizes for vehicles. Credits to Col Disco  
 //////////////////////////  
