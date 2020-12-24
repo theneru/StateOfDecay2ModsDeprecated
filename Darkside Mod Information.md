@@ -59,13 +59,11 @@ CHANGELOGS AT THE BOTTOM
 ~ Increased Bloater Cloud size by 5 times and 2 times for the Blood variant  
 ~ NPCs will actively avoid modded Bloater Gas  
 ~ Several items from Heartland can be used in the main game  
-~ You may now have a max of 8 outpost  
+~ You may now have a max of 8 outpost [You Start with 3]  
 ~ Enclaves spawn as a group of 5 people  
 ~ Enclaves no longer disband when recruiting one of their people  
-~ Traders now show all the items they will trade  
-~ Adjusted certain trade prices and inventory for balancing
+~ Adjusted certain trade prices and inventory for balancing  
 ~ Increased Vehicle Acceleration and top speed  
-~ All Vehicle trunk size is 18  
 ~ Standing gain is reduced to balance the scaling of difficulty  
 ~ Added 3 new traits, and 1 new Hero Bonus  
 ~ Skill Adjustments for Assault, Scouting, Warfighting, Prowess, Heroism, Tactics  
