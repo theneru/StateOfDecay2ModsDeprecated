@@ -108,7 +108,7 @@ I always aspired to be like Kazuma Kiryu, from the video game Yakuza.
 *Hero Bonus (Dragon of Dojima): +3 Labor (Self Only), +45 Stamina to Everyone*  
 //////////////////////////  
 
-**Among the dead**  
+**Among the Dead**  
 //////////////////////////  
 I've been through hell and back with blood plague. I've grown resistant to it. But...  
 
