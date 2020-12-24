@@ -53,7 +53,7 @@ CHANGELOGS AT THE BOTTOM
 ~ Facilities Functions: Certain facility actions now take time to complete, different costs & requirements and added special functions  
 ~ Special items can be crafted from the outposts and facilities  
 ~ Blood Plague is more emphasized  
-~ Ferals have increased Car Dodge Cooldown  
+~ Ferals have decreased Car Dodge Cooldown  
 ~ Rucksacks now have better items in them when broken open. They now also have reduced yields  
 ~ Some items can now be carried in bigger stacks and some you can stack more  
 ~ Increased Bloater Cloud size by 5 times and 2 times for the Blood variant  
