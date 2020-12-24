@@ -22,8 +22,8 @@ THIS MOD IS MEANT TO BE PLAYED WITHOUT ANY OTHER MODS FOR BETTER EXPERIENCE! THI
 FILES WHICH MIGHT CONFLICT WITH OTHER MODS
 
 # About Darkside
-Darkside is an overhaul mod exclusive to Nightmare Zone and originated from my first overhaul mod called  
-Dead End Heaven. This mod aims to flesh out several mechanics in the game all the while giving players a  
+Darkside is an overhaul mod exclusive to Nightmare and Lethal Zone. The mod originated from my first overhaul  
+mod called Dead End Heaven. This mod aims to flesh out several mechanics in the game all the while giving players a  
 good challenge. The mod emphasizes the managing of not only regular resources but your community itself.  
 Fleshes out the use of labor, distraction items, special items from Heartland and how you should handle various  
 scenarios. This isn't my mod. But it's mod by everyone in the SoD2 modding discord. The same applies to  
