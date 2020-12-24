@@ -44,6 +44,7 @@ CHANGELOGS AT THE BOTTOM
 ~ Plague Damage taken is greatly increased  
 ~ Plague Freak variants may spawn alongside their base counterparts  
 ~ Murder Packs, a group of 4-6 Base and Plague variant Ferals  
+~ Freak Show Horde, contains 4 of each freak and Blood Plague Zeds. [Does not contain Bloaters]  
 ~ Bloodfestation: Now infestations are comprised of Blood Variants of Zeds  
 ~ Blood Siege: Base sieges are entirely made of Plague Variants of zeds  
 
