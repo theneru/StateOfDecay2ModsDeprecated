@@ -174,9 +174,9 @@ Nothing. For now...
 # CHANGELOGS  
 12-31-20  
 Staging Area now negates Hydrophonics material cost per day  
-Removed CQC and Ranged Weapons from Plague Heart loot
-Outpost Claim and labor cost for Lethal Zone balancing
-Crash Fix
+Removed CQC and Ranged Weapons from Plague Heart loot  
+Outpost Claim and labor cost for Lethal Zone balancing  
+Crash Fix  
 
 12-19-20  
 Added Realistic Vehicle Storage [Credits to Col. Disco]  
