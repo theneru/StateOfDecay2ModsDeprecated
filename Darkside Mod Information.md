@@ -172,6 +172,19 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+01-04-21  
+Updated Embedded Heilos' Dev Menu  
+Starshank Launcher is now called Echo-S9 Starfell  
+Echo-S9 Starfell is now added to the craftable guns in Echo Gun Crafting Station facility mod  
+Starshank ammo is now called Starburst Round  
+Pyro Launcher ammo is now called Flame Round  
+Updated item description for Echo-S8 and Echo-S9  
+Buffed C4 Charge Damage  
+Buffed Muzzle Brake KARASAWA  
+Advanced Bio Chem Station now Requires Plague Samples to craft  
+Improved Human AI Combat against Zeds  
+Spawn Adjustment [Zed distribution between TCS 900~1800]  
+
 12-31-20  
 Staging Area now negates Hydrophonics material cost per day  
 Removed CQC and Ranged Weapons from Plague Heart loot  
