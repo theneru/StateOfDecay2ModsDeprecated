@@ -172,6 +172,11 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+01-14-21  
+Redone Base Sieges (AGAIN!)  
+Spawn Adjustment for Murder Pack and Freak Show hordes  
+Increased Timer on fixing vehicles  
+
 01-04-21  
 Updated Embedded Heilos' Dev Menu  
 Starshank Launcher is now called Echo-S9 Starfell  
