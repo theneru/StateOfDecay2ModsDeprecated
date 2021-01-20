@@ -172,6 +172,15 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+01-20-21  
+Added new item Plague Cure Beta  
+Plague Cure Beta can be crafted in the infirmary  
+Crash Fix for scavenge base  
+Adjusted GDMs for Enclaves [Less Plague Damage taken]  
+Cleared Safe Zone duration fix  
+N.E.R.U. has a custom Suppressor [NERU Suppressor]  
+Increased chances for Rare Skills Trader to spawn  
+
 01-14-21  
 Redone Base Sieges (AGAIN!)  
 Spawn Adjustment for Murder Pack and Freak Show hordes  
