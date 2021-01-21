@@ -175,6 +175,7 @@ Nothing. For now...
 01-21-21  
 Nerfed CLEO Sniper Support  
 November Echo Romeo Uniform no longer supports weapon attachments except for the NERU Suppressor  
+NERU Suppressor can't be removed from November Echo Romeo Uniform  
 Pyro Launcher Mission should no longer appear  
 Removed Starshank Launcher and it's ammo from Independence Trader and Supply Drop  
 
