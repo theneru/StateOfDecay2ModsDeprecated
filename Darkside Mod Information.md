@@ -172,6 +172,12 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+01-21-21  
+Nerfed CLEO Sniper Support  
+November Echo Romeo Uniform no longer supports weapon attachments except for the NERU Suppressor  
+Pyro Launcher Mission should no longer appear  
+Removed Starshank Launcher and it's ammo from Independence Trader and Supply Drop  
+
 01-20-21  
 Added new item Plague Cure Beta  
 Plague Cure Beta can be crafted in the infirmary  
