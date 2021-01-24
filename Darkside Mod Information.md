@@ -196,6 +196,7 @@ Nothing. For now...
 Added Spiritual Leader and Smooth Criminal traits  
 Added Utilities Complex from Heartland to Main Game  
 Changed build requirements for Utilities Comnplex  
+Added 5 new melee weapons to the Rare Weapon Cases  
 
 01-21-21  
 Nerfed CLEO Sniper Support  
