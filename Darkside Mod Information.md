@@ -123,6 +123,26 @@ I've been through hell and back with blood plague. I've grown resistant to it. B
 *Fighting Max Level 3*  
 //////////////////////////  
 
+**Spiritual Leader**  
+//////////////////////////  
+I, who stand in the full light of the heavens. Beseech thee to guide us to salvation  
+
+*0.75x Food Consumption for community*  
+*+3 Morale for everyone*  
+*+3 Noise/Threat*  
+*Less Frustration between community members*  
+//////////////////////////  
+
+**Smooth Criminal**  
+//////////////////////////  
+I stole for a living. I've even stolen from millionaires. And even during this apocalypse. Stealing stuff will still keep me alive  
+
+*Silent Searching*  
+*No crash when fast searching*  
+*More Frustration between community members*  
+//////////////////////////  
+
+
 # EMBEDDED MODS INFO  
 //////////////////////////  
 Altered Rucksacks Contents (Embedded)  
@@ -172,6 +192,11 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+01-24-21  
+Added Spiritual Leader and Smooth Criminal traits  
+Added Utilities Complex from Heartland to Main Game  
+Changed build requirements for Utilities Comnplex  
+
 01-21-21  
 Nerfed CLEO Sniper Support  
 November Echo Romeo Uniform no longer supports weapon attachments except for the NERU Suppressor  
