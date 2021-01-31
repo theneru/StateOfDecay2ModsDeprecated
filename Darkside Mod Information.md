@@ -66,7 +66,7 @@ CHANGELOGS AT THE BOTTOM
 ~ Adjusted certain trade prices and inventory for balancing  
 ~ Increased Vehicle Acceleration and top speed  
 ~ Standing gain is reduced to balance the scaling of difficulty  
-~ Added 3 new traits, and 1 new Hero Bonus  
+~ Added 5 new traits, and 1 new Hero Bonus  
 ~ Skill Adjustments for Assault, Scouting, Warfighting, Prowess, Heroism, Tactics  
 ~ Morale Penalty from infestations has been nerfed. More infestations are required to incur moral penalty.  
 ~ Base Siege Timer Adjustment: Longer timer when preparing for the Siege. Allowing you time to assign weapons or place explosives.  
