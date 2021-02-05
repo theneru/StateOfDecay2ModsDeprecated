@@ -192,6 +192,10 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+02-05-21  
+Added new vehicle Golf Cart [3rd Energy Ptototype Car]  
+Adjusted Gas Can crafting cost  
+
 01-24-21  
 Added Spiritual Leader and Smooth Criminal traits  
 Added Utilities Complex from Heartland to Main Game  
