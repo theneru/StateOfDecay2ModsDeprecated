@@ -192,6 +192,13 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+02-22-21  
+Fixed Plague Heart loot  
+Fixed NPC interactions  
+Plague Heart takes more overall damage  
+Reduced noise interval of Plague Bloater gas  
+Fixed some sieges not taking 4 ammo when not participating  
+
 02-05-21  
 Added new vehicle Golf Cart [3rd Energy Ptototype Car]  
 Adjusted Gas Can crafting cost  
