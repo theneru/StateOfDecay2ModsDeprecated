@@ -16,7 +16,7 @@ Fighting Max Level 3
 ||||||||||||||||||||||||||||||||||||||||||||
 Trait Name: Did Odd Jobs
 Trait Desc: I worked at alot of places. I worked with alot of people. Especially weird ones.
-Hero Bonus: Silver Soul
+Hero Bonus: Silver Soul [+3 Labor to self]
 ||||||||||||||||||||||||||||||||||||||||||||
 Grants the Jack of All Trades Skill
 * Skill can be leveled up through books and facility actions
