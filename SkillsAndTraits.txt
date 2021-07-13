@@ -1,0 +1,71 @@
+* Added Custom Traits and skills
+/////////////////SPECIFICS\\\\\\\\\\\\\\\\\\
+Trait Name: Among the Dead
+Trait Desc: I've been through hell and back with blood plague. I've grown resistant to it. But...
+Hero Bonus: None
+||||||||||||||||||||||||||||||||||||||||||||
+-45 Health
+-45 Stamina
++33% Fatigue Rate
+Plague Immunity
+-97% Zombie Visibility
+1.5x Food Consumption
+Cardio Max Level 3
+Fighting Max Level 3
+||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||
+Trait Name: Did Odd Jobs
+Trait Desc: I worked at alot of places. I worked with alot of people. Especially weird ones.
+Hero Bonus: Silver Soul
+||||||||||||||||||||||||||||||||||||||||||||
+Grants the Jack of All Trades Skill
+* Skill can be leveled up through books and facility actions
+* Leveled Buffs gives the following
+0 Star - Knowledge of Cooking
+1 Star - Knowledge of Gardening
+2 Stars - Knowledge of Craftsmanship
+3 Stars - Knowledge of Utilities
+4 Stars - Knowledge of Mechanics
+5 Stars - Knowledge of Medicine
+6 Stars - Knowledge of Computers
+7 Stars - Knowledge of Chemistry
+||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||
+Trait Name: Free Runner
+Trait Desc: I do alot of free running. Jumping, running, doing flips.
+Hero Bonus: Moral Support
+||||||||||||||||||||||||||||||||||||||||||||
+Grants the Parkour Skill
+Acrobatics base buffs + -15% Stamina cost when sprinting + -15% Stamina cost when climbing
+Acrobatics max buffs + -30% Stamina cost when sprinting + Sprint for free when lightly encumbered
+||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||
+Trait Name: Military Spotter
+Trait Desc: Snipers work in pairs. I was a spotter. But I'm a pretty good trigger as well.
+Hero Bonus: Notices Things
+||||||||||||||||||||||||||||||||||||||||||||
+Grants the Parkour Skill
+Gunslinging Base + Sharpshooting Base
+Gunslinging Max + Sharpshooting Max + Weapons Handling Max
+||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||
+Trait Name: Admired Ninjas
+Trait Desc: Ninjas are just amaze-balls! I played alot of Tenchu and watched Naruto.
+But as soon as stealth stop being a thing in Naruto. Well, I still want to be a ninja.
+Hero Bonus: None
+||||||||||||||||||||||||||||||||||||||||||||
+Grants the Shinobi Skill
+Stealh Base + Increase hostile/zombie detection [You detecting them and not the other way around]
+Stealth 4* + Sprinting, walking generates no noise
+Stealth Max + Increased Search Speed + Less likely to be spotted by zombies
+||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||
+Trait Name: Lived in Karmurocho
+Trait Desc: It's just thugs, punks and yakuza where I used to live. And I'm pretty much a tough customer myself.
+Hero Bonus: Helpful Mockery
+||||||||||||||||||||||||||||||||||||||||||||
+Grants the Brawler Skill
+Endurance Base + Close Combat Base
+Endurance Max + Powerhouse Base
+||||||||||||||||||||||||||||||||||||||||||||
+\\\\\\\\\\\\\\\\\SPECIFICS//////////////////
