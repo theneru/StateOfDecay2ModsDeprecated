@@ -44,7 +44,7 @@ Trait Name: Military Spotter
 Trait Desc: Snipers work in pairs. I was a spotter. But I'm a pretty good trigger as well.
 Hero Bonus: Notices Things
 ||||||||||||||||||||||||||||||||||||||||||||
-Grants the Parkour Skill
+Grants the Marksman Skill
 Gunslinging Base + Sharpshooting Base
 Gunslinging Max + Sharpshooting Max + Weapons Handling Max
 ||||||||||||||||||||||||||||||||||||||||||||
