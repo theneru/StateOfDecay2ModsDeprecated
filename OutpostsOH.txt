@@ -9,100 +9,36 @@ https://www.paypal.me/TheNeru
 Outpost Overhaul Mod
 =======================================
 =======================================
+All Resource Outposts
+~ Outposts that generate resource will cost 1 Labor
 
-Be warned, the Material Cost is doubled in Nightmare
-due to difficulty settings. It's the game's settings.
-Not mine. Darkside version of this mod is now exclusive to
-the Darkside mod.
-
-I = Influence
-M = Materials
-
-=======================================
-=======================================
 Ammo Outpost
-~ Claim Cost - [1000I, 2M]
-Listed [Mod] Effects
-- -1 Labor
-- +2 Ammo Per Day
-- Craft Rounds & Produce Ammo Function
-- Mod Slot [Worshop Mods]
+~ Ammo Outpost 2 and 3 allows you to craft small caliber ammo
+~ Ammo Outpost 2 will have Workshop 2 Crafting Actions
+~ Ammo Outpost 3 will have Workshop 3 Crafting Actions
 
 Food Outpost
-~ Claim Cost - [900I, 2M]
-Listed [Mod] Effects
-- -1 Labor
-- +2 Food Per Day
-- Make Items and Produce Food Function
-- Prepare Feast (Philippine Dishes)
-- Mod Slot [Kitchen Mods]
+~ Food Outpost 2 will have Kitchen 1 functions
+~ Food Outpost 3 will have Kitchen 2 functions
 
 Fuel Outpost
-~ Claim Cost - [800I, 2M]
-Listed [Mod] Effects
-- -1 Labor
-- +2 Fuel Per Day
-- Crafting of Light Upgrade Kit
-- Vehicle Tuning [Autoshop Vehicle Durability and Noise]
+~ No changes yet
 
 Materials Outpost
-~ Claim Cost - [600I, 2M]
-Listed [Mod] Effects
-- -2 Labor
-- +2 Materials Per Day
-- Craft Items and Produce Ammo [Workshop 1] Function
-- Repair and Salvage Weapons [Workshop 1] Function
-- Parts to Materials Function
+~ Materials Outpost 2 and 3 will have Sawmill Functions
 
 Medical Outpost
-~ Claim Cost - 1500I, 5M [600I, 2M]
-Listed [Mod] Effects
-- -1 Labor
-- +2 Meds Per Day
-- Craft Items and Produce Meds [Infirmary 2]
-- Mod Slot [Infirmary Mods]
+~ Medicine Outpost 2 will have Infirmary 2 Crafting functions
+~ Medicine Outpost 3 will have Infirmary 3 Crafting functions
+~ Medicine Outpost 3 will allow you to craft Enhanced Plague Cures
+and Plague Busters from Heartland
 
-Artillery Outpost
-~ Claim Cost - [3250I, 7M]
-Listed [Mod] Effects
-- -4 Labor
-- -2 Ammo Per Day
-- Unlocks Mortar Barrage Radio Call
-- Craft Ammo & Weapon Mods Function
-- Mod Slot [Workshop Mods]
-
-Espresso Stand
-- Claim Cost - [775I, 1M]
-Listed [Mod] Effects
-- Slightly higher morale boost
-- Passive Fatigue reduction
-
-Power Outpost
-- Claim Cost - [2000I, 3M]
-Listed [Mod] Effects
-- -2 Labor
-
-Radio Booster Outpost
-- Claim Cost - [1350I]
-Listed [Mod] Effects
-- -1 Labor
-- Unlocks Sniper and Recon Radio Call
-- Provides Passive Enemy Detection
+Artillery/Military Outpost
+~ Allows you to craft high caliber rounds
 
 Safehouse Outpost
-~ Claim Cost - [1250I, 3M]
-Listed [Mod] Effects
-- -1 Labor
-- +4 Bed
-- Scavenge Function
-- Distract Threat Function
-- Mod Slot [Bed Mods]
-
-Water Outpost
-- Claim Cost - [1800I, 3M]
-Listed [Mod] Effects
-- -1 Labor
-- -2 Fuel Per Day
+~ +4 Beds
+~ Added Special Functions
 
 =======================================
 =======================================
@@ -110,69 +46,23 @@ Listed [Mod] Effects
 =======================================
 Functions Information
 
-Ammo Outpost
-- Allows crafting of .22 cal, 9mm, .357 magnum, 5.56mm, and 12g shells.
-- Allows Ammo Resource production.
-
-Food Outpost
-- Vanilla Kitchen Craft Functions
-- Prepare Feast (Philippine Dishes)
-Spend 4 Food and 3 Labor to give your community Morale, Stamina and Fatigue Rate Reduction
-buff for 1 hour. Bonus effects when having certain Cooking related Knowledges.
-
-Fuel Outpost
-- Light Vehicle Upgrade Kit crafting
-- Vanilla Autoshop Vehicle Tuning
-
-Materials Outpost
-- Vanilla Workshop 1 Functions
-- Vanilla Forge Functions
-
-Medical Outpost
-- Vanilla Infirmary 2 Functions
-
-Artillery Outpost
-- Allows crafting of .45, 7.62mm, .50 Cal and 40mm rounds
-- Allows crafting of Advance Weapon Mods
-- Allows Ammo Resource production.
-
 Safehouse Outpost
-- Scavenge for resources function, allows you to spend 2 Ammo and 3 labor to search for resources.
-It yields the following amount after 1 ingame day [90 minutes]
-[+40 Parts, 3 of every resource except ammo, +100 Prestige, +250 Influence.]
-- Scavenge for small items function, allows you to spend 1.5 ammo and 1 labor to search for various
-consumables like health, stims, throwables, misc items, and Skill Books
-- Distract Threat function, spend 3 ammo and 6 Firecrackers to distract zeds from your base for
-1 day.
+~ Scavenge Function
++45 Parts
++250 Prestige
++400 Influence
++4 Random Rucksacks deposited into the Community Locker [Ammo Sack excluded]
+NOTE: Locker and not Storage! So check your locker after the command finishes
+
+~ Scavenge for Consumables, Misc, and Facility mods function
+Deposits random consumables, miscellaneous, and facility mods into the
+community locker
 
 =======================================
 =======================================
 Future updates
-~ Scavenge Weapons Function [Safehouse]
-~ Find a Recruit Function [Safehouse]
+~ Nothing
 =======================================
 Changelogs
-[09-09-20]
-~ Adjusted functions for Artillery Outpost
-~ Bug fix
-
-[09-02-20]
-~ Increased Fuel Outpost Cost
-~ Fuel Outpost can now tune car durability and noise
-~ Fuel Outpost can now craft Light Vehicle Upgrade Kits
-~ Increased Radio Tower Claim cost
-~ Radio Tower now unlocks sniper and recon support
-~ Radio Tower now provides passive detection
-
-[08-30-20]
-~ Added Distract Threat Function to Safehouse Outpost
-~ Increased Outpost Cost
-~ Added Several new functions to Artillery Outpost
-
-[08-24-20]
-~ Added Mods slots to Ammo, Food, Safehouse and Meds outposts
-~ Scavenge for small items function to Safehouse outpost
-~ Changed original Scavenge function name to Scavenge for resources
-
-[08-23-20]
-Initial Release
+[07-15-21]
+~ Initial Release
