@@ -66,6 +66,9 @@ NOTE: Locker and not Storage! So check your locker after the command finishes
 Deposits random consumables, miscellaneous, and facility mods into the
 community locker
 
+~ Distract Threats
+-14 Base Threat for 1 in-game day [90mins]
+
 =======================================
 =======================================
 Future updates
