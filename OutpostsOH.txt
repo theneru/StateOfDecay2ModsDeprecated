@@ -22,7 +22,7 @@ Food Outpost
 ~ Food Outpost 3 will have Kitchen 2 functions
 
 Fuel Outpost
-~ No changes yet
+~ Can craft Molotovs and Fuel Bombs with Filling Machine Effect
 
 Materials Outpost
 ~ Materials Outpost 2 and 3 will have Sawmill Functions
@@ -35,13 +35,19 @@ and Plague Busters from Heartland
 
 Artillery/Military Outpost
 ~ Allows you to craft high caliber rounds
+~ Unlocks 1 Outpost Slot
+~ Unlocks Radio Command to find Fatigues/Military
 
 Safehouse Outpost
 ~ +4 Beds
 ~ Added Special Functions
+~ Can deposit rucksack
 
 Auto Shop Outpost [Auto Shop buildings]
 ~ Outpost will have the Auto Shop facility functions
+
+Radio Booster/Tower Outpost
+~ Function to call +3 Labor Buff
 
 Nursery Outposts [Greenhouse, Nursery]
 ~ Can use seeds to increase yield
@@ -75,5 +81,11 @@ Future updates
 ~ Nothing. For now.
 =======================================
 Changelogs
+[07-16-21]
+~ Added Deposit Rucksack function to Safehouse
+~ Added function Radio Tower to call additional Labor
+~ Artillery/Military Outpost now adds +1 Outpost and Unlocks Find Fatigues Radio command
+~ Molotovs and Fuel Bombs can be crafted
+
 [07-15-21]
 ~ Initial Release
