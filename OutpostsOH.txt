@@ -81,6 +81,20 @@ Future updates
 ~ Nothing. For now.
 =======================================
 Changelogs
+[07-21-21]
+~ Level 3 Resource Outpost grants +35 Storage to the resource they produce
+~ Radio Booster Outpost function to receive more Labor
+~ Material Outpost 3 provides daily Parts resource
+~ Material Outpost 3 allows crafting of circuitry
+~ Military Outpost now allows you to craft Advance Attachments
+~ Military Outpost provides -10 Base Threat
+~ Military Outpost now cost 1 ammo per day
+~ Can craft weapon parts in Ammo Outpost 2 and 3
+~ Fuel Outpost 3 allows crafting of Case Chemicals
+~ Lowered Labor Cost to Upgrade Nursery Outpost
+~ Nursery Outpost 1 Meds allows crafting of Jugs of Ethanol
+~ Nursery Outpost 2 allows crafting of Jugs of Ethanol
+
 [07-16-21]
 ~ Added Deposit Rucksack function to Safehouse
 ~ Added function Radio Tower to call additional Labor
