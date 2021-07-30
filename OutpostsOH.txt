@@ -5,6 +5,18 @@ https://www.paypal.me/TheNeru
 
 ¯\_(ツ)_/¯ Shameless Paypal link insertion end. ¯\_(ツ)_/¯
 
+||||||||||||||||||||||||||||||||||||||||
+Q & A
+||||||||||||||||||||||||||||||||||||||||
+Q: Will you ever update the No Labor version to have the latest changes in the one with Labor Cost
+A: No.
+
+Q: Can't you just add a toggle button to enable the facility functions at the cost of Labor?
+A: I definitely can, but I am limited to 5 buttons at most. That and it doesn't sit right
+with me that the community is still gaining resources from the outpost without the cost of Labor.
+Also, also. I would need to edit a few more files to achieve that and will inevitable become
+a conflict with other mods.
+
 
 Outpost Overhaul Mod
 =======================================
