@@ -11,6 +11,9 @@ Q & A
 Q: Will you ever update the No Labor version to have the latest changes in the one with Labor Cost
 A: No.
 
+Q: Why can't I upgrade the Nursery and Safehouse Outposts?
+A: You need the State of Decay 2 Mod Manager by KaiHeilos to integrate those new Outposts.
+
 Q: Can't you just add a toggle button to enable the facility functions at the cost of Labor?
 A: I definitely can, but I am limited to 5 buttons at most. That and it doesn't sit right
 with me that the community is still gaining resources from the outpost without the cost of Labor.
@@ -54,6 +57,30 @@ Safehouse Outpost
 ~ +4 Beds
 ~ Added Special Functions
 ~ Can deposit rucksack
+~ Safehouse can be upgraded to Front Guard, Scavenge Base, Lounge, Self Sufficient
+[[[[[Custom Safehouse Upgrades]]]]]
+Safehouse Frong Guard
+~ +4 Beds
+~ -6 Threat
+~ -1 Ammo Per Day
+~ -1 Labor
+
+Safehouse Scavenge Base
+~ +4 Beds
+~ +2 Materials, Meds, Ammo, Fuel, Food [Food Generation in Nightmare is 1.5x and 2x for Lethal]
+~ -3 Labor
+
+Safehouse Lounge
+~ +4 Beds
+~ Lounge 2 Factions
+~ Lounge 2 Passives
+
+Self Sufficient Safehouse
+~ +4 Beds
+~ Base Wide Water and Power
+~ -1 Labor
+[[[[[Custom Safehouse Upgrades]]]]]
+
 
 Auto Shop Outpost [Auto Shop buildings]
 ~ Outpost will have the Auto Shop facility functions
@@ -93,6 +120,10 @@ Future updates
 ~ Nothing. For now.
 =======================================
 Changelogs
+[07-31-21]
+~ Custom Upgrades for Safehouse
+~ Upgrading/Claiming Outposts no longer cost Labor
+
 [07-21-21]
 ~ Level 3 Resource Outpost grants +35 Storage to the resource they produce
 ~ Radio Booster Outpost function to receive more Labor
