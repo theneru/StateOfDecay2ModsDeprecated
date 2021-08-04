@@ -114,12 +114,25 @@ community locker
 ~ Distract Threats
 -14 Base Threat for 1 in-game day [90mins]
 
+~ Overwork
+Doubles the labor provided by the community.
+Facility Action speeds are increased by 25% up to 100%
+Morale is reduced by 10 up to 30
+
 =======================================
 =======================================
 Future updates
 ~ Nothing. For now.
 =======================================
 Changelogs
+[08-04-21]
+~ Level 3 Outposts now accept Facility Mods
+~ Artillery, Nursery, Auto Shop, Radio Tower Booster now accepts Facility Mods
+~ Any of the upgraded Safehouse Outposts accepts Facility Mods
+~ Fixed Ammo Outpost 1 names and description
+~ Fixed Level 3 Outposts Storage Buffs Info
+~ Safehouse new function Overwork
+
 [07-31-21]
 ~ Custom Upgrades for Safehouse
 ~ Upgrading/Claiming Outposts no longer cost Labor
