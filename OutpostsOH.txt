@@ -127,6 +127,7 @@ Future updates
 Changelogs
 [08-04-21]
 ~ Level 3 Outposts now accept Facility Mods
+~ Increased the cost of Level 3 Outposts by 250
 ~ Artillery, Nursery, Auto Shop, Radio Tower Booster now accepts Facility Mods
 ~ Any of the upgraded Safehouse Outposts accepts Facility Mods
 ~ Safehouse new function Overwork
