@@ -129,9 +129,10 @@ Changelogs
 ~ Level 3 Outposts now accept Facility Mods
 ~ Artillery, Nursery, Auto Shop, Radio Tower Booster now accepts Facility Mods
 ~ Any of the upgraded Safehouse Outposts accepts Facility Mods
+~ Safehouse new function Overwork
 ~ Fixed Ammo Outpost 1 names and description
 ~ Fixed Level 3 Outposts Storage Buffs Info
-~ Safehouse new function Overwork
+~ Molotovs and Fuel Bombs are cheaper to craft at the Fuel Outpost
 
 [07-31-21]
 ~ Custom Upgrades for Safehouse
