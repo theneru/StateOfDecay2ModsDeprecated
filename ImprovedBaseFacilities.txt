@@ -1,0 +1,71 @@
+Improved Base Facilities
+-Armory
+Allows crafting of Adv Attachments
+Removed Leader Requirement
+
+-Bedrolls
++1 Additional Bed
+
+-Lounge
+Increased duration of Morale Buffs
+
+-Sniper Tower
+Should have 3 Guards
+Removed Leader Requirement
+Function to Start a Siege
+[After the Siege Community will have 0 Base Threat for 2 in-game days]
+
+-Farm (Without Water|With Water)
+Increased Yields (3)(3|5)(5|8)
+
+-Field Hospital
+Provides 3 Beds
+Removed Leader Requirement
+Can Craft Enhanced Plague Cures
+Can Craft Bottle of Stimulants
+
+-Garden (Without Water|With Water)
+Increased Yields (2)(2|3)(3|4)
+
+-General Storage 1/2/3
+Doubled Storage Size
+
+-Generator 1/2/3
+Increased Power Duration
+
+-Hydroponics
+Removed Convert Option
+Yields 5 Food and Meds
+
+-Infirmary
+Provides beds proportional to their treatment beds provided
+
+-Kitchen 1/2
+Increased buff duration of Cook Feast
+
+-Rain Collector
+Increased duration of Water
+
+-Watchtower 1/2
+Reduces Base Threat by 3
+Should have 3 Guards (Watchtower 2)
+
+-Staging Area
+Increases Base Action Speeds depending on the number of Community Members
+
+-Shooting Range
+Sway & Recoil reduced by 12%, +25% Reload Speed to Community
+
+-Shooting Range 2
+Removed Leader Requirement
+Sway & Recoil reduced by 25%, +50% Reload Speed to Community
+
+-Training Area
+Stamina Cost when using melee is reduced by 50%
+
+-Training Area 2
+Grappling, Dodging, Melee and Finisher cost 50% less Stamina
+
+-Trade Depot
+Gain 1 Ammo, Food, Fuel, Material, Meds per day
+50 Addtional Storage for all Resources
