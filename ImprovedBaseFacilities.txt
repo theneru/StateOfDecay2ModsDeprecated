@@ -27,7 +27,7 @@ Function to Start a Siege
 [After the Siege, Community will have 0 Base Threat for 2 in-game days]
 
 -Farm (Without Water|With Water)
-Increased Yields (3)(3|5)(5|8)
+Increased Yields (3)(3|5)(5|8) [This does not reflect properly in the Facility Info Box. Instead confirm it at the Community Resource Panel]
 
 -Field Hospital
 Provides 3 Beds
@@ -36,7 +36,7 @@ Can Craft Enhanced Plague Cures
 Can Craft Bottle of Stimulants
 
 -Garden (Without Water|With Water)
-Increased Yields (2)(2|3)(3|4)
+Increased Yields (2)(2|3)(3|4) [This does not reflect properly in the Facility Info Box. Instead confirm it at the Community Resource Panel]
 
 -General Storage 1/2/3
 Doubled Storage Size
