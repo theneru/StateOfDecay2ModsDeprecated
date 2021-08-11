@@ -63,6 +63,7 @@ Should have 3 Guards (Watchtower 2)
 
 -Staging Area
 Increases Base Action Speeds depending on the number of Community Members
+[Caps out at 100%]
 
 -Shooting Range
 Sway & Recoil reduced by 12%, +25% Reload Speed to Community
