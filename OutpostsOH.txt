@@ -9,6 +9,12 @@ https://ko-fi.com/theneru
 ||||||||||||||||||||||||||||||||||||||||
 Q & A
 ||||||||||||||||||||||||||||||||||||||||
+Q: Where can I find the new outposts?
+A: Autoshop Outpost -> Basically an Autoshop Building
+Nursery Outpost -> Plant Nursery/Greenhouses [Notably Meagher Valley has these buildings]
+Post Office Outpost -> Only Providence has this building
+Library Outpost -> Drucker and Cascade has this building
+
 Q: Will you ever update the No Labor version to have the latest changes in the one with Labor Cost
 A: No.
 
@@ -20,6 +26,7 @@ A: I definitely can, but I am limited to 5 buttons at most. That and it doesn't 
 with me that the community is still gaining resources from the outpost without the cost of Labor.
 Also, also. I would need to edit a few more files to achieve that and will inevitable become
 a conflict with other mods.
+
 
 
 Outpost Overhaul Mod
