@@ -93,6 +93,9 @@ Nursery Outposts [Greenhouse, Nursery]
 ~ Nursery Outpost 1 yields food, can be converted to yield meds
 ~ Nursery Outpost 2 yields both food and meds at the same time
 
+Post Office/Library Outpost
+~ Allows crafting of Skill Books
+
 =======================================
 =======================================
 =======================================
@@ -125,6 +128,11 @@ Future updates
 ~ Nothing. For now.
 =======================================
 Changelogs
+[08-13-21]
+~ Added Post Office Outpost
+~ Added Library Outpost
+~ Removed Skill Learning from every outpost
+
 [08-04-21]
 ~ Level 3 Outposts now accept Facility Mods
 ~ Increased the cost of Level 3 Outposts by 250
