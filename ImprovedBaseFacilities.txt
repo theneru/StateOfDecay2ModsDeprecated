@@ -1,10 +1,10 @@
-(/◕ヮ◕)/ Shameless Paypal link insertion here. (/◕ヮ◕)/
+(/◕ヮ◕)/ Shameless Donation links insertion here. (/◕ヮ◕)/
 If you like my mods and probably want or don't want to see more. A Donation is welcome but never required.
 
 https://www.paypal.me/TheNeru
 https://ko-fi.com/theneru
 
-¯\_(ツ)_/¯ Shameless Paypal link insertion end. ¯\_(ツ)_/¯
+¯\_(ツ)_/¯ Shameless Donation links insertion end. ¯\_(ツ)_/¯
 
 
 
@@ -13,6 +13,10 @@ Improved Base Facilities
 -Armory
 Allows crafting of Adv Attachments
 Removed Leader Requirement
+
+-Barracks
+Removed Leader Requirements for updates
+Having power negates morale penalty of Spartan Barracks
 
 -Bedrolls
 +1 Additional Bed
@@ -54,8 +58,13 @@ Provides beds proportional to their treatment beds provided
 -Kitchen 1/2
 Increased buff duration of Cook Feast
 
+-Parking Slots
+Allows crafting of Vehicle Upgrades without Autoshop facility
+Allows repairing parked vehicles with parts
+
 -Rain Collector
-Increased duration of Water
+Water Access is now passive
+When powered, increases Plague Resistance
 
 -Watchtower 1/2
 Reduces Base Threat by 3
@@ -81,3 +90,15 @@ Grappling, Dodging, Melee and Finisher cost 50% less Stamina
 -Trade Depot
 Gain 1 Ammo, Food, Fuel, Material, Meds per day
 50 Addtional Storage for all Resources
+
+||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||
+CHANGELOGS
+||||||||||||||||||||||||||||||||||||||||
+08-22-21
+* Parking Slots allows crafting of Vehicle Upgrade Kits
+* Parking Slots allows repairing parked vehicles with Parts
+* Removed Leader Requirements to build Spartan Barracks and Dormitory Suite
+* Having Base Power negates morale penalty for Spartan Barracks
+* Rain Collector water access is now passive instead of an action
+* Powered Rain Collector increases Plague Resistance
