@@ -15,7 +15,7 @@ Allows crafting of Adv Attachments
 Removed Leader Requirement
 
 -Barracks
-Removed Leader Requirements for updates
+Removed Leader Requirements for upgrades
 Having power negates morale penalty of Spartan Barracks
 
 -Bedrolls
