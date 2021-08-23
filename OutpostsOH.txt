@@ -44,7 +44,7 @@ Bar Outpost
 ~ Provides Knowledge of Alcohol, Cooking, Cuisine and Nutrition
 ~ Tasting Room functions
 
-Church Outpost
+Church Outpost [Only in Drucker County]
 ~ Provides Morale Buffs [Morale Benefit Increases as your community increases in size]
 ~ Provides +1 to all Resource types everyday [Activates when community is large enough]
 ~ Provides 4 Beds
@@ -105,12 +105,12 @@ Auto Shop Outpost [Auto Shop buildings]
 Radio Booster/Tower Outpost
 ~ Function to call +3 Labor Buff
 
-Nursery Outposts [Greenhouse, Nursery]
+Nursery Outposts [Greenhouse, Nursery Buildings]
 ~ Can use seeds to increase yield
 ~ Nursery Outpost 1 yields food, can be converted to yield meds
 ~ Nursery Outpost 2 yields both food and meds at the same time
 
-Post Office/Library Outpost
+Post Office/Library Outpost [Providence, Cascade and Drucker Maps Only]
 ~ Allows crafting of Skill Books
 
 =======================================
