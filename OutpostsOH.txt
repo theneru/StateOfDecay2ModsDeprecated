@@ -40,6 +40,15 @@ Ammo Outpost
 ~ Ammo Outpost 2 will have Workshop 2 Crafting Actions
 ~ Ammo Outpost 3 will have Workshop 3 Crafting Actions
 
+Bar Outpost
+~ Provides Knowledge of Alcohol, Cooking, Cuisine and Nutrition
+~ Tasting Room functions
+
+Church Outpost
+~ Provides Morale Buffs [Morale Benefit Increases as your community increases in size]
+~ Provides +1 to all Resource types everyday [Activates when community is large enough]
+~ Provides 4 Beds
+
 Food Outpost
 ~ Food Outpost 2 will have Kitchen 1 functions
 ~ Food Outpost 3 will have Kitchen 2 functions
@@ -136,6 +145,11 @@ Future updates
 ~ Nothing. For now.
 =======================================
 Changelogs
+[08-23-21]
+~ Added Bar Outpost
+~ Added Church Outpost
+~ Nursery Outposts accepts facility mods again
+
 [08-13-21]
 ~ Added Post Office Outpost
 ~ Added Library Outpost
