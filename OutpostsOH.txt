@@ -36,6 +36,8 @@ All Resource Outposts
 ~ Outposts that generate resource will cost 1 Labor
 
 Ammo Outpost
+~ Ammo Outpost 1 Allows crafting of Small Firearms [Revolvers]
+~ Ammo Outpost 2 and 3 Allows crafting of Small Firearms
 ~ Ammo Outpost 2 and 3 allows you to craft small caliber ammo
 ~ Ammo Outpost 2 will have Workshop 2 Crafting Actions
 ~ Ammo Outpost 3 will have Workshop 3 Crafting Actions
@@ -145,6 +147,12 @@ Future updates
 ~ Nothing. For now.
 =======================================
 Changelogs
+[01-13-22]
+~ Added function to craft small firearms in Ammo Outpost
+
+[12-27-21]
+~ Updated for Update 28
+
 [08-23-21]
 ~ Added Bar Outpost
 ~ Added Church Outpost
