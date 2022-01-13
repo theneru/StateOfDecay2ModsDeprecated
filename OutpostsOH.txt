@@ -94,7 +94,7 @@ Safehouse Scavenge Base
 
 Safehouse Lounge
 ~ +4 Beds
-~ Lounge 2 Factions
+~ Lounge 2 Functions
 ~ Lounge 2 Passives
 
 Self Sufficient Safehouse
