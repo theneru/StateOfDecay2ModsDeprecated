@@ -18,7 +18,7 @@ Library Outpost -> Drucker and Cascade has this building
 Church Outpost -> Drucker and Trumbull valley has this building.
 
 Q: Will you ever update the No Labor version to have the latest changes in the one with Labor Cost
-A: I just did. And is based on V1.1.1
+A: I just did. And is based on V1.1.1. But I might not update it regularly.
 
 Q: Why can't I upgrade the Nursery and Safehouse Outposts?
 A: You need the State of Decay 2 Mod Manager by KaiHeilos to integrate those new Outposts.
