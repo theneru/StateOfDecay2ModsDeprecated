@@ -15,6 +15,7 @@ A: Autoshop Outpost -> Basically an Autoshop Building [Can be found in all maps]
 Nursery Outpost -> Plant Nursery/Greenhouses [Notably Meagher Valley has these buildings]
 Post Office Outpost -> Only Providence has this building
 Library Outpost -> Drucker and Cascade has this building
+Church Outpost -> Only Drucker has this building
 
 Q: Will you ever update the No Labor version to have the latest changes in the one with Labor Cost
 A: I just did. And is based on V1.1.1
@@ -78,8 +79,9 @@ Safehouse Outpost
 ~ Added Special Functions
 ~ Can deposit rucksack
 ~ Safehouse can be upgraded to Front Guard, Scavenge Base, Lounge, Self Sufficient
+===================================
 [[[[[Custom Safehouse Upgrades]]]]]
-Safehouse Frong Guard
+Safehouse Front Guard
 ~ +4 Beds
 ~ -6 Threat
 ~ -1 Ammo Per Day
@@ -100,6 +102,7 @@ Self Sufficient Safehouse
 ~ Base Wide Water and Power
 ~ -1 Labor
 [[[[[Custom Safehouse Upgrades]]]]]
+===================================
 
 
 Auto Shop Outpost [Auto Shop buildings]
