@@ -66,9 +66,8 @@ Allows repairing parked vehicles with parts
 Water Access is now passive
 When powered, increases Plague Resistance
 
--Watchtower 1/2
-Reduces Base Threat by 3
-Should have 3 Guards (Watchtower 2)
+-Watchtower 1 | 2
+Reduces Base Threat by 3 | Reduces Base Threat by 5
 
 -Staging Area
 Increases Base Action Speeds depending on the number of Community Members
@@ -88,6 +87,7 @@ Stamina Cost when using melee is reduced by 50%
 Grappling, Dodging, Melee and Finisher cost 50% less Stamina
 
 -Trade Depot
+Removed Leader Requirement
 Gain 1 Ammo, Food, Fuel, Material, Meds per day
 50 Addtional Storage for all Resources
 
