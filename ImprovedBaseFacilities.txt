@@ -21,11 +21,45 @@ Having power negates morale penalty of Spartan Barracks
 -Bedrolls
 +1 Additional Bed
 
+-Drucker Knight Drive-in Theater Projector
+Increased buff durations.
+
 -Lounge
 Increased duration of Morale Buffs
 
+-Projector Lounge
+Removed Leader Requirement
+Increased Morale Duration
+Added "Just Neru Stuff" category.
+||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||
+Just Neru Stuff functions
+||||||||||||||||||||||||||||||||||
+* Watch Conan the Barbarian
+Active character gains the trait High Pain Threshold
+
+* Watch Dragon Ball Super: Battle of Gods
+Active character gains the trait Daredevil
+
+* Watch Epic Movie
+Active character gains the trait Laughs Easily
+
+* Watch Final Fantasy VII: Advent Children
+Active character gains the trait Incredible Immune System
+
+* Watch Jesus
+Active characters recovers HP, removes trauma, injury and Blood Plague
+
+* Watch John Wick
+Active character gains the trait Decent Shot
+
+* Watch Rocky
+Active character gains the trait Just Keeps Going
+||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||
+
+
 -Sniper Tower
-Should have 3 Guards
 Removed Leader Requirement
 Function to Start a Siege
 [After the Siege, Community will have 0 Base Threat for 2 in-game days]
@@ -66,6 +100,9 @@ Allows repairing parked vehicles with parts
 Water Access is now passive
 When powered, increases Plague Resistance
 
+~Red Talon Watchtower
+No Daily Ammo Cost
+
 -Watchtower 1 | 2
 Reduces Base Threat by 3 | Reduces Base Threat by 5
 
@@ -95,6 +132,11 @@ Gain 1 Ammo, Food, Fuel, Material, Meds per day
 ||||||||||||||||||||||||||||||||||||||||
 CHANGELOGS
 ||||||||||||||||||||||||||||||||||||||||
+01-15-22
+* Updated for Update 28.1 Build 450170
+* Added new functions to the Projector Lounge
+* Removed Leader Req from Projector Lounge
+
 08-22-21
 * Parking Slots allows crafting of Vehicle Upgrade Kits
 * Parking Slots allows repairing parked vehicles with Parts
