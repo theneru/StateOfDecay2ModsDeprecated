@@ -105,6 +105,7 @@ No Daily Ammo Cost
 
 -Watchtower 1 | 2
 Reduces Base Threat by 3 | Reduces Base Threat by 5
+Should have 3 active Armed Guards
 
 -Staging Area
 Increases Base Action Speeds depending on the number of Community Members
@@ -132,6 +133,9 @@ Gain 1 Ammo, Food, Fuel, Material, Meds per day
 ||||||||||||||||||||||||||||||||||||||||
 CHANGELOGS
 ||||||||||||||||||||||||||||||||||||||||
+01-16-22
+* Added additional Guard Nodes to Watch Towers 1 and 2
+
 01-15-22
 * Updated for Update 28.1 Build 450170
 * Added new functions to the Projector Lounge
