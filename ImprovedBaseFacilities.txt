@@ -146,6 +146,7 @@ when water and power is available
 Rain Collector. (Passive Water and BP Res.)
 * Removed Dummy IBF (Improved Base Facilities) items from the
 Dev Menu.
+* Fixed Kitchen Icon for Outdoor Kitchen in Farm Homebase at Trumbull Valley [Homecoming]
 
 01-16-22
 * Added additional Guard Nodes to Watch Towers 1 and 2
