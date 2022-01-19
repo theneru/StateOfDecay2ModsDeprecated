@@ -83,6 +83,7 @@ Artillery/Military Outpost
 
 Police Station Outpost
 ~ +3 Ammo per day
+~ +25% Shooting Exp
 ~ Looking for Trades function [Find a random Wandering Trader]
 ~ Craft Weapons [Allows crafting of Pistols, Shotguns and Melee weapons.]
 
