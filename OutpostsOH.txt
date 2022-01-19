@@ -74,6 +74,11 @@ Artillery/Military Outpost
 ~ Unlocks 1 Outpost Slot
 ~ Unlocks Radio Command to find Fatigues/Military
 
+Police Station Outpost
+~ +3 Ammo per day
+~ Looking for Trades function [Find a random Wandering Trader]
+~ Craft Weapons [Allows crafting of Pistols, Shotguns and Melee weapons.]
+
 Safehouse Outpost
 ~ +4 Beds
 ~ Added Special Functions
@@ -151,6 +156,9 @@ Future updates
 ~ Nothing. For now.
 =======================================
 Changelogs
+[01-20-22]
+~ Added new Outpost, Police Station Outpost
+
 [01-13-22]
 ~ Added function to craft small firearms in Ammo Outpost
 
