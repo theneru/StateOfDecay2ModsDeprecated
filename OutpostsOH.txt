@@ -16,6 +16,8 @@ Nursery Outpost -> Plant Nursery/Greenhouses [Notably Meagher Valley has these b
 Post Office Outpost -> Only Providence has this building. Trumbull Valley [Homecoming] has this building.
 Library Outpost -> Drucker and Cascade has this building
 Church Outpost -> Drucker and Trumbull valley has this building.
+Police Station Outpost -> Providence Ridge, Cascade Hills, Drucker County. Does not exist in Meagher Valley
+and Trumbull Valley [Homecoming]
 
 Q: Will you ever update the No Labor version to have the latest changes in the one with Labor Cost
 A: I just did. And is based on V1.1.1. But I might not update it regularly.
