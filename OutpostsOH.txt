@@ -44,6 +44,10 @@ Outpost Overhaul Mod
 All Resource Outposts
 ~ Outposts that generate resource will cost 1 Labor
 
+All Outpost [If not all then most]
+~ Removed the ability to learn or gain EXP for 5th skills.
+Instead use the Library or Post Office Outpost to learn/improve 5th skills
+
 Ammo Outpost
 ~ Ammo Outpost 1 Allows crafting of Small Firearms [Revolvers]
 ~ Ammo Outpost 2 and 3 Allows crafting of Small Firearms
