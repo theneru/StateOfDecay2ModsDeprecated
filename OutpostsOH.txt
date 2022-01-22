@@ -134,7 +134,9 @@ Nursery Outposts [Greenhouse, Nursery Buildings]
 ~ Nursery Outpost 2 yields both food and meds at the same time
 
 Post Office/Library Outpost [Providence, Cascade and Drucker Maps Only]
-~ Allows crafting of Skill Books
+~ Allows crafting of Community Skill Books
+~ Allows crafting of Quirk Skill Books
+~ Allows crafting of Respec Skill Books
 
 =======================================
 =======================================
