@@ -5,6 +5,10 @@ https://www.paypal.me/TheNeru
 https://ko-fi.com/theneru
 
 ¯\_(ツ)_/¯ Shameless Donation links insertion end. ¯\_(ツ)_/¯
+||||||||||||||||||||||||||||||||||||||||
+CREDITS AND KUDOS
+||||||||||||||||||||||||||||||||||||||||
+LonelyLucifer
 
 
 
@@ -20,6 +24,9 @@ Having power negates morale penalty of Spartan Barracks
 
 -Bedrolls
 +1 Additional Bed
+
+-Bed Facilities
+Sleep Function [Removes Fatigue, Trauma and full restores HP. Moves/Sets time to 5am]
 
 -Drucker Knight Drive-in Theater Projector
 Increased buff durations.
@@ -136,6 +143,11 @@ Gain 1 Ammo, Food, Fuel, Material, Meds per day
 ||||||||||||||||||||||||||||||||||||||||
 CHANGELOGS
 ||||||||||||||||||||||||||||||||||||||||
+01-24-22
+* Added Sleep function to all Bed Facilities
+* All Kitchens (Built-ins included) now increase Blood Plague Resistance
+when water and power is available [Should definitely affect all now]
+
 01-18-22
 * Added an additional Guard for the Sniper Tower
 * Hot Water Access buff no longer requires Solar Array
