@@ -147,6 +147,7 @@ CHANGELOGS
 * Added Sleep function to all Bed Facilities
 * All Kitchens (Built-ins included) now increase Blood Plague Resistance
 when water and power is available [Should definitely affect all now]
+* Fixed crash when building Bedrolls [Outdoor and Indoor]
 
 01-18-22
 * Added an additional Guard for the Sniper Tower
