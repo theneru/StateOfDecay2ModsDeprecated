@@ -11,9 +11,9 @@ CREDITS AND KUDOS
 LonelyLucifer
 
 
-
-Improved Base Facilities
-
+||||||||||||||||||||||||||||||||||||||||
+Improved Base Facilities Info
+||||||||||||||||||||||||||||||||||||||||
 -Armory
 Allows crafting of Adv Attachments
 Removed Leader Requirement
@@ -27,6 +27,9 @@ Having power negates morale penalty of Spartan Barracks
 
 -Bed Facilities
 Sleep Function [Removes Fatigue, Trauma and full restores HP. Moves/Sets time to 5am]
+
+-CLEO Relay
+Modified the rewards for CLEO Drops
 
 -Drucker Knight Drive-in Theater Projector
 Increased buff durations.
@@ -92,6 +95,9 @@ Doubled Storage Size
 -Generator 1/2/3
 Increased Power Duration
 
+-Haven Device
+Allows the community to call CLEO Drops [Modified]
+
 -Hydroponics
 Removed Convert Option
 Yields 5 Food and Meds
@@ -139,10 +145,53 @@ Removed Leader Requirement
 Gain 1 Ammo, Food, Fuel, Material, Meds per day
 50 Addtional Storage for all Resources
 
+
+||||||||||||||||||||||||||||||||||||||||
+[CLEO Supply Drop modifications]
+||||||||||||||||||||||||||||||||||||||||
+Ammo Drop
+----------------------------------------
+556 Rounds
+762 Rounds
+12G Rounds
+.44 Rounds
+.45 Rounds
+.50 Cal Rounds
+CLEO Rounds
+1 Ammo Rucksack
+----------------------------------------
+----------------------------------------
+Weapon Drop
+----------------------------------------
+[Set 1]
+CLEO Guns
+CLEO Attachments
+
+[Set 2]
+Echo Guns Series
+Adv. Chokes
+Adv. Suppressors
+
+[Set 3]
+RTX Guns Series
+Adv. Brake
+
+[Set 4]
+High Caliber Guns
+----------------------------------------
+----------------------------------------
+||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||
+
 ||||||||||||||||||||||||||||||||||||||||
 ||||||||||||||||||||||||||||||||||||||||
 CHANGELOGS
 ||||||||||||||||||||||||||||||||||||||||
+01-26-22
+* Added Sleep function to all Bunkroom/Bunkbed Facilities
+* Added CLEO Drop functions from the CLEO Relay to the Haven Device
+* Modified the rewards for the CLEO Drops
+
 01-24-22
 * Added Sleep function to all Bed Facilities
 * All Kitchens (Built-ins included) now increase Blood Plague Resistance
