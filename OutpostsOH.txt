@@ -23,6 +23,8 @@ Library Outpost -> Drucker and Cascade has this building
 Church Outpost -> Drucker and Trumbull valley has this building.
 Police Station Outpost -> Providence Ridge, Cascade Hills, Drucker County. Does not exist in Meagher Valley
 and Trumbull Valley [Homecoming]
+Factory Outposts -> [Factory Buildings] Trumbull Valley and Meagher Valley. [Workshop Buildings] Cascade Hills, Meagher Valley and Drucker County.
+Factory Outpost is not present in Providence. [I could be wrong and scanned the map sleepily/lazily]
 
 Q: Will you ever update the No Labor version to have the latest changes in the one with Labor Cost
 A: I just did. And is based on V1.1.1. But I might not update it regularly.
@@ -64,6 +66,12 @@ Church Outpost [Only in Drucker County and Trumbull Valley]
 ~ Provides +1 to all Resource types everyday [Activates when community is large enough]
 ~ Provides 4 Beds
 
+Factory Outpost
+~ +3 Materials
+~ Allows crafting of 3 to 6 Random Blade type weapons
+~ Allows crafting of 3 to 6 Random Blunt type weapons
+~ Allows crafting of 2 to 4 Random Heavy type weapons
+
 Food Outpost
 ~ Food Outpost 2 will have Kitchen 1 functions
 ~ Food Outpost 3 will have Kitchen 2 functions
@@ -84,6 +92,8 @@ Artillery/Military Outpost
 ~ Allows you to craft high caliber rounds
 ~ Unlocks 1 Outpost Slot
 ~ Unlocks Radio Command to find Fatigues/Military
+~ Allows you to call CLEO for Ammo and Weapon drops
+[Modified Siege Rewards. Based on Improved Base Facilities mod]
 
 Police Station Outpost
 ~ +3 Ammo per day
@@ -170,6 +180,10 @@ Future updates
 ~ Nothing. For now.
 =======================================
 Changelogs
+[01-27-22]
+~ Added new Outpost, Factory Outpost
+~ Artillery/Military Outposts allows you to call CLEO for Ammo and Weapon Drops
+
 [01-20-22]
 ~ Added new Outpost, Police Station Outpost
 
