@@ -72,11 +72,20 @@ Church Outpost [Only in Drucker County and Trumbull Valley]
 ~ Provides +1 to all Resource types everyday [Activates when community is large enough]
 ~ Provides 4 Beds
 
-Factory Outpost
+Factory Outpost (v1)
 ~ +3 Materials
 ~ Allows crafting of 3 to 6 Random Blade type weapons
 ~ Allows crafting of 3 to 6 Random Blunt type weapons
 ~ Allows crafting of 2 to 4 Random Heavy type weapons
+[NOTE 1
+[Bounty and DLC locked weapons are excluded
+[NOTE 2
+[Warehouse Buildings may be subject to change for a new outpost type.
+[NOTE 3
+[FOP is still in V1. I might further work on it allowing to craft each individual
+[melee weapons. But that's alot of work to do. I may or may not go through it.
+[Incentivize me by buying me Ko-fi ~not really~. It would go well with my biscuits, or bread.
+[Bad jokes aside. Thanks for reading this nonsense and have a Goo'Day
 
 Food Outpost
 ~ Food Outpost 2 will have Kitchen 1 functions
