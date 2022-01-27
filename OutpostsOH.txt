@@ -32,6 +32,12 @@ A: I just did. And is based on V1.1.1. But I might not update it regularly.
 Q: Why can't I upgrade the Nursery and Safehouse Outposts?
 A: You need the State of Decay 2 Mod Manager by KaiHeilos to integrate those new Outposts.
 
+Q: Why does my game crash when approaching X Outpost?
+A: You need the State of Decay 2 Mod Manager by KaiHeilos to integrate those new Outposts.
+
+Q: Why can't I see Homebases and Survey Points at the start?
+A: I've hidden them as of V1.1.55.
+
 Q: Can't you just add a toggle button to enable the facility functions at the cost of Labor?
 A: I definitely can, but I am limited to 5 buttons at most. That and it doesn't sit right
 with me that the community is still gaining resources from the outpost without the cost of Labor.
@@ -143,7 +149,7 @@ Nursery Outposts [Greenhouse, Nursery Buildings]
 ~ Nursery Outpost 1 yields food, can be converted to yield meds
 ~ Nursery Outpost 2 yields both food and meds at the same time
 
-Post Office/Library Outpost [Providence, Cascade and Drucker Maps Only]
+Post Office/Library Outpost/Upper Office Outpost
 ~ Allows crafting of Community Skill Books
 ~ Allows crafting of Quirk Skill Books
 ~ Allows crafting of Respec Skill Books
@@ -182,7 +188,9 @@ Future updates
 Changelogs
 [01-27-22]
 ~ Added new Outpost, Factory Outpost
+~ Added new Outpost, Upper Office Outpost
 ~ Artillery/Military Outposts allows you to call CLEO for Ammo and Weapon Drops
+~ Homebases/Survey Points are now hidden from initial arrival in the map
 
 [01-20-22]
 ~ Added new Outpost, Police Station Outpost
