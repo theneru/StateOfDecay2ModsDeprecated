@@ -9,11 +9,16 @@ https://ko-fi.com/theneru
 CREDITS AND KUDOS
 ||||||||||||||||||||||||||||||||||||||||
 LonelyLucifer
+ZOD C 137
 
 
 ||||||||||||||||||||||||||||||||||||||||
 Improved Base Facilities Info
 ||||||||||||||||||||||||||||||||||||||||
+-All Daybreak Facilities
+Daybreak Facilities no longer require DB Item Rewards to build
+Now it only requires Command Center 3
+
 -Armory
 Allows crafting of Adv Attachments
 Removed Leader Requirement
@@ -116,8 +121,16 @@ Allows repairing parked vehicles with parts
 Water Access is now passive
 When powered, increases Plague Resistance
 
-~Red Talon Watchtower
+-Red Talon Watchtower
 No Daily Ammo Cost
+
+-Red Talon Workshop [Including the RT FOB in Trumbull(Homecoming)]
+All Ammo Calibers can now be crafted
+Pro. and Adv. attachments can now be crafted
+CLEO attachments can now be crafted
+CLEO and RTX series guns can now be crafted
+Red Talon throwables, placeables can now be crafted
+Stops Weapon Degredation [Requires Metalworking]
 
 -Watchtower 1 | 2
 Reduces Base Threat by 3 | Reduces Base Threat by 5
@@ -187,6 +200,15 @@ High Caliber Guns
 ||||||||||||||||||||||||||||||||||||||||
 CHANGELOGS
 ||||||||||||||||||||||||||||||||||||||||
+01-29-22
+* Improved Red Talon Workshop [RTWS]
+* All Ammo Calibers can now be crafted at the Red Talon Workshop
+* CLEO and RTX series guns can now be crafted at the Red Talon Workshop
+* Red Talon throwables, placeables can now be crafted at the Red Talon Workshop
+* Professional, Advance and CLEO attachments can now be crafted at the Red Talon Workshop
+* Red Talon Workshop stops weapon degradation [Requires Metalworking]
+* All Daybreak facilities now require Level 3 Command Center instead of DB Item Rewards
+
 01-26-22
 * Added Sleep function to all Bunkroom/Bunkbed Facilities
 * Added CLEO Drop functions from the CLEO Relay to the Haven Device
