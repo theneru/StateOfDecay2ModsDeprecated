@@ -31,7 +31,26 @@ Having power negates morale penalty of Spartan Barracks
 +1 Additional Bed
 
 -Bed Facilities
-Sleep Function [Removes Fatigue, Trauma and full restores HP. Moves/Sets time to 5am]
+Sleep Function [Allows skipping Night Time]
+[NOTE: Can only sleep between 7PM and 3AM]
+[NOTE: Has random effects!]
+||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||
+Random Sleep Effects
+||||||||||||||||||||||||||||||||||
+REffect 1: Trauma is not removed if the Character did not sleep well.
+Fatigue is removed, Stamina and Health is restored.
+[NOTE: Character is automatically locked into this]
+[effect when sleeping after 12AM]
+
+REffect 2: Health and Stamina is restored, Fatigue and Trauma is removed
+if the character slept well.
+
+REffect 3: Same as REffect 2 but injuries are removed.
+
+REEffect 4: Same as REffect 2 and 3. But the character regenerates Health and
+Stamina for between 5 to 10 minutes.
+||||||||||||||||||||||||||||||||||
 
 -CLEO Relay
 Modified the rewards for CLEO Drops
@@ -48,6 +67,8 @@ Increased duration of Morale Buffs
 -Projector Lounge
 Removed Leader Requirement
 Increased Morale Duration
+Photoradiogram Functions [Craft Skill Books]
+Ability to craft Clean Paper [Used for Crafting Skill Books]
 Added "Just Neru Stuff" category.
 ||||||||||||||||||||||||||||||||||
 ||||||||||||||||||||||||||||||||||
@@ -116,6 +137,12 @@ Increased buff duration of Cook Feast
 -Parking Slots
 Allows crafting of Vehicle Upgrades without Autoshop facility
 Allows repairing parked vehicles with parts
+
+-Radio Room 2 and 3
+Ability to move to waypoint placed on the map
+[NOTE1: Place a map marker first before activating the command]
+[NOTE2: Avoid Placing the marker on top of icons/buildings/high elevated areas/off the map]
+[NOTE3: A Random car near you will be transported to the destination as well]
 
 -Rain Collector
 Water Access is now passive
@@ -200,6 +227,13 @@ High Caliber Guns
 ||||||||||||||||||||||||||||||||||||||||
 CHANGELOGS
 ||||||||||||||||||||||||||||||||||||||||
+03-09-22
+* Added Photoradiogram actions to the Projector Lounge.
+* Added Craft Clean Paper to Projector Lounge
+* Added Travel to Waypoint action to Command Center 2 and 3.
+[NOTE: Place a map marker before activating the command]
+* Improved the Sleep Function [Read Bed Facilities for Specifics]
+
 01-29-22
 * Improved Red Talon Workshop [RTWS]
 * All Ammo Calibers can now be crafted at the Red Talon Workshop
