@@ -94,6 +94,9 @@ Food Outpost
 Fuel Outpost
 ~ Can craft Molotovs and Fuel Bombs with Filling Machine Effect
 
+Landmark Outposts
+~ Fast Travel to Map Marker is possible
+
 Materials Outpost
 ~ Materials Outpost 2 and 3 will have Sawmill Functions
 
@@ -121,6 +124,7 @@ Safehouse Outpost
 ~ Added Special Functions
 ~ Can deposit rucksack
 ~ Safehouse can be upgraded to Front Guard, Scavenge Base, Lounge, Self Sufficient
+~ Can Sleep in Safehouse Outposts to skip the night
 ===================================
 [[[[[Custom Safehouse Upgrades]]]]]
 Safehouse Front Guard
@@ -195,6 +199,10 @@ Future updates
 ~ Nothing. For now.
 =======================================
 Changelogs
+[03-09-22]
+~ Added Sleep Function to Safehouse Outposts all versions
+~ Added Fast Travel to Waypoint to all Landmarks and Landmark Strategies
+
 [01-27-22]
 ~ Added new Outpost, Factory Outpost
 ~ Added new Outpost, Upper Office Outpost
