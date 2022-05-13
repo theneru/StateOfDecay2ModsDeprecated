@@ -137,8 +137,12 @@ Increased buff duration of Cook Feast
 -Parking Slots
 Allows crafting of Vehicle Upgrades without Autoshop facility
 Allows repairing parked vehicles with parts
+Allows building of Vehicles [Non-Apoc]
+[Brogan variants, Desperado, Legendre, Maximilian, Mega Max, Norma and Police Cruiser]
+[The other 17 cars will be added later]
 
 -Radio Room 2 and 3
+Ability to bring 2 followers with you
 Ability to move to waypoint placed on the map
 [NOTE1: Place a map marker first before activating the command]
 [NOTE2: Avoid Placing the marker on top of icons/buildings/high elevated areas/off the map]
@@ -227,6 +231,10 @@ High Caliber Guns
 ||||||||||||||||||||||||||||||||||||||||
 CHANGELOGS
 ||||||||||||||||||||||||||||||||||||||||
+05-13-22
+* Parking Spots allows building of Vehicles [Non-Apoc]
+* Added command to Radio Room 2 and 3 to have 2 followers
+
 03-09-22
 * Added Photoradiogram actions to the Projector Lounge.
 * Added Craft Clean Paper to Projector Lounge
