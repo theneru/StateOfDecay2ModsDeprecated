@@ -138,8 +138,7 @@ Increased buff duration of Cook Feast
 Allows crafting of Vehicle Upgrades without Autoshop facility
 Allows repairing parked vehicles with parts
 Allows building of Vehicles [Non-Apoc]
-[Brogan variants, Desperado, Legendre, Maximilian, Mega Max, Norma and Police Cruiser]
-[The other 17 cars will be added later]
+Allows scrapping of vehicles for parts, fuel and materials
 
 -Radio Room 2 and 3
 Ability to bring 2 followers with you
@@ -231,6 +230,10 @@ High Caliber Guns
 ||||||||||||||||||||||||||||||||||||||||
 CHANGELOGS
 ||||||||||||||||||||||||||||||||||||||||
+05-16-22
+* Added Scrap Vehicle function to parking slots
+* Added Icons to Vehicle Build actions in the parking slot
+
 05-13-22
 * Parking Spots allows building of Vehicles [Non-Apoc]
 * Added command to Radio Room 2 and 3 to have 2 followers
