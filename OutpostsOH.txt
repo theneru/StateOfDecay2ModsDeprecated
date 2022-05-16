@@ -63,6 +63,14 @@ Ammo Outpost
 ~ Ammo Outpost 2 will have Workshop 2 Crafting Actions
 ~ Ammo Outpost 3 will have Workshop 3 Crafting Actions
 
+Autoshop Outpost
+~ Behaves just like an Auto Shop Facility
+~ Allows you to repair and refuel your vehicle for free
+~ Allows you to scrap Vehicles for Parts, Fuel and Materials
+[Has 2 versions of Scrap function.]
+[1. Scrap vehicle and teleport back to home]
+[2. Scrap Vehicle without teleporting back to home]
+
 Bar Outpost
 ~ Provides Knowledge of Alcohol, Cooking, Cuisine and Nutrition
 ~ Tasting Room functions
@@ -199,6 +207,12 @@ Future updates
 ~ Nothing. For now.
 =======================================
 Changelogs
+[05-16-22]
+~ Added Build Vehicle funtions to Autoshop Outpost
+(Apoc Vehicles can now be built at this Outpost)
+~ Added Free Repair and Refuel at Autoshop Outpost
+~ Added Scrap Vehicle Function to the Autoshop Outpost
+
 [03-09-22]
 ~ Added Sleep Function to Safehouse Outposts all versions
 ~ Added Fast Travel to Waypoint to all Landmarks and Landmark Strategies
