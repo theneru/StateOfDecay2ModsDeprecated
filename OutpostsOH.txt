@@ -98,6 +98,7 @@ Factory Outpost (v1)
 Food Outpost
 ~ Food Outpost 2 will have Kitchen 1 functions
 ~ Food Outpost 3 will have Kitchen 2 functions
+~ Allows you to hire 2 NPCs to accompany you inexchange for food and influence
 
 Fuel Outpost
 ~ Can craft Molotovs and Fuel Bombs with Filling Machine Effect
@@ -212,6 +213,8 @@ Changelogs
 (Apoc Vehicles can now be built at this Outpost)
 ~ Added Free Repair and Refuel at Autoshop Outpost
 ~ Added Scrap Vehicle Function to the Autoshop Outpost
+~ Added function to the Food Outpost to hire other NPCs from other enclaves
+to accompany you in your travels
 
 [03-09-22]
 ~ Added Sleep Function to Safehouse Outposts all versions
