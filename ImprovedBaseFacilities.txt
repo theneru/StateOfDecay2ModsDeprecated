@@ -123,6 +123,12 @@ Increased Power Duration
 
 -Haven Device
 Allows the community to call CLEO Drops [Modified]
+Haven Program: Guardian CLEO - Provides Haven Protocol effect to the player controlled character.
+Zombies within 10m will be affected.
+Haven Program: Maximum Output - Once this function is active. All zombies just entering the Haven Protocol
+radius will immediately die.
+Haven Program: Haven Territory - Haven Protocol effect will affect every zombie in the territory. But
+the killing effect will sharply drop.
 
 -Hydroponics
 Removed Convert Option
@@ -230,6 +236,9 @@ High Caliber Guns
 ||||||||||||||||||||||||||||||||||||||||
 CHANGELOGS
 ||||||||||||||||||||||||||||||||||||||||
+05-27-22
+* Added Haven Programs
+
 05-16-22
 * Added Scrap Vehicle function to parking slots
 * Added Icons to Vehicle Build actions in the parking slot
