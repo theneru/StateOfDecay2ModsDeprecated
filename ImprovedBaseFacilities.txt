@@ -129,6 +129,7 @@ Haven Program: Maximum Output - Once this function is active. All zombies just e
 radius will immediately die.
 Haven Program: Haven Territory - Haven Protocol effect will affect every zombie in the territory. But
 the killing effect will sharply drop.
+[Only 1 Haven Program can be active.]
 
 -Hydroponics
 Removed Convert Option
