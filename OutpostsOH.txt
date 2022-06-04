@@ -74,6 +74,7 @@ Autoshop Outpost
 Bar Outpost
 ~ Provides Knowledge of Alcohol, Cooking, Cuisine and Nutrition
 ~ Tasting Room functions
+~ Function Craft Beer
 
 Church Outpost [Only in Drucker County and Trumbull Valley]
 ~ Provides Morale Buffs [Morale Benefit Increases as your community increases in size]
@@ -164,7 +165,10 @@ Auto Shop Outpost [Auto Shop buildings]
 ~ Outpost will have the Auto Shop facility functions
 
 Radio Booster/Tower Outpost
-~ Function to call +3 Labor Buff
+~ Function to call +3 or +6 Labor Buff
+~ Function to call community members to follow you
+~ Function to call Cash Beaumont and follow you temporarily
+~ Passive that provides all Quirk Skills
 
 Nursery Outposts [Greenhouse, Nursery Buildings]
 ~ Can use seeds to increase yield
@@ -208,6 +212,11 @@ Future updates
 ~ Nothing. For now.
 =======================================
 Changelogs
+[06-04-22]
+~ Added new passive to Radio Tower to provide all Quirk Skill buffs
+~ Added function to Radio Tower to call community members or Cash Beaumont to follow you
+~ Added function to craft beer at Bar Outpost
+
 [05-16-22]
 ~ Added Build Vehicle funtions to Autoshop Outpost
 (Apoc Vehicles can now be built at this Outpost)
