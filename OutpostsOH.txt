@@ -26,7 +26,7 @@ and Trumbull Valley [Homecoming]
 Factory Outposts -> [Factory Buildings] Trumbull Valley and Meagher Valley. [Workshop Buildings] Cascade Hills, Meagher Valley and Drucker County.
 Factory Outpost is not present in Providence. [I could be wrong and scanned the map sleepily/lazily]
 
-Q: Will you ever update the No Labor version to have the latest changes in the one with Labor Cost
+Q: Will you ever update the No Labor version to have the latest changes in the one with Labor Cost?
 A: I just did. And is based on V1.1.1. But I might not update it regularly.
 
 Q: Why can't I upgrade the Nursery and Safehouse Outposts?
