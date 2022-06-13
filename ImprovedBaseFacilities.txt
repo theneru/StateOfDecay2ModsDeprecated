@@ -146,6 +146,7 @@ Allows crafting of Vehicle Upgrades without Autoshop facility
 Allows repairing parked vehicles with parts
 Allows building of Vehicles [Non-Apoc]
 Allows scrapping of vehicles for parts, fuel and materials
+Allows towing cars far from base to be transported to the bases' parking slot
 
 -Radio Room 2 and 3
 Ability to bring 2 followers with you
@@ -237,6 +238,9 @@ High Caliber Guns
 ||||||||||||||||||||||||||||||||||||||||
 CHANGELOGS
 ||||||||||||||||||||||||||||||||||||||||
+06-13-22
+* Added function to parking lot that allows transporting cars to base
+
 05-27-22
 * Added Haven Programs
 
