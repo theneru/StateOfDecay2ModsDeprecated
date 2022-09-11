@@ -212,6 +212,9 @@ Future updates
 ~ Nothing. For now.
 =======================================
 Changelogs
+[09-11-22]
+~ Updated for U30
+
 [06-04-22]
 ~ Added new passive to Radio Tower to provide all Quirk Skill buffs
 ~ Added function to Radio Tower to call community members or Cash Beaumont to follow you
