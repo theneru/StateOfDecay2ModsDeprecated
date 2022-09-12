@@ -192,6 +192,9 @@ Nothing. For now...
 ==================================================================================
 
 # CHANGELOGS  
+09-12-22  
+Updated for U30
+
 02-22-21  
 Fixed Plague Heart loot  
 Fixed NPC interactions  
