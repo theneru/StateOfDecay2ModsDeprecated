@@ -117,6 +117,7 @@ Increased Yields (2)(2|3)(3|4) [This does not reflect properly in the Facility I
 
 -General Storage 1/2/3
 Doubled Storage Size
+Allows converting of resources into Rucksacks which will be placed inside the Supply Locker
 
 -Generator 1/2/3
 Increased Power Duration
@@ -238,6 +239,9 @@ High Caliber Guns
 ||||||||||||||||||||||||||||||||||||||||
 CHANGELOGS
 ||||||||||||||||||||||||||||||||||||||||
+09-25-22
+* Added new function to General Storage
+
 06-13-22
 * Added function to parking lot that allows transporting cars to base
 
