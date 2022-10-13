@@ -244,6 +244,7 @@ CHANGELOGS
 * Added Blackjack Minigame to Lounge Facilities
 * Improved the Vehicle Tow Function of Parking Slots
 * Improved the Vehicle Crafting of Parking Slots
+[Vehicles should properly spawn on Parking Slots now.]
 
 09-25-22
 * Added new function to General Storage
