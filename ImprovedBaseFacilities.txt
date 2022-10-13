@@ -63,6 +63,7 @@ Hot Water Access buff no longer requires Solar Array (Req. Water&Power)
 
 -Lounge
 Increased duration of Morale Buffs
+Function to play Blackjack Minigame
 
 -Projector Lounge
 Removed Leader Requirement
@@ -239,6 +240,11 @@ High Caliber Guns
 ||||||||||||||||||||||||||||||||||||||||
 CHANGELOGS
 ||||||||||||||||||||||||||||||||||||||||
+10-13-22
+* Added Blackjack Minigame to Lounge Facilities
+* Improved the Vehicle Tow Function of Parking Slots
+* Improved the Vehicle Crafting of Parking Slots
+
 09-25-22
 * Added new function to General Storage
 
